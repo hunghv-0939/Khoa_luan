@@ -1,0 +1,751 @@
+[
+  {
+    "text": "Em là học sinh lớp 6, em cần nhập mã sách ngữ văn vào sách mềm",
+    "entities": [
+      {
+        "start": 42,
+        "end": 49,
+        "value": "ngữ văn",
+        "entity": "subject"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "tôi là giáo viên cấp 3, tôi muốn nhập mã sách ngữ văn 11 thì nhập ở đâu nhỉ?",
+    "entities": [
+      {
+        "start": 46,
+        "end": 53,
+        "value": "ngữ văn",
+        "entity": "subject"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Chỉ con cách nhập mã môn văn vào phần mềm sách mềm với ạ.",
+    "entities": [
+      {
+        "start": 25,
+        "end": 28,
+        "value": "văn",
+        "entity": "subject"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "muốn sử dụng sách phải nhập mã, giờ có mã sách tiếng anh thì nhập vào đâu để dùng",
+    "entities": [
+      {
+        "start": 47,
+        "end": 56,
+        "value": "tiếng anh",
+        "entity": "subject"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "AZB1-1JZN-GA5E-5REB",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "AZB1-1JZN-GA5E-5REB",
+        "entity": "ma_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "WQFE-6QUT-WPIS-HTTF",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "WQFE-6QUT-WPIS-HTTF",
+        "entity": "ma_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "2DKQ-UFQ8-XJYW-VPDF",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "2DKQ-UFQ8-XJYW-VPDF",
+        "entity": "ma_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "B18-MFU9-5754",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "value": "B18-MFU9-5754",
+        "entity": "ma_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "BFV6-2U15-R7JS-QWWW",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "BFV6-2U15-R7JS-QWWW",
+        "entity": "ma_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "LSUA-1VBB-XH4H-VH58",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "LSUA-1VBB-XH4H-VH58",
+        "entity": "ma_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "2DQK-UFQ8-XJYW-VPDF",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "2DQK-UFQ8-XJYW-VPDF",
+        "entity": "ma_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "6MPM-K89W-UBNN-8577",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "6MPM-K89W-UBNN-8577",
+        "entity": "ma_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "1T7X-G1L4-CFET-F6U1",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "1T7X-G1L4-CFET-F6U1",
+        "entity": "ma_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "MUZZ-1NXZ-9F4G-C9AG",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "MUZZ-1NXZ-9F4G-C9AG",
+        "entity": "ma_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "HY1T-23ZC-4IO0-18PA",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "HY1T-23ZC-4IO0-18PA",
+        "entity": "ma_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "N9N7-MZ12-4YGY-NK32",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "N9N7-MZ12-4YGY-NK32",
+        "entity": "ma_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "7X6X-D8EG-TXC2-2HFC",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "7X6X-D8EG-TXC2-2HFC",
+        "entity": "ma_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "JGXB-T8FL-6V6F-BT99",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "JGXB-T8FL-6V6F-BT99",
+        "entity": "ma_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "FUZ3-2A8M-YLJV-D4GZ",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "FUZ3-2A8M-YLJV-D4GZ",
+        "entity": "ma_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "SESR-BXCT-MCSR-N891",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "SESR-BXCT-MCSR-N891",
+        "entity": "ma_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "4AML-9NKW-7X6P-D89E",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "4AML-9NKW-7X6P-D89E",
+        "entity": "ma_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "BX37-WEG1-6D2P-ASIY",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "BX37-WEG1-6D2P-ASIY",
+        "entity": "ma_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "NJNB-I55T-7PUA-H1QX",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "NJNB-I55T-7PUA-H1QX",
+        "entity": "ma_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "3NB6-L9M1-J25W-5X5I",
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "value": "3NB6-L9M1-J25W-5X5I",
+        "entity": "ma_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Trang web không phản hồi nhé.",
+    "entities": [
+      {
+        "start": 10,
+        "end": 24,
+        "value": "không phản hồi",
+        "entity": "error"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "xem_dap_an",
+        "start": 10,
+        "end": 15,
+        "extractor": "DIETClassifier",
+        "value": "không"
+      },
+      {
+        "entity": "error",
+        "start": 16,
+        "end": 24,
+        "extractor": "DIETClassifier",
+        "value": "phản hồi"
+      }
+    ]
+  },
+  {
+    "text": "tôi đăng ký ních giáo viên mà bài có đáp án bài thì không?",
+    "entities": [
+      {
+        "start": 17,
+        "end": 26,
+        "value": "giáo viên",
+        "entity": "type_account"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "type_account",
+        "start": 17,
+        "end": 26,
+        "extractor": "DIETClassifier",
+        "value": "giáo viên"
+      },
+      {
+        "entity": "xem_dap_an",
+        "start": 37,
+        "end": 43,
+        "extractor": "DIETClassifier",
+        "value": "đáp án"
+      }
+    ]
+  },
+  {
+    "text": "mình đã trả lời sai 3 lần rồi, giờ xem đáp án chi tiết kiểu gì ạ?",
+    "entities": [
+      {
+        "start": 39,
+        "end": 54,
+        "value": "đáp án chi tiết",
+        "entity": "xem_dap_an"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "đáp án cho tài khoản học sinh của em ít vậy",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "value": "học sinh",
+        "entity": "type_account"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "type_account",
+        "start": 21,
+        "end": 29,
+        "extractor": "DIETClassifier",
+        "value": "học sinh"
+      },
+      {
+        "entity": "xem_dap_an",
+        "start": 34,
+        "end": 36,
+        "extractor": "DIETClassifier",
+        "value": "em"
+      }
+    ]
+  },
+  {
+    "text": "sách con tôi với bạn học đều có chung mã sách nên nhập đang bị lỗi ạ.",
+    "entities": [
+      {
+        "start": 32,
+        "end": 45,
+        "value": "chung mã sách",
+        "entity": "ma_gia"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "ma_gia",
+        "start": 0,
+        "end": 4,
+        "extractor": "DIETClassifier",
+        "value": "sách"
+      },
+      {
+        "entity": "ma_gia",
+        "start": 32,
+        "end": 45,
+        "extractor": "DIETClassifier",
+        "value": "chung mã sách"
+      }
+    ]
+  },
+  {
+    "text": "Mình có mua 2 quyển sách tiếng anh tập 1, 2 mà về xem cả 2 đều có chung một mã sách thì giờ nhập kiểu gì ạ?",
+    "entities": [
+      {
+        "start": 66,
+        "end": 83,
+        "value": "chung một mã sách",
+        "entity": "ma_gia"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Tôi thấy các sách của học sinh lớp tôi đều có mã giống nhau, giờ nhập vào bị lỗi mã đã được sử dụng",
+    "entities": [
+      {
+        "start": 46,
+        "end": 59,
+        "value": "mã giống nhau",
+        "entity": "ma_gia"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "ma_gia",
+        "start": 46,
+        "end": 59,
+        "extractor": "DIETClassifier",
+        "value": "mã giống nhau"
+      },
+      {
+        "entity": "ma_gia",
+        "start": 82,
+        "end": 84,
+        "extractor": "DIETClassifier",
+        "value": "ã "
+      }
+    ]
+  },
+  {
+    "text": "Mình mới nhập mã sách mềm tiếng anh 9, không biết sách này dùng được bao lâu?",
+    "entities": [
+      {
+        "start": 59,
+        "end": 76,
+        "value": "dùng được bao lâu",
+        "entity": "thoi_han"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Mình muốn thử nghiệm tiếng anh và toán học",
+    "entities": [
+      {
+        "start": 22,
+        "end": 43,
+        "value": "tiếng anh và toán học",
+        "entity": "ten_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "hãy gửi cho tôi sách giải toán lớp 7 nha",
+    "entities": [
+      {
+        "start": 17,
+        "end": 41,
+        "value": "sách giải toán lớp 7",
+        "entity": "ten_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Sách mềm tiếng anh lớp 5",
+    "entities": [
+      {
+        "start": 9,
+        "end": 24,
+        "value": "tiếng anh lớp 5",
+        "entity": "ten_sach"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "ten_sach",
+        "start": 0,
+        "end": 4,
+        "extractor": "DIETClassifier",
+        "value": "Sách"
+      },
+      {
+        "entity": "ten_sach",
+        "start": 9,
+        "end": 24,
+        "extractor": "DIETClassifier",
+        "value": "tiếng anh lớp 5"
+      }
+    ]
+  },
+  {
+    "text": "Xin hỏi về sách my phonics ạ",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "value": "my phonics",
+        "entity": "ten_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Add ơi, cho mình hỏi sách bài tập bổ trợ và nâng cao tiếng anh thì có sách mềm không ạ?",
+    "entities": [
+      {
+        "start": 21,
+        "end": 62,
+        "value": "sách bài tập bổ trợ và nâng cao tiếng anh",
+        "entity": "ten_sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "chuẩn bị có bài kiểm tra 1 tiết, em muốn xem tổng hợp các kiến thức của các bài trước. nhưng không biết ứng dụng có tổng hợp hay không, và nếu có thì ở chỗ nào ạ",
+    "entities": [
+      {
+        "start": 45,
+        "end": 67,
+        "value": "tổng hợp các kiến thức",
+        "entity": "sach"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Mình là giáo viên tiếng anh nghe nói được miễn phí sử dụng sách mềm mà không thể tải được sách.",
+    "entities": [
+      {
+        "start": 71,
+        "end": 94,
+        "value": "không thể tải được sách",
+        "entity": "tinh_nang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tinh_nang",
+        "start": 37,
+        "end": 41,
+        "extractor": "DIETClassifier",
+        "value": "được"
+      },
+      {
+        "entity": "tinh_nang",
+        "start": 59,
+        "end": 63,
+        "extractor": "DIETClassifier",
+        "value": "sách"
+      },
+      {
+        "entity": "tinh_nang",
+        "start": 71,
+        "end": 94,
+        "extractor": "DIETClassifier",
+        "value": "không thể tải được sách"
+      }
+    ]
+  },
+  {
+    "text": "Tôi không thể ghi âm phần luyện nói Point and Say được. Sách mềm hướng dẫn tôi một cách chi tiết phần ghi âm này được không? Tôi cần thêm thiết bị gì và tải thêm phần mềm gì.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 20,
+        "value": "không thể ghi âm",
+        "entity": "tinh_nang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tinh_nang",
+        "start": 4,
+        "end": 20,
+        "extractor": "DIETClassifier",
+        "value": "không thể ghi âm"
+      },
+      {
+        "entity": "tinh_nang",
+        "start": 103,
+        "end": 109,
+        "extractor": "DIETClassifier",
+        "value": "hi âm "
+      }
+    ]
+  },
+  {
+    "text": "sách mềm có thể download về laptop được không hay chỉ dạy cho các em học sinh trên trang web sachmem.vn?",
+    "entities": [
+      {
+        "start": 9,
+        "end": 24,
+        "value": "có thể download",
+        "entity": "tinh_nang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tinh_nang",
+        "start": 0,
+        "end": 24,
+        "extractor": "DIETClassifier",
+        "value": "sách mềm có thể download"
+      }
+    ]
+  },
+  {
+    "text": "bạn ơi mình tải sách mềm sao không được",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "value": "tải sách",
+        "entity": "tinh_nang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tinh_nang",
+        "start": 12,
+        "end": 24,
+        "extractor": "DIETClassifier",
+        "value": "tải sách mềm"
+      }
+    ]
+  },
+  {
+    "text": "mình có tải video trên sách mềm được không bạn",
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "value": "tải video",
+        "entity": "tinh_nang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tinh_nang",
+        "start": 8,
+        "end": 17,
+        "extractor": "DIETClassifier",
+        "value": "tải video"
+      },
+      {
+        "entity": "tinh_nang",
+        "start": 28,
+        "end": 31,
+        "extractor": "DIETClassifier",
+        "value": "mềm"
+      }
+    ]
+  },
+  {
+    "text": "muốn tải sách mềm về và có sách dùng thì làm sao ạ",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "value": "tải sách",
+        "entity": "tinh_nang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tinh_nang",
+        "start": 5,
+        "end": 17,
+        "extractor": "DIETClassifier",
+        "value": "tải sách mềm"
+      },
+      {
+        "entity": "tinh_nang",
+        "start": 27,
+        "end": 31,
+        "extractor": "DIETClassifier",
+        "value": "sách"
+      }
+    ]
+  },
+  {
+    "text": "Tôi đã cài đặt thành công Save Webpage as...nhưng vẫn không tải được bản Word. Xin giúp đỡ ạ",
+    "entities": [
+      {
+        "start": 54,
+        "end": 77,
+        "value": "không tải được bản Word",
+        "entity": "tinh_nang"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "em xin h­ướng dẫn tải đề thi ở sách mềm bản word với ạ",
+    "entities": [
+      {
+        "start": 18,
+        "end": 28,
+        "value": "tải đề thi",
+        "entity": "tinh_nang"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Admin ơi, admin cho em xin file PDF sách giáo khoa chương trình mới lớp 12 được không ạ?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 35,
+        "value": "xin file PDF",
+        "entity": "tinh_nang"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "sachmem hướng dẫn tôi sử dụng cách tải file ppt, slide nhé",
+    "entities": [
+      {
+        "start": 35,
+        "end": 54,
+        "value": "tải file ppt, slide",
+        "entity": "tinh_nang"
+      }
+    ],
+    "predicted_entities": []
+  }
+]

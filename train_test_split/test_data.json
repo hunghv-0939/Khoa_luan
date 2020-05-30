@@ -1,0 +1,1001 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "lien_he",
+        "text": "Nhờ chương trình kiểm tra cho tài khoản tuletanloc@gmail.com đã được cấp mã dùng sách mềm chưa."
+      },
+      {
+        "intent": "lien_he",
+        "text": "email của sách mềm là gì mình muốn nhờ kiểm tra tài khoản này với"
+      },
+      {
+        "intent": "nhap_ma",
+        "entities": [
+          {
+            "start": 28,
+            "end": 37,
+            "value": "tiếng anh",
+            "entity": "subject"
+          }
+        ],
+        "text": "Admin hướng dẫn tôi nhập mã tiếng anh lớp 9 với nhé"
+      },
+      {
+        "intent": "nhap_ma",
+        "text": "Cô nhập mã cho em đi ạ"
+      },
+      {
+        "intent": "nhap_ma",
+        "entities": [
+          {
+            "start": 34,
+            "end": 43,
+            "value": "tiếng anh",
+            "entity": "subject"
+          }
+        ],
+        "text": "Bạn cho hỏi cách nhập mã của sách tiếng anh lớp 6 tập 2"
+      },
+      {
+        "intent": "nhap_ma",
+        "text": "nhập cho tôi sách mềm chưa"
+      },
+      {
+        "intent": "nhap_ma",
+        "text": "cách nhập mã thẻ ở sau sách giáo khoa như thế nào"
+      },
+      {
+        "intent": "nhap_ma",
+        "text": "tôi không thể sử dụng mã của sách mềm"
+      },
+      {
+        "intent": "nhap_ma",
+        "entities": [
+          {
+            "start": 22,
+            "end": 31,
+            "value": "tiếng anh",
+            "entity": "subject"
+          }
+        ],
+        "text": "Nhập giúp tôi mã sách tiếng anh lớp 8 tập 1"
+      },
+      {
+        "intent": "nhap_ma_sach",
+        "entities": [
+          {
+            "start": 0,
+            "end": 19,
+            "value": "FUZ3-2A8M-YLJV-D4GZ",
+            "entity": "ma_sach"
+          }
+        ],
+        "text": "FUZ3-2A8M-YLJV-D4GZ"
+      },
+      {
+        "intent": "nhap_ma_sach",
+        "entities": [
+          {
+            "start": 0,
+            "end": 19,
+            "value": "LSUA-1VBB-XH4H-VH58",
+            "entity": "ma_sach"
+          }
+        ],
+        "text": "LSUA-1VBB-XH4H-VH58"
+      },
+      {
+        "intent": "nhap_ma_sach",
+        "entities": [
+          {
+            "start": 0,
+            "end": 19,
+            "value": "3NB6-L9M1-J25W-5X5I",
+            "entity": "ma_sach"
+          }
+        ],
+        "text": "3NB6-L9M1-J25W-5X5I"
+      },
+      {
+        "intent": "nhap_ma_sach",
+        "entities": [
+          {
+            "start": 0,
+            "end": 19,
+            "value": "7X6X-D8EG-TXC2-2HFC",
+            "entity": "ma_sach"
+          }
+        ],
+        "text": "7X6X-D8EG-TXC2-2HFC"
+      },
+      {
+        "intent": "loi_nhap_ma",
+        "text": "cho mình hỏi sao mình đăng nhập vào phần thêm sách với mã thẻ CZ3Y-V2KX-RS3Z-BT14 không được"
+      },
+      {
+        "intent": "loi_nhap_ma",
+        "text": "Sách mềm ơi, mình đã nhập mã này chính xác rồi mà không được, kiểm tra hộ mình với"
+      },
+      {
+        "intent": "loi_nhap_ma",
+        "text": "nhập mã rồi nhưng không được 2DKQ-UFQ8-XJYW-VPDF"
+      },
+      {
+        "intent": "loi_nhap_ma",
+        "text": "Mình đăng nhập được rồi nhưng cào nhập mã lại báo là mã đã sử dụng bạn ạ"
+      },
+      {
+        "intent": "loi_nhap_ma",
+        "text": "Bạn đã xem lại giúp mình mã sử dụng của sách được chưa bạn?"
+      },
+      {
+        "intent": "loi_nhap_ma",
+        "text": "Sao mã sách mềm của em không được ạ?"
+      },
+      {
+        "intent": "loi_nhap_ma",
+        "text": "Mình vừa mua bộ sách giáo khoa lớp 7 theo chương trình Vnen trong đó có 4 quyển tiếng Anh. Mình vừa cào mã thẻ sách mềm và gửi xác nhận thì trong đó có 3 mã thẻ không xác nhận được. Năm rồi mình cũng bị tình trạng trên. Thật sự mình rất mất niềm tin."
+      },
+      {
+        "intent": "loi_nhap_ma",
+        "text": "Làm ơn kiểm tra giúp em mã sách tiếng anh lớp 4"
+      },
+      {
+        "intent": "loi_nhap_ma",
+        "text": "Chị ơi mã số của con em bị sử dụng rồi là thế nào"
+      },
+      {
+        "intent": "loi_nhap_ma",
+        "text": "Ad cho mình hỏi là mình có điền mã sách tiếng anh lớp 3 học kỳ 2 nhưng không thành công"
+      },
+      {
+        "intent": "loi_ma_khong_ro",
+        "text": "mình mua sach bài tập bổ trợ nâng cao tiếng anh 7. mình đã cào để lấy mã số. nhưng thấy mã thẻ cào bị hỏng, vì thế không nhập được. chỉ còn số seri của sách là B18-MFU95754, có thể tra được mã số không ạ?"
+      },
+      {
+        "intent": "loi_ma_khong_ro",
+        "text": "Tôi cào bị rách mã thẻ nên bị mất số, giờ làm sao để được cấp lại ạ"
+      },
+      {
+        "intent": "loi_ma_khong_ro",
+        "text": "Mình mua sách lớp 10 nhưng phần cào mã thẻ cào rất khó không đọc được số nào"
+      },
+      {
+        "intent": "loi_ma_thanh_cong",
+        "text": "tôi đã nhập mã sách tiếng anh lớp 6 xong giờ vào không thấy phần bài tập"
+      },
+      {
+        "intent": "loi_ma_thanh_cong",
+        "text": "em mới dùng mã sách văn thpt 2018-2019, web cũng báo là xác nhận thành công nhưng em vẫn không vào xem được là như nào ạ"
+      },
+      {
+        "intent": "loi_ma_thanh_cong",
+        "text": "Tôi đã nhập mã sách mềm ôn THPT QG năm 2018-2019 sao không sử dụng được phần đề luyện tập?"
+      },
+      {
+        "intent": "khong_co_ma_sach",
+        "text": "Sách tập 2 của em không có thẻ cào"
+      },
+      {
+        "intent": "khong_co_ma_sach",
+        "text": "sách tiếng anh lớp 9 của em không có mã sách là soao nhỉ ad?"
+      },
+      {
+        "intent": "khong_co_ma_sach",
+        "text": "sách tôi mua lâu không dùng đã cũ và sách có 12 kí tự có dùng trên sách mềm được không?"
+      },
+      {
+        "intent": "xem_ma",
+        "text": "tôi cần mã sách mềm bạn ơi"
+      },
+      {
+        "intent": "xem_ma",
+        "text": "Em đã tạo tài khoản trên sách mềm. Cho em hỏi em muốn sử dụng sách mềm tiếng anh lớp 5 thì phải làm thế nào ạ?"
+      },
+      {
+        "intent": "xem_ma",
+        "text": "Chương trình cho xin một mã thẻ cào với ạ"
+      },
+      {
+        "intent": "xem_ma",
+        "text": "Làm sao để sử dụng được 1 số sách bài tập và sách tham khảo ạ"
+      },
+      {
+        "intent": "xem_ma",
+        "text": "Cho mình hỏi ạ. mình đăng nhập trên sách mềm nhung mình không có mã sử dụng. Mình không thể tải các bài dạy offline hay các tính năng khác. nhờ ad giúp mình vói ạ. Mình cảm ơn nhiều ạ."
+      },
+      {
+        "intent": "xem_ma",
+        "text": "Cho mình xin mã sách mềm với"
+      },
+      {
+        "intent": "xem_ma",
+        "text": "Sách mềm cấp cho tôi mã thẻ: Nguyễn Thị Hương. Mail: nh66779@gmail.com. Xin cảm ơn."
+      },
+      {
+        "intent": "xem_ma",
+        "text": "có thể cho tôi một cái mã sách không"
+      },
+      {
+        "intent": "xem_ma",
+        "text": "Cho em xin mã số sách giành cho giáo viên ạ. Em cảm ơn."
+      },
+      {
+        "intent": "chao_hoi",
+        "text": "dạ em hỏi chút được không ạ?"
+      },
+      {
+        "intent": "chao_hoi",
+        "text": "Thưa quý thầy cô phụ trách sachmem"
+      },
+      {
+        "intent": "chao_hoi",
+        "text": "có thể cho tôi hỏi được không?"
+      },
+      {
+        "intent": "ban_dung_thu",
+        "text": "sao mình vào cuốn sách mềm Bồi Dưỡng học sinh giỏi tiểu học lại chỉ vào có bài 1 thôi nhỉ"
+      },
+      {
+        "intent": "ban_dung_thu",
+        "text": "Cho em hỏi với. Tại sao bên em đăng kí mà không được miễn phí từ lớp 1 đến 12 ạ. Mà phải bắt nhập thêm sách ạ."
+      },
+      {
+        "intent": "tai_khoan/dang_nhap",
+        "text": "tôi muốn vô sachmem.vn"
+      },
+      {
+        "intent": "tai_khoan/dang_nhap",
+        "text": "sử dụng sách mềm của bên bạn thì cần làm thế nào"
+      },
+      {
+        "intent": "tai_khoan/dang_ky",
+        "text": "đăng ký hộ cháu 1 ních được không ạ?"
+      },
+      {
+        "intent": "tai_khoan/dang_nhap",
+        "text": "làm thế nào có thể học được"
+      },
+      {
+        "intent": "tai_khoan/dang_nhap",
+        "text": "chị ơi làm thế nào mới có thể sử dụng sách mềm được ạ"
+      },
+      {
+        "intent": "tai_khoan/quen_mat_khau",
+        "text": "nếu bị quên mật khẩu vào sách mềm, thì làm cách nào lấy lại vậy ad"
+      },
+      {
+        "intent": "tai_khoan/quen_mat_khau",
+        "text": "Bạn ơi mình đã đăng kí sách mềm nhưng chưa sử dụng lần nào vì năm học trước mình không dạy khối 10. Bây giờ mình không nhớ mật khẩu thì làm thế nào ạ"
+      },
+      {
+        "intent": "tai_khoan/dang_ky",
+        "text": "đăng ký tài khoản như thế nào vậy"
+      },
+      {
+        "intent": "tai_khoan/quen_mat_khau",
+        "text": "Tôi không nhớ tới khoản"
+      },
+      {
+        "intent": "tai_khoan/dang_ky",
+        "text": "tôi rất muốn đăng kí tài khoản để được sử dụng sách mềm tiếng anh tiểu học ạ"
+      },
+      {
+        "intent": "tai_khoan/dang_ky",
+        "text": "xin chào trang ạ, mình là phụ huynh của 1 em học sinh lớp 3, và em đang có chương trình học và thi trên trang sách mềm, nhưng mình lại không thể tạo tài khoản cho trang này được. mình muốn được trang hỗ trợ. xin cảm ơn"
+      },
+      {
+        "intent": "tai_khoan/dang_nhap",
+        "text": "tôi đã học trên sách mềm được chưa"
+      },
+      {
+        "intent": "tai_khoan/quen_mat_khau",
+        "text": "mình thử rồi mà họ cứ bảo là sai email hoặc mật khẩu bạn ạ. nhờ bạn giúp mình với nhé"
+      },
+      {
+        "intent": "tai_khoan/dang_nhap",
+        "text": "Bạn ơi cách nào để đăng nhập vào sachmem để dạy các em học á"
+      },
+      {
+        "intent": "tai_khoan/dang_ky",
+        "text": "làm sao để đăng ký?"
+      },
+      {
+        "intent": "tai_khoan/dang_ky",
+        "text": "cho em hỏi em mua sách tại nhà sách họ có chỉ em cào mã để đăng ký học mà em quên hỏi là đăng ký chỗ nào ạ"
+      },
+      {
+        "intent": "tai_khoan/dang_ky",
+        "text": "Em đăng ký lại thì không được, vậy bây giờ em phải làm sao để đăng ký lại ạ"
+      },
+      {
+        "intent": "tai_khoan/quen_mat_khau",
+        "text": "Bữa trước tôi có đăng nhập gmail mà tôi đăng kí lại thì không được sách mềm"
+      },
+      {
+        "intent": "loi_dang_nhap",
+        "text": "Tôi vẫn không thể truy cập trang đề kiểm tra của sách mềm ạ. Có phải là quá tải không ạ, vậy thì khi nào mới có thể truy cập được ạ?"
+      },
+      {
+        "intent": "loi_dang_nhap",
+        "text": "tôi không thể đăng nhập sách mềm lớp 4"
+      },
+      {
+        "intent": "loi_dang_nhap",
+        "entities": [
+          {
+            "start": 23,
+            "end": 26,
+            "value": "504",
+            "entity": "error"
+          }
+        ],
+        "text": "luôn hiện lên dòng chữ 504 Gateway Time-out"
+      },
+      {
+        "intent": "loi_dang_nhap",
+        "entities": [
+          {
+            "start": 4,
+            "end": 7,
+            "value": "404",
+            "entity": "error"
+          }
+        ],
+        "text": "Lỗi 404 ạ"
+      },
+      {
+        "intent": "loi_dang_nhap",
+        "entities": [
+          {
+            "start": 17,
+            "end": 37,
+            "value": "connection timed out",
+            "entity": "error"
+          }
+        ],
+        "text": "Em nhìn thấy lỗi connection timed out, kết nối quá lâu ạ."
+      },
+      {
+        "intent": "vo_van_hoa",
+        "text": "dẹp đi cho khuất mắt tao"
+      },
+      {
+        "intent": "vo_van_hoa",
+        "text": "định mệnh con chó"
+      },
+      {
+        "intent": "khac",
+        "text": "là sao"
+      },
+      {
+        "intent": "khac",
+        "text": "học những môn gì"
+      },
+      {
+        "intent": "khac",
+        "text": "tài khoản em còn 99 ngày, sau 99 ngày đó bị khóa hả AD"
+      },
+      {
+        "intent": "khac",
+        "text": "What ‘a your sister phone number"
+      },
+      {
+        "intent": "cap_nhat",
+        "text": "hệ thống đang bảo trì hay sao mà vào một tý lại sập vậy"
+      },
+      {
+        "intent": "cap_nhat",
+        "text": "Mình đang sử dụng sách mềm. Mình muốn dùng phiên bản mới nhất. Mình không thấy có chức năng ẩn câu thoại hoặc tranh."
+      },
+      {
+        "intent": "xin_dap_an",
+        "entities": [
+          {
+            "start": 22,
+            "end": 31,
+            "value": "giáo viên",
+            "entity": "type_account"
+          }
+        ],
+        "text": "tài khoản của mình là giáo viên nhưng không xem được đáp án."
+      },
+      {
+        "intent": "xin_dap_an",
+        "entities": [
+          {
+            "start": 11,
+            "end": 21,
+            "value": "xem đáp án",
+            "entity": "xem_dap_an"
+          }
+        ],
+        "text": "làm sao để xem đáp án của bài tập tiếng anh lớp 7 tập 1 vậy?"
+      },
+      {
+        "intent": "xin_dap_an",
+        "entities": [
+          {
+            "start": 17,
+            "end": 26,
+            "value": "giáo viên",
+            "entity": "type_account"
+          }
+        ],
+        "text": "tôi đăng ký ních giáo viên mà bài có đáp án bài thì không?"
+      },
+      {
+        "intent": "xin_dap_an",
+        "entities": [
+          {
+            "start": 9,
+            "end": 19,
+            "value": "xem đáp án",
+            "entity": "xem_dap_an"
+          }
+        ],
+        "text": "tôi muốn xem đáp án của tiếng anh lớp 6 tập 2"
+      },
+      {
+        "intent": "the_cao",
+        "entities": [
+          {
+            "start": 44,
+            "end": 57,
+            "value": "mã giống nhau",
+            "entity": "ma_gia"
+          }
+        ],
+        "text": "sách của học sinh lớp mình sách nào cũng có mã giống nhau là như thế nào?"
+      },
+      {
+        "intent": "the_cao",
+        "entities": [
+          {
+            "start": 17,
+            "end": 33,
+            "value": "thời hạn sử dụng",
+            "entity": "thoi_han"
+          }
+        ],
+        "text": "làm sao kiểm tra thời hạn sử dụng sách mềm ad nhỉ?"
+      },
+      {
+        "intent": "the_cao",
+        "text": "em có một tài khoản nhưng lỡ đăng kí cả hai mã thẻ sách mềm vào, lớp 11 và lớp 8. làm sao để em có thể xóa một mã ra khỏi tài khoản ạ?"
+      },
+      {
+        "intent": "the_cao",
+        "entities": [
+          {
+            "start": 59,
+            "end": 76,
+            "value": "dùng được bao lâu",
+            "entity": "thoi_han"
+          }
+        ],
+        "text": "Mình mới nhập mã sách mềm tiếng anh 9, không biết sách này dùng được bao lâu?"
+      },
+      {
+        "intent": "the_cao",
+        "entities": [
+          {
+            "start": 7,
+            "end": 24,
+            "value": "thời gian sử dụng",
+            "entity": "thoi_han"
+          }
+        ],
+        "text": "em hỏi thời gian sử dụng quyển tiếng anh em vừa nhập mã ạ."
+      },
+      {
+        "intent": "tai_khoan_gv",
+        "text": "Tôi xin xác nhận BGH nhà trường như thế nào? Xin xác nhận được tôi gửi qua mạng được không?"
+      },
+      {
+        "intent": "tai_khoan_gv",
+        "text": "em là giáo viên thực tập, em cần làm những gì để có tài khoản giáo viên sách mềm nhỉ?"
+      },
+      {
+        "intent": "hoi_sach",
+        "entities": [
+          {
+            "start": 17,
+            "end": 38,
+            "value": "tiếng anh lớp 6 tập 2",
+            "entity": "ten_sach"
+          }
+        ],
+        "text": "cô ơi cô gửi bài tiếng anh lớp 6 tập 2 ạ"
+      },
+      {
+        "intent": "hoi_sach",
+        "entities": [
+          {
+            "start": 21,
+            "end": 62,
+            "value": "sách bài tập bổ trợ và nâng cao tiếng anh",
+            "entity": "ten_sach"
+          }
+        ],
+        "text": "Add ơi, cho mình hỏi sách bài tập bổ trợ và nâng cao tiếng anh thì có sách mềm không ạ?"
+      },
+      {
+        "intent": "hoi_sach",
+        "entities": [
+          {
+            "start": 22,
+            "end": 43,
+            "value": "tiếng anh và toán học",
+            "entity": "ten_sach"
+          }
+        ],
+        "text": "Mình muốn thử nghiệm tiếng anh và toán học"
+      },
+      {
+        "intent": "hoi_sach",
+        "entities": [
+          {
+            "start": 45,
+            "end": 67,
+            "value": "tổng hợp các kiến thức",
+            "entity": "sach"
+          }
+        ],
+        "text": "chuẩn bị có bài kiểm tra 1 tiết, em muốn xem tổng hợp các kiến thức của các bài trước. nhưng không biết ứng dụng có tổng hợp hay không, và nếu có thì ở chỗ nào ạ"
+      },
+      {
+        "intent": "hoi_sach",
+        "entities": [
+          {
+            "start": 16,
+            "end": 48,
+            "value": "bài tập bổ trợ tiếng lớp 6, 7, 8",
+            "entity": "ten_sach"
+          }
+        ],
+        "text": "bên bạn có sách bài tập bổ trợ tiếng lớp 6, 7, 8 theo chương trình mới không bạn"
+      },
+      {
+        "intent": "hoi_sach",
+        "entities": [
+          {
+            "start": 18,
+            "end": 52,
+            "value": "thiết kế bài giảng Tiếng Anh lớp 5",
+            "entity": "ten_sach"
+          }
+        ],
+        "text": "Có sách hướng dẫn thiết kế bài giảng Tiếng Anh lớp 5 không ạ?"
+      },
+      {
+        "intent": "hoi_sach",
+        "entities": [
+          {
+            "start": 21,
+            "end": 39,
+            "value": "thiết kế bài giảng",
+            "entity": "sach"
+          }
+        ],
+        "text": "bên sách mềm có sách thiết kế bài giảng lớp 6 không?"
+      },
+      {
+        "intent": "thu_rac",
+        "text": "Sách mềm cho tôi hỏi, tôi gửi mail cùng với trường mà 3 người nhận được mã rồi mà tôi chưa nhận được"
+      },
+      {
+        "intent": "thu_rac",
+        "text": "nhưng cháu đăng kí thành công thì cháu vào đăng nhập nó hiện lên thư rác Spam ạ."
+      },
+      {
+        "intent": "thu_rac",
+        "text": "spam nằm ở đâu"
+      },
+      {
+        "intent": "thu_rac",
+        "text": "Tôi đã gửi tới địa chỉ lienhe@sachmem. Nhưng chưa được đáp lại"
+      },
+      {
+        "intent": "tu_vung",
+        "text": "Tôi muốn cho con tôi học từ vựng thì vào đâu nhỉ"
+      },
+      {
+        "intent": "tu_vung",
+        "text": "Em muốn nhớ được các từ tiếng anh mà chưa tìm được file từ vựng"
+      },
+      {
+        "intent": "che_do_offline",
+        "text": "sao không thấy bản ofline sách mềm nhỉ"
+      },
+      {
+        "intent": "che_do_offline",
+        "text": "tải sách mềm offline như thế nào?"
+      },
+      {
+        "intent": "che_do_offline",
+        "text": "Cho mình hỏi muốn sử dụng bài dạy offline thì làm thế nào ạ?  Vì mạng rất chập chờn nên ảnh hưởng nhiều đến tiến độ bài dạy"
+      },
+      {
+        "intent": "nhap_them_ma",
+        "text": "Em đang chỉ xem được đến unit 3, muốn xem các unit sau của cuốn tiếng anh 7 phải làm sao nhỉ ad"
+      },
+      {
+        "intent": "nhap_them_ma",
+        "text": "Sách tiếng anh lớp 6 tập 1 của em xong rồi, giờ chuyển qua quyển 2 làm sao ạ"
+      },
+      {
+        "intent": "phi_su_dung",
+        "text": "Sử dụng sách mềm có mất tiền không nhỉ?"
+      },
+      {
+        "intent": "phi_su_dung",
+        "text": "bạn ơi. dùng cái này có tốn tiền không ạ"
+      },
+      {
+        "intent": "phi_su_dung",
+        "text": "có tốn tiền không ạ"
+      },
+      {
+        "intent": "da_nen_tang",
+        "text": "em không dùng điện thoại thì phải làm sao hả chị"
+      },
+      {
+        "intent": "da_nen_tang",
+        "text": "Mã này dùng được nhiều máy hay 1 máy thôi vậy ad?"
+      },
+      {
+        "intent": "ho_tro_email",
+        "entities": [
+          {
+            "start": 0,
+            "end": 21,
+            "value": "Hoapham.hsc@gmail.com",
+            "entity": "email"
+          }
+        ],
+        "text": "Hoapham.hsc@gmail.com"
+      },
+      {
+        "intent": "ho_tro_email",
+        "text": "tôi đăng kí bằng gmail không được, tôi muốn đăng kí bằng facebook"
+      },
+      {
+        "intent": "ho_tro_email",
+        "entities": [
+          {
+            "start": 0,
+            "end": 18,
+            "value": "vothiluu@gmail.com",
+            "entity": "email"
+          }
+        ],
+        "text": "vothiluu@gmail.com"
+      },
+      {
+        "intent": "ho_tro_email",
+        "text": "tôi đã vào và tôi đăng nhập bằng facebook mà không được"
+      },
+      {
+        "intent": "ho_tro_email",
+        "entities": [
+          {
+            "start": 0,
+            "end": 22,
+            "value": "uyenphantpht@gmail.com",
+            "entity": "email"
+          }
+        ],
+        "text": "uyenphantpht@gmail.com"
+      },
+      {
+        "intent": "ho_tro_email",
+        "entities": [
+          {
+            "start": 0,
+            "end": 19,
+            "value": "duyen8080@gmail.com",
+            "entity": "email"
+          }
+        ],
+        "text": "duyen8080@gmail.com"
+      },
+      {
+        "intent": "ho_tro_email",
+        "entities": [
+          {
+            "start": 0,
+            "end": 17,
+            "value": "Namdinh@gmail.com",
+            "entity": "email"
+          }
+        ],
+        "text": "Namdinh@gmail.com"
+      },
+      {
+        "intent": "ho_tro_email",
+        "entities": [
+          {
+            "start": 0,
+            "end": 27,
+            "value": "phantuong28012007@gmail.com",
+            "entity": "email"
+          }
+        ],
+        "text": "phantuong28012007@gmail.com"
+      },
+      {
+        "intent": "ho_tro_email",
+        "entities": [
+          {
+            "start": 0,
+            "end": 20,
+            "value": "hongtam710@gmail.com",
+            "entity": "email"
+          }
+        ],
+        "text": "hongtam710@gmail.com"
+      },
+      {
+        "intent": "ho_tro_email",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "Ledo@gamil.com",
+            "entity": "email"
+          }
+        ],
+        "text": "Ledo@gamil.com"
+      },
+      {
+        "intent": "ho_tro_email",
+        "text": "mà đăng nhập bằng facebook thì sao ạ"
+      },
+      {
+        "intent": "loi_dang_ky",
+        "text": "hướng dẫn kia cũ à, sao tôi đăng ký rồi mà không vào được"
+      },
+      {
+        "intent": "loi_dang_ky",
+        "text": "Mình đăng ký cũng không được"
+      },
+      {
+        "intent": "loi_dang_ky",
+        "text": "Bạn cho mình hỏi? Mình đã đăng ký mãi mà không thể vào học được"
+      },
+      {
+        "intent": "dong_y",
+        "text": "Được nhé ad"
+      },
+      {
+        "intent": "dong_y",
+        "text": "Nhất trí!"
+      },
+      {
+        "intent": "cam_on",
+        "text": "Mình cảm ơn"
+      },
+      {
+        "intent": "cam_on",
+        "text": "Ok cảm ơn ad nhé"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "Bye bye"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "Không muốn nói chuyện nữa"
+      },
+      {
+        "intent": "tam_biet",
+        "text": "kết thúc trò chuyện"
+      },
+      {
+        "intent": "gia_han",
+        "text": "Tài khoản của mình còn 34 ngày nữa là hết, làm thế nào để được gia hạn đây?"
+      },
+      {
+        "intent": "gia_han",
+        "text": "mình có tài khoản sách mềm rồi nhưng hạn dùng của mình chỉ còn 24 ngày nữa nên mình muốn xin thêm hạn dùng 1 năm nữa"
+      },
+      {
+        "intent": "gia_han",
+        "text": "sao sách mềm này lại có thời hạn sử dụng. nếu hết thời hạn thì làm sao để được dùng tiếp ạ"
+      },
+      {
+        "intent": "hoi_dap",
+        "text": "tôi không biết xác nhận địa chỉ email"
+      },
+      {
+        "intent": "hoi_dap",
+        "text": "Bạn có thể giải giúp mình bài: Review không ạ"
+      },
+      {
+        "intent": "hoi_dap",
+        "text": "Chỉ câu tiếng anh này được không"
+      },
+      {
+        "intent": "hoi_dap",
+        "text": "Đặt 5 câu với 5 từ like, love, enjoy, hate, dislike"
+      },
+      {
+        "intent": "hoi_dap",
+        "text": "tôi muốn được dịch nghĩa từ tiếng anh sang tiếng việt câu này đó là câu tiếng anh này \"vinh, why do you often forget to turn off the light when you go out of the room?\""
+      },
+      {
+        "intent": "hoi_dap",
+        "text": "Sọ Dừa được sinh ra như thế nào ạ?"
+      },
+      {
+        "intent": "bao_cao",
+        "text": "bài kiểm tra học kỳ I của lớp 11, bản dùng thử cho giáo viên, file audio không khớp với câu hỏi ạ"
+      },
+      {
+        "intent": "bao_cao",
+        "text": "Từ city chỉ đọc đến ci"
+      },
+      {
+        "intent": "bao_cao",
+        "text": "Mình cảm thấy không hài lòng khi sử dụng Sách Mềm"
+      },
+      {
+        "intent": "mua_sach",
+        "text": "Đặt mua sách mềm như thế nào thế?"
+      },
+      {
+        "intent": "mua_sach",
+        "text": "Vậy mình mua sách giấy đảm bảo sách thật mình đặt mua ở đâu a? Mình muốn mua online đc không?"
+      },
+      {
+        "intent": "mua_sach",
+        "text": "Sách này có bán ở các nhà sách không? Mình ở Bạc Liêu."
+      },
+      {
+        "intent": "mua_sach",
+        "text": "Mình muốn mua sách tiếng anh"
+      },
+      {
+        "intent": "mua_sach",
+        "text": "Bên ad còn bán sách ôn anh thpt quốc gia 2019 không ạ"
+      },
+      {
+        "intent": "mua_sach",
+        "text": "xin hỏi muốn mua sách Tiếng Anh chuẩn của BGD mà có mã cào thì mua sách ở đâu ạ"
+      },
+      {
+        "intent": "mua_sach",
+        "text": "Em muốn mua sách bài tập"
+      },
+      {
+        "intent": "tinh_nang",
+        "entities": [
+          {
+            "start": 19,
+            "end": 42,
+            "value": "không tải được hình ảnh",
+            "entity": "tinh_nang"
+          }
+        ],
+        "text": "ad ơi sao sách mềm không tải được hình ảnh xuống nữa ạ"
+      },
+      {
+        "intent": "tinh_nang",
+        "entities": [
+          {
+            "start": 8,
+            "end": 17,
+            "value": "tải video",
+            "entity": "tinh_nang"
+          }
+        ],
+        "text": "mình có tải video trên sách mềm được không bạn"
+      },
+      {
+        "intent": "tinh_nang",
+        "text": "Cách sử dụng sách mềm vn"
+      },
+      {
+        "intent": "tinh_nang",
+        "entities": [
+          {
+            "start": 71,
+            "end": 94,
+            "value": "không thể tải được sách",
+            "entity": "tinh_nang"
+          }
+        ],
+        "text": "Mình là giáo viên tiếng anh nghe nói được miễn phí sử dụng sách mềm mà không thể tải được sách."
+      },
+      {
+        "intent": "tinh_nang",
+        "entities": [
+          {
+            "start": 54,
+            "end": 77,
+            "value": "không tải được bản Word",
+            "entity": "tinh_nang"
+          }
+        ],
+        "text": "Tôi đã cài đặt thành công Save Webpage as...nhưng vẫn không tải được bản Word. Xin giúp đỡ ạ"
+      },
+      {
+        "intent": "tinh_nang",
+        "entities": [
+          {
+            "start": 7,
+            "end": 27,
+            "value": "cho mình đề kiểm tra",
+            "entity": "tinh_nang"
+          }
+        ],
+        "text": "Có thể cho mình đề kiểm tra 45 phút tiếng anh 7 được không ạ"
+      },
+      {
+        "intent": "tinh_nang",
+        "text": "chị cho em hỏi về phần mềm sách mềm nha"
+      },
+      {
+        "intent": "tinh_nang",
+        "entities": [
+          {
+            "start": 0,
+            "end": 24,
+            "value": "sách mềm có thể download",
+            "entity": "tinh_nang"
+          }
+        ],
+        "text": "sách mềm có thể download về laptop được không hay chỉ dạy cho các em học sinh trên trang web sachmem.vn?"
+      },
+      {
+        "intent": "de_kiem_tra",
+        "text": "Tôi muốn tìm các đề kiểm tra môn toán lớp 5 cho con tôi làm, sách mềm giúp tôi nhé"
+      },
+      {
+        "intent": "de_kiem_tra",
+        "text": "Con là học sinh, con muốn vào xem các đề kiểm tra tiếng anh để chuẩn bị thi cuối kỳ ạ"
+      },
+      {
+        "intent": "de_kiem_tra",
+        "text": "có cho đề tiếng anh 15 phút không ạ"
+      },
+      {
+        "intent": "kt_tai_khoan",
+        "text": "Hôm qua em còn thấy sách, hôm nay đăng nhập tài khoản đó sách mất tiêu rồi"
+      },
+      {
+        "intent": "kt_tai_khoan",
+        "text": "Tài khoản quyendung84 của em kích hoạt 2017 giờ không nghe được"
+      },
+      {
+        "intent": "han_che_sach_gv",
+        "text": "Ở trang thư mục: mình muốn xem bài tập hỗ trợ nâng cao Tiếng Anh 9 thì chỉ xem được Unit 1 thôi. Và một số sách bài tập khác cũng không xem được. Mình phải làm sao để xem được"
+      },
+      {
+        "intent": "han_che_sach_gv",
+        "text": "ních giáo viên phải mua mã thẻ để xem các sách khác à"
+      },
+      {
+        "intent": "phan_biet_sach",
+        "text": "Em chụp sách xem cho em là sách giả hay sách thật"
+      },
+      {
+        "intent": "phan_biet_sach",
+        "text": "Chỗ địa phương em năm nào cũng mua ở cửa hàng này mà lại là sách giả ạ"
+      },
+      {
+        "intent": "capcha",
+        "text": "Nhập mã captcha thì làm thế nào ạ?"
+      },
+      {
+        "intent": "capcha",
+        "text": "captcha là gì vậy ạ"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

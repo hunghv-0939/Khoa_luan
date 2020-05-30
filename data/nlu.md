@@ -1,0 +1,861 @@
+## intent:lien_he
+- Cho mình xin mail để gửi bản mềm
+- hay sách mềm cho mình xin số điện thoại có gì mình gọi trao đổi cho nhanh có được không?
+- Nhờ chương trình kiểm tra cho tài khoản tuletanloc@gmail.com đã được cấp mã dùng sách mềm chưa.
+- tôi đã gọi điện theo số máy của sách mềm nhưng không ai trả lời
+- Sách mềm cho hỏi. Tôi gửi danh sách giáo viên đăng ký sử dụng sách mềm đến địa chỉ nào
+- tôi đã làm form đăng ký tài khoản giáo viên giờ liên hệ tới đâu ạ
+- email của sách mềm là gì?
+- tôi đã gửi thư cho sách mềm, không biết email chính xác là gì nhỉ
+- làm sao để liên hệ được với trung tâm sách mềm
+- Bản mềm mình đăng ký rồi giờ gửi đâu vậy
+
+## intent:nhap_ma
+- Bạn cho hỏi cách nhập mã của sách [tiếng anh](subject) lớp 6 tập 2
+- Làm sao để nhập mã sách [Toán](subject) lớp 8 tập 1
+- Cô nhập mã cho em đi ạ
+- ấn mã cuối sách vào chỗ nào ạ
+- cách nhập mã thẻ ở sau sách giáo khoa như thế nào
+- Em là học sinh lớp 6, em cần nhập mã sách [ngữ văn](subject) vào sách mềm
+- cách nhập mã thẻ
+- muốn nhập mã môn [toán](subject) thì phải làm sao?
+- tôi muốn hỏi cách nhập mã sách [tiếng anh](subject) lớp 5
+- Dạ kích hoạt mã ở phần nào ạ. Nhờ anh chị chỉ giúp em với
+- Mã kích hoạt sách [toán](subject) lớp 8 nhập ở đâu ạ.
+- mình chưa rõ là nếu đăng nhập vào trang sachmem.vn thì nhập mã thẻ cào của sách ở đâu vậy ạ
+- nhập mã thẻ sách mềm ở đâu
+- làm thế nào để use thẻ cào?
+- tôi là giáo viên cấp 3, tôi muốn nhập mã sách [ngữ văn](subject) 11 thì nhập ở đâu nhỉ?
+- tôi không biết sử dụng mã thẻ
+- tôi không thể sử dụng mã của sách mềm
+- Admin hướng dẫn tôi nhập mã [tiếng anh](subject) lớp 9 với nhé
+- thêm sách là sao vậy chị, mình phải ra ngoài mua sách rồi cào mã thẻ rồi nhập vô mới sử dụng được hả chị?
+- cách nhập mã code
+- mình muốn đăng nhập thẻ cào của sách mềm thì mình phải làm thế nào trên điện thoại
+- mình thay máy tính và quên mật mã sách mềm
+- mình mới mua sách [tiếng anh](subject) nâng cao, nhập mã này ở chỗ nào nhỉ?
+- mình mua sách giáo viên thì sẽ được cấp mã sử dụng phần mềm ạ
+- Em là giáo viên hợp đồng thôi. Nên rất khó xin mã từ nhà trường. Không biết còn cách nào đăng ký mã sách không ạ
+- Nhưng không biết đăng nhập thêm sách
+- Chỉ con cách nhập mã môn [văn](subject) vào phần mềm sách mềm với ạ.
+- muốn sử dụng sách phải nhập mã, giờ có mã sách [tiếng anh](subject) thì nhập vào đâu để dùng
+- Cách để sử dụng sách mềm toàn bộ sách mà không cần nhập mã thêm sách
+- nhập cho tôi sách mềm chưa
+- Nhập giúp tôi mã sách [tiếng anh](subject) lớp 8 tập 1
+
+## intent:nhap_ma_sach
+- [AZB1-1JZN-GA5E-5REB](ma_sach)
+- [WQFE-6QUT-WPIS-HTTF](ma_sach)
+- [2DKQ-UFQ8-XJYW-VPDF](ma_sach)
+- [B18-MFU9-5754](ma_sach)
+- [BFV6-2U15-R7JS-QWWW](ma_sach)
+- [LSUA-1VBB-XH4H-VH58](ma_sach)
+- [2DQK-UFQ8-XJYW-VPDF](ma_sach)
+- [6MPM-K89W-UBNN-8577](ma_sach)
+- [1T7X-G1L4-CFET-F6U1](ma_sach)
+- [MUZZ-1NXZ-9F4G-C9AG](ma_sach)
+- [HY1T-23ZC-4IO0-18PA](ma_sach)
+- [N9N7-MZ12-4YGY-NK32](ma_sach)
+- [7X6X-D8EG-TXC2-2HFC](ma_sach)
+- [JGXB-T8FL-6V6F-BT99](ma_sach)
+- [FUZ3-2A8M-YLJV-D4GZ](ma_sach)
+- [SESR-BXCT-MCSR-N891](ma_sach)
+- [4AML-9NKW-7X6P-D89E](ma_sach)
+- [BX37-WEG1-6D2P-ASIY](ma_sach)
+- [NJNB-I55T-7PUA-H1QX](ma_sach)
+- [3NB6-L9M1-J25W-5X5I](ma_sach)
+
+## intent:loi_nhap_ma
+- tôi nhập mã của sách tiếng anh tập 2 rồi mà không được
+- Cào thẻ ở sách thì toàn báo lỗi.
+- Sách mềm ơi, mình đã nhập mã này chính xác rồi mà không được, kiểm tra hộ mình với
+- Mình đã nhập đi nhập lại rất nhiều lần nhưng vẫn nhận thông báo không phù hợp
+- Em nạp số thẻ cào mà không được
+- Sao hệ thống thông báo mã thẻ cào không đúng hoặc đã đăng nhập
+- tôi muốn hỏi vì sao nhập mã lại không được
+- Em muốn thêm sách mà không nhập mã được ạ
+- sao em mua sách về cào thẻ sau sách tiếng anh nhập vào cứ báo thẻ đã sử dụng ạ
+- tại sao tôi gửi mã rồi mà không vào được sách mềm
+- Sao mã sách mềm của em không được ạ?
+- mình cào 2 quyển và nhập đúng mã mà vẫn báo không được anh/chị ạ
+- chào ad, mình nhập mã sách lớp 2 của con nhưng bây giờ không nhớ cách vào mà nhập lại mã thì nói đã sử dụng, vậy hỏi ad có cách nào khôi phục đươc không ạ, xin cảm ơn ạ
+- Mình đăng nhập được rồi nhưng cào nhập mã lại báo là mã đã sử dụng bạn ạ
+- Ad cho mình hỏi là mình có điền mã sách tiếng anh lớp 3 học kỳ 2 nhưng không thành công
+- Tại sao tôi nhập mã thẻ của sách vào hệ thống đều thông báo mã đã sử dụng, trong khi tôi vừa cạo lớp phủ bạc xong?
+- Em nhập đúng mã mà đó kêu đã được sử dụng
+- Chị ơi mã số của con em bị sử dụng rồi là thế nào
+- Mình mua sách ở nhà sách về, cào nhập mã, nhưng thấy báo như thế
+- Có lần mình đi tập huấn về đăng kí theo mã lớp tập huấn cho mà không được.
+- nhập mã y chang trong thẻ mà không được chả hiểu tại sao
+- tôi mua sách về nhập mã nhưng không được vây?
+- Hiện tại mình có mua 4 Anh Văn lớp 6 quyển sách ở nhà sách. Nhưng khi về nhà cào mã thẻ phía sau nhập vào mà hệ thống không chấp nhận, báo là mã sai hoặc đã dùng rồi. Em cần được hỗ trợ xin hỏi giờ phải làm gì để cài được ạ
+- mình xin hỏi lí do tại sao sách giáo khoa, bài tập mua cho các cháu học đều là sách hoàng văn vân chủ biên. Và cuối sách cũng có địa chỉ nơi bán, tem của BGD mã thẻ cào ra không sử dụng được
+- Em đã nhập mã thẻ của sách tiếng anh và bài tập lớp 8 vào mục Thêm sách nhưng không được (mã mới cào được dán kèm theo sách) xin hỏi là tại sao?
+- nhập mã rồi nhưng không được 2DKQ-UFQ8-XJYW-VPDF
+- Ad cho hỏi nhập đúng mã thẻ mà vẫn không được chấp nhận.
+- Ad ơi kiểm tra lại dùm em sao mã sách mềm quyển tiếng anh lớp 5 tập 2 không sử dụng được
+- Nhập mã không được là mua phải sách giả rồi phải không ạ
+- Làm ơn kiểm tra giúp em mã sách tiếng anh lớp 4
+- tại sao mình cào mã sách mềm tiếng Anh 4 và kích hoạt nhiều lần nhưng không được ạ?
+- Anh vui lòng kiểm tra mã thẻ BA5F-HY6R-DAQW-PUNF có đúng mã không hay sách giả
+- cho mình hỏi sao mình đăng nhập vào phần thêm sách với mã thẻ CZ3Y-V2KX-RS3Z-BT14 không được
+- em có một mã số này chị xem thử đúng không ạ.
+- tại sao tôi đã nhập mã sử dụng mà phòng gửi mà vẫn không dùng được sách trong thư viện vậy
+- Bạn giúp mình cho mình lại mã sử dụng được không? Mình vào mã 3NB6-L9M1-J25W-5X5I này không được
+- 2 năm nay em đều mua sách của NXBVN có mã thẻ, vậy mà em chưa bao giờ đăng nhập mã đúng là sao ạ
+- Khi nhập mã thẻ toàn báo: mã thẻ không đúng hoặc đã được sử dụng, trong khi mua sách mới tại nhà sách và lớp phủ bạc còn nguyên niêm?
+- Mình vừa mua bộ sách giáo khoa lớp 7 theo chương trình Vnen trong đó có 4 quyển tiếng Anh. Mình vừa cào mã thẻ sách mềm và gửi xác nhận thì trong đó có 3 mã thẻ không xác nhận được. Năm rồi mình cũng bị tình trạng trên. Thật sự mình rất mất niềm tin.
+- bạn ơi, bữa mình có liên hệ bên bạn hỏi sao mã sách mình nhập 1 cuốn được, 1 cuốn không
+- anh mua cuốn sách mà đăng ký không được em
+- 4 cuốn sách tiếng anh của con mình có mã cào nhưng không đăng nhập được
+- Mình đăng ký sách mềm rồi mà sao không vào được từng unit để dạy ạ. Hay là phải thêm mã sách
+- Mà khi nhập nó toàn ghi là "Mã thẻ cào không đúng hoặc đã được sử dụng"
+- Bạn đã xem lại giúp mình mã sử dụng của sách được chưa bạn?
+- em đăng nhập mã thêm sách nhưng sao khi ấn vào thêm sách lại bắt em nhập mã khác?
+- Tôi đã đăng kí cho con trai lớp 4 hai cuốn với số điện thoại 0903148163, nhưng không thấy cuốn nào. Vậy nhờ quý bạn giúp đỡ.
+- Sách mềm kiểm tra giúp mình xem sách này chuẩn không với.
+- Khi nhập xong mã sao không nhìn thấy chữ sách mới trên màn hình
+
+## intent:loi_ma_khong_ro
+- Con nhà mình cào không cẩn thận nên không nhìn rõ mã thẻ. Vậy làm thế nào để đăng nhập vào sách mềm?
+- Cho hỏi mã thẻ của mình cào bị rách không xem được thì phải làm thế nào?
+- Mình mua sách lớp 10 nhưng phần cào mã thẻ cào rất khó không đọc được số nào
+- mình mua sach bài tập bổ trợ nâng cao tiếng anh 7. mình đã cào để lấy mã số. nhưng thấy mã thẻ cào bị hỏng, vì thế không nhập được. chỉ còn số seri của sách là B18-MFU95754, có thể tra được mã số không ạ?
+- sách mềm ơi, cấp lại cho mình mã thẻ sách với, mình nhìn không rõ
+- Mình mới điện hỏi về việc mã thẻ của con cào bị hỏng, nhờ công ty kiểm tra và cho con số đúng nhé
+- Mình vào mã sử dụng cho con bị mất mấy chữ không vào được. Bây giờ có tra được theo seri sách không bạn
+- mình có mua cho cháu 1 cuốn sách nhưng cào mã bị mất số. Hỏi có cách nào lấy lại được không ạ
+- Mình mua cho con 2 quyển sách mềm của bên bạn. Mà cào khó vô cùng. Sách thì mới in tháng 9/2018. Bạn kiểm tra lại số seri và báo lại giúp mình 2 mã thẻ cào của 2 quyển sách trên nhé
+- Con em cào mà thẻ mà bị mất số làm thế nào để biết mã sách mềm ạ
+- Tôi cào bị rách mã thẻ nên bị mất số, giờ làm sao để được cấp lại ạ
+- mã thẻ của mình in mờ không rõ không nhìn được, nhờ sách mềm kiểm tra cấp lại hộ mình
+
+## intent:loi_ma_thanh_cong
+- mã xác nhận thành công vì sao không thấy sách hiện ra
+- em mới dùng mã sách văn thpt 2018-2019, web cũng báo là xác nhận thành công nhưng em vẫn không vào xem được là như nào ạ
+- tại sao em đã nhập mã, cũng đã có thông báo xác nhận thành công mà vẫn không khả dụng ạ?
+- xin chào! tôi đã nhập số thẻ sử dụng, và đã được xác nhận thành công nhưng chỉ hiện thị sách tiếng Anh HKI, không xem được sách các lớp khác. tại sao vậy?
+- Tôi đã nhập mã sách mềm ôn THPT QG năm 2018-2019 sao không sử dụng được phần đề luyện tập?
+- sách mềm giúp tôi vào phần mềm của sách mềm tiếng anh lớp 4 tập 2 với ạ, tôi đã gửi mã thẻ thành công rồi nhưng vẫn không mở được
+- Chào bạn bên mình đã đăng ký 5 mã sách đều thành công nhưng khi kích hoạt từng quyển đều báo trắng trơn
+- anh/chị cho em hỏi tại sao em đã nhập mã số sử dụng sách mềm rồi mà khi muốn đọc nội dung trình duyệt lại cứ yêu cầu kích hoạt để sử dụng sách mềm là sao ạ?
+- sao vào sách mềm đăng nhập mã thẻ xong vô không thấy giao diện các bài học vậy
+- tôi đã nhập mã sách tiếng anh lớp 6 xong giờ vào không thấy phần bài tập
+- trang sách mềm báo nhập mã thành công rồi giờ vào xem sách chỗ được chỗ không nè
+
+## intent:khong_co_ma_sach
+- Sách tập 2 của em không có thẻ cào
+- Sách em mua mã sách chỉ có 12 kí tự là sao nhỉ?
+- Sao tôi nhập mã mà toàn thông báo là khớp với định dạng yêu cầu
+- mình có mua quyển ôn thi thpt quyển 2019 mà không thấy mã cào phía sau
+- Sách tiếng anh 5 tập 2 của con chị không có mã thẻ
+- Sách của tôi không có mật mã
+- Tại sao mã kêu 16 kí tự mà trên 1 hàng chỉ viết được 13 kí tự
+- tại sao em mua sách giáo viên tiếng anh lớp 3 lại không có mã sách mềm ạ
+- sách tôi mua lâu không dùng đã cũ và sách có 12 kí tự có dùng trên sách mềm được không?
+- em không nhập được đủ các kí tự trên sách mềm ạ
+- sách tiếng anh lớp 9 của em không có mã sách là soao nhỉ ad?
+
+## intent:xem_ma
+- Mã thẻ
+- tôi cần mã sách mềm bạn ơi
+- Cho em mã số sách mềm
+- vậy tôi làm sao để có được mã
+- Sách mềm cấp cho tôi mã thẻ: Nguyễn Thị Hương. Mail: nh66779@gmail.com. Xin cảm ơn.
+- Tôi muốn có mã của giáo viên thì làm thế nào?
+- Cho em xin mã số sách giành cho giáo viên ạ. Em cảm ơn.
+- Bạn có thể cho mình một mã xác nhận để có thể dạy học sinh.
+- Em đã tạo tài khoản trên sách mềm. Cho em hỏi em muốn sử dụng sách mềm tiếng anh lớp 5 thì phải làm thế nào ạ?
+- Cho mình xin mã sách mềm với
+- tôi muốn lấy mã thẻ giáo viên
+- Cô ơi cho em hỏi là thẻ của sách là gì?
+- tôi rất thích học tiếng anh hãy cho tôi biết mã
+- Chương trình cho xin một mã thẻ cào với ạ
+- cho mình hỏi làm sao để có mã sử dụng sách?
+- có thể cho tôi một cái mã sách không
+- làm sao để có thể có mã sử dụng để kích hoạt
+- hãy gửi mã thẻ cho tôi
+- Em chào các thầy cô ở Sách mềm! Em tên là Đào Thị Tuyến. Em là giáo viên Tiếng Anh mới tại Trường Tiểu học Vĩnh Quỳnh. Em xin phép các thầy cô cho em mã sử dụng sách để có thể tham khảo và có thể hoàn thiện bài học của mình hơn. Em xin trân thành cảm ơn thầy cô. Chúc thầy cô một ngày tốt lành!
+- cho mình hỏi mua thẻ cào sách mềm ở đâu ạ
+- Cháu muốn có mã thẻ phải làm sao vậy giáo sư
+- Tôi muốn mua thẻ cào của sách mềm. vậy phải làm thế nào? vì sách con tôi dùng không có
+- Cho em xin 1 mã sách mềm
+- làm thế nào để em có được mã thẻ sử dụng sách mềm ạ?
+- Chúng tôi làm thế nào để có số thẻ của sách mình
+- Bạn mình là giáo viên tự đăng ký sách mềm vì nơi mình ở không có cv tiếng anh, và mới thêm sách lớp 4 tập 2 qua mã thẻ sau sách vây sacmem có thể cung cấp các mã thẻ cho các lớp còn lại của bậc tiểu học được không ạ
+- Tớ đã vào được rồi nhưng không có mã số, vậy làm sao có thể lấy mã thẻ ?
+- Cho mình mã thư viện sách mềm nhé. Địa chỉ email : tranthilanhuonghp@gmail.com. Cảm ơn nhiều.
+- Admin có thể cung cấp cho mình mã số sách giáo viên được k? Hiện tại mình đang gia sư và rất cần sử dụng dịch vụ của sách mềm. Cảm ơn nhiều!
+- Cho mình hỏi ạ. mình đăng nhập trên sách mềm nhung mình không có mã sử dụng. Mình không thể tải các bài dạy offline hay các tính năng khác. nhờ ad giúp mình vói ạ. Mình cảm ơn nhiều ạ.
+- Sách mềm ơi cho em xin mả sách mềm để đăng nhập vào được không ạ
+- sachmem tôi là cán bộ quản lý trường thcs và dạy môn tiếng anh tôi muốn sachmem gửi cho mã sách để tôi có thể sử dung trong giảng dạy. xin cảm ơn
+- mình muốn xin mật mã đăng ký sách mềm
+- tôi muốn đăng ký sách dành cho giáo viên thì làm cách nào
+- Mình là giáo viên mình muốn xin mã sử dụng sách mềm thì làm sao ạ?
+- Nếu bây giờ là mã giả thì làm sao để đăng ký sách ạ?
+- Làm sao để sử dụng được 1 số sách bài tập và sách tham khảo ạ
+- Tôi đã có tài khoản sách mềm rồi mà không xem được 1 số sách tham khảo hay quá. Rất mong sách mềm giúp đỡ
+- cho mình hỏi nhập mã số xong, bước tiếp theo sẽ làm thế nào ạ?
+- Nhập mã này được gì không ad
+- Tôi muốn xem sách mềm lớp 8 tập 2
+- mã số nhập vào là khi mình mua sách về, mình lấy mã đó nhập vào thì mới dùng được hả bạn
+- Mình là giáo viên thì có thể xin tài liệu sách mềm được không? Và xin như thế nào ạ?
+- cho mình hỏi. mã kích hoạt thuê bao (subscription code) là mua ở đâu ạ
+- Cho em hỏi mã số của những bài luyện này ở sách nào vậy ạ?
+
+## intent:chao_hoi
+- alo
+- dạ em hỏi chút được không ạ?
+- xin chào
+- có thể cho tôi hỏi được không?
+- hello
+- tui có vài thắc mắc, muốn hỏi và mong được giải thích
+- Xin chào ban quản trị của Sách Mềm
+- Hi!
+- Chào AD
+- sachmem ơi
+- dạ thưa sách mềm
+- Xin chào hệ thống sách mềm của bộ giáo dục và đào tạo
+- Alo ạ
+- Thưa quý thầy cô phụ trách sachmem
+
+## intent:ban_dung_thu
+- Mình muốn đăng kí tài khoản trên sách mềm thì phải làm thế nào ạ? Hiện tại mình chỉ có bản dùng thử của giáo viên thôi.
+- Cho em hỏi tại sao em lại không vào được các unit khác trừ unit 1
+- Mình đăng nhập vào được, nhưng các bài học vẫn dưới dạng bản dùng thử
+- Sách mềm ơi sao tôi bấm vào phiên bản dùng thử dành cho giáo viên lại không được chương trình cấp 2 mà chỉ dùng được cấp 1 và cấp 3 thôi.
+- Nhưng chỉ có phiên bản dùng thử thôi à
+- sao mình vào cuốn sách mềm Bồi Dưỡng học sinh giỏi tiểu học lại chỉ vào có bài 1 thôi nhỉ
+- Cho em hỏi với. Tại sao bên em đăng kí mà không được miễn phí từ lớp 1 đến 12 ạ. Mà phải bắt nhập thêm sách ạ.
+- cho hỏi vì sao khi đăng nhập vào thêm sách máy chỉ cho dùng phiên bản dùng thử mà không có nhập được mã theo sách vậy
+- Mình vừa vào đăng nhập lại nhưng chỉ nhận được bản dùng thử. Vậy bây giờ mình phải làm gì ạ để có thể dùng được bản của giáo viên
+- em mới vào dùng thử mà chỉ có 1 số unit xem được thôi ạ?
+
+## intent:tai_khoan/dang_ky
+- mình muốn tạo tài khoản cho sách mềm
+- có thể lập cho cháu ních được không ạ?
+- đăng ký hộ cháu 1 ních được không ạ?
+- tôi muốn đăng kí thì phải làm thế nào?
+- làm sao để đăng kí sách mềm vậy?
+- Mình muốn 1 tài khoản sách mền thì làm như nào vậy mọi người ơi
+- làm sao cho Nguyễn Sâm dùng phần mềm
+- Con đang là học sinh. Con muốn đăng ký sách mềm nhưng không biết đăng ký
+- Bạn có thể đăng ký giúp mình không?
+- cậu có thể cho mình một ních có được không
+- hay là bạn đăng ký cho mình rồi đăng nhập luôn đi
+- em phải đăng kí như thế nào ạ
+- em không đăng kí vào phần mềm sách mềm em nhờ chị (anh) giúp em đăng kí nhé
+- cách đăng kí sách mềm cho giáo viên sao ạ
+- đăng ký tài khoản như thế nào vậy
+- Muốn đăng kí qua điện thoại thì làm sao
+- Tôi muốn công ty cấp cho một tài khoản sách mềm
+- xin chào trang ạ, mình là phụ huynh của 1 em học sinh lớp 3, và em đang có chương trình học và thi trên trang sách mềm, nhưng mình lại không thể tạo tài khoản cho trang này được. mình muốn được trang hỗ trợ. xin cảm ơn
+- Tôi muốn công ty cấp cho một tài khoản sách mềm
+- Cách đăng ký và đăng nhập
+- tôi rất muốn đăng kí tài khoản để được sử dụng sách mềm tiếng anh tiểu học ạ
+- tôi muốn đăng ký tài khoản
+- làm sao để đăng ký?
+- cho em hỏi em mua sách tại nhà sách họ có chỉ em cào mã để đăng ký học mà em quên hỏi là đăng ký chỗ nào ạ
+- tôi muốn đăng kí bản giáo viên
+- Hướng dẫn đăng ký sách mềm
+- Mình là giáo viên vùng sâu, mình muốn đăng ký tạo một tài khoản vào sách mềm để có thêm nguồn tài liệu hổ trợ trong giảng dạy. Xin chỉ & hướng dẫn mình tạo tài khoản với Sách Mềm.
+- Chào ad. Mình là chuyên viên Sở GDĐT. Ad có thể cho mình xin tài khoản để truy cập. Cảm ơn Ad nhiều.
+- Mình muốn có tài khoản của sach mềm quá! Cung cấp cho mình với. dothinubg@gmail.com
+- Cho tôi bật cho con tôi học
+- tôi muốn xem sách mềm lớp 6
+- em muốn học tiếng anh
+- bạn có biết làm địa chỉ cho chúng tôi không
+- Học tiếng anh lớp 6
+- Mình muốn có tài liệu cho con học tiếng anh lớp 4
+- Tại sao em ko thể tạo lớp học trong học liệu sách mềm ạ
+- cách học tiếng anh
+- Làm thế nào để sử dụng được sách hướng dẫn ôn tập kỳ thi THPT quốc gia năm 2018-2019. Xin cảm ơn.
+- Em đăng ký lại thì không được, vậy bây giờ em phải làm sao để đăng ký lại ạ
+
+## intent:tai_khoan/dang_nhap
+- Trên máy tính vào như thế nào bạn?
+- Tôi đăng nhập bằng cách nào?
+- Tôi muốn đăng nhập sách mềm tiếng anh
+- làm sao để đăng nhập được
+- Bạn có thể đăng nhập cho mình được không
+- Bạn ơi cách nào để đăng nhập vào sachmem để dạy các em học á
+- Tôi muốn hỏi cách đăng nhập sách mềm
+- Vào sách mềm ở đâu
+- Bày cho tôi cách đăng nhập đi chứ tôi không biết cách đánh nhập
+- hãy giúp tôi đăng nhập tài khoản trên máy tính được không?
+- tôi muốn vô sachmem.vn
+- tôi muốn đăng nhập vào sách mềm tiếng anh lớp 5 tập 1
+- mình cần hỗ trợ để truy cập vào sách mềm
+- làm thế nào để vào nick
+- cho em hỏi làm sao để đăng nhập vậy ạ
+- Em ơi hỗ trợ chị với. Chưa từng dùng sách mềm. Năm học này chị muốn dùng thì phải làm thế nào em.
+- mình muốn sử dụng trang này. Hướng dẫn giúp mình nhé
+- sử dụng sách mềm của bên bạn thì cần làm thế nào
+- làm thế nào có thể học được
+- làm sao để vào học
+- tôi muốn có sách mềm để dạy. Tôi phải làm như thế nào ạ?
+- mình muốn được tư vấn để đăng ký cho con học lớp 6
+- cài đặt thế nào có thể học được bạn ơi giúp mình với
+- Làm như thế nào để sử dụng ứng dụng này
+- Cho tôi sử dụng sách mềm để học được không
+- chị ơi làm thế nào mới có thể sử dụng sách mềm được ạ
+- Nhờ sách mềm chỉ cho em đăng nhập sử dụng sách giáo viên với ạ
+- tôi đã học trên sách mềm được chưa
+- Ad ơi sao em trai em đăng nhập vào app Chuột Giấy bằng tài khoản google không được, hiện tại máy tính nhà em bị hỏng, em muốn cho nó học sách mềm bằng điện thoại, dùng app tiện hơn vào trang web nhưng lại không đăng nhập bằng tài khoản google được
+- Sao google bảo trang sách mềm không tồn tại
+
+## intent:loi_dang_nhap
+- Từ hôm qua đến hôm nay em không vào được sách mềm ạ
+- Tôi vẫn không thể truy cập trang đề kiểm tra của sách mềm ạ. Có phải là quá tải không ạ, vậy thì khi nào mới có thể truy cập được ạ?
+- Trang web [không phản hồi](error) nhé.
+- Mình không vào được trang
+- Lỗi [404](error) ạ
+- xem sách toàn hiện lỗi [404](error)
+- Lỗi [501](error) nhé ad
+- Hiện lỗi [504](error) ạ
+- Trang bạn truy cập [hiện không có](error) ạ
+- Tại từ hồi chiều mình vào không được
+- tôi không đăng nhập được vào sách mềm
+- Sao máy tôi không đăng nhập được
+- Lỗi [404](error) page not found hoài ạ
+- mình không đăng nhập sách mềm được, phải làm sao đây?
+- Bạn ơi, mọi lần mình click vào Đề kiểm tra đều được nhưng hôm nay cứ truy cập lại bị từ chối. Thế là sao vậy?
+- Sách mềm ơi sao tớ lại không vào được
+- Sao em nhập mãi mà không được
+- tôi không thể đăng nhập sách mềm lớp 4
+- Sách mềm hôm nay sao vậy ạ. Mình không vào sử dụng được.
+- luôn hiện lên dòng chữ [504](error) Gateway Time-out
+- Cho tôi hỏi sao vào trang sách mềm để dạy mà không chạy được nhỉ? Lâu nay tôi vẫn dạy bình thường chỉ có mấy hôm nay
+- Em nhìn thấy lỗi [connection timed out](error), kết nối quá lâu ạ.
+
+## intent:vo_van_hoa
+- con chó sách mềm
+- định mệnh con chó
+- thằng chó kia
+- bọn ngu sách mềm không có cách đăng kí nào ngoài gmail à.
+- biến
+- cút
+- sách mềm lừa đảo lừa người này
+- sao mấy đứa sách mềm ngu hay đi lừa người thế nhỉ
+- dẹp đi cho khuất mắt tao
+- bọn chó gây khó chịu cho bố mày
+
+## intent:khac
+- là sao
+- sao địa chỉ lại không được
+- Có được sách không
+- Bật bằng cánh nào
+- cho tôi hỏi phần unit 1 lớp 6
+- 789038829407
+- What do you like doing?
+- what are you doing?
+- How old are you?
+- It's been a while. Why i still have not code? Why?
+- Hi good afternoon how are you what you name?
+- what's you name. how are you. what aer you reading?
+- i can not download cd for smart time 10. please help
+- tài khoản em còn 99 ngày, sau 99 ngày đó bị khóa hả AD
+- what is your name?
+- học những môn gì
+- what your name and how old are you
+- What ‘a your sister phone number
+- Vậy mình chụp và gửi lại cho bên sách mềm xem
+- Sách mềm được thành lập từ khi nào?
+
+## intent:cap_nhat
+- Cho mình hỏi tại sao sách giáo khoa lớp 7 tập 1 mình vẫn còn 284 ngày nữa mới hết hạn mà sao bây giờ không nghe được nhỉ
+- Mình muốn dùng chức năng nghe mà lúc được lúc không nhỉ
+- Mình đang sử dụng sách mềm. Mình muốn dùng phiên bản mới nhất. Mình không thấy có chức năng ẩn câu thoại hoặc tranh.
+- Khi mình tải đề kiểm tra về thì hình ảnh không hiển thị ạ
+- Bạn ơi sao mình không dùng được phần trò chơi trong sách mềm vậy? Có phải do bản của mình chưa cập nhật không?
+- cho mình hỏi 1 tí ạ. sao file nghe của đề kiểm tra mình không mở được?
+- hệ thống đang bảo trì hay sao mà vào một tý lại sập vậy
+- tôi đang làm câu này chuyển qua câu khác lại bị trắng màn hình là lỗi gì nhỉ
+- sách của mình hôm qua vẫn vào được mà hôm nay lại không nhé ad
+- mình ghi âm xong giờ không nghe được hả ad
+
+## intent:xin_dap_an
+- có thể [cho em đáp án](xem_dap_an) mà không cần đăng nhập vậy
+- tại sao mình đăng kí sách [giáo viên](type_account) mà lại không có đáp án vậy
+- sao của em [không có ba chiếc chìa khóa](xem_dap_an) để giải vậy
+- Bây giờ mình muốn tham khảo [đáp án chi tiết](xem_dap_an) thì phải làm thế nào?
+- tài khoản của mình là [giáo viên](type_account) nhưng không xem được đáp án.
+- tôi đăng ký ních [giáo viên](type_account) mà bài có đáp án bài thì không?
+- mình đã trả lời sai 3 lần rồi, giờ xem [đáp án chi tiết](xem_dap_an) kiểu gì ạ?
+- đáp án cho tài khoản [học sinh](type_account) của em ít vậy
+- làm sao để [xem đáp án](xem_dap_an) của bài tập tiếng anh lớp 7 tập 1 vậy?
+- em có tài khoản [học viên](type_account) của sách mềm mà không xem được đáp án
+- tôi là [giáo viên](type_account) đăng ký sách mềm mà không tìm được đáp án ạ.
+- tôi muốn [xem đáp án](xem_dap_an) của tiếng anh lớp 6 tập 2
+- tôi muốn xem đáp án, tài khoản của tôi là tài khoản [giáo viên](type_account)
+- của em [không hiện chìa khóa](xem_dap_an) đáp án để xem ạ.
+- con là [học sinh](type_account) lớp 4, con muốn xem đáp án bài tập tiếng anh lớp 5 mà không được
+- em muốn vào xem [đáp án chi tiết](xem_dap_an) của sách bài tập tiếng anh lớp 8
+- cho em [xin đáp án](xem_dap_an) được không ạ?
+
+## intent:the_cao
+- em muốn kiểm tra [thời gian hết hạn](thoi_han) của sách của em
+- Tại sao sách nào cũng có [một cái mã giống nhau](ma_gia) thế nên bọn mình không thể vào sách mềm để học
+- tại sao tôi nhập mã thẻ cào chỉ được 1 lần để học còn lần khác lại nói là thẻ cào không đúng hoặc đã sử dụng là thế nào bạn giúp tôi với tôi xin cảm ơn
+- Mã sách mềm [sử dụng được trong bao lâu](thoi_han)
+- mã sách em mua [giống nhau](ma_gia) thì là sách giả hả ad?
+- sách của học sinh lớp mình sách nào cũng có [mã giống nhau](ma_gia) là như thế nào?
+- Mỗi tài khoản sách mềm cấp cho giáo viên được [sử dụng trong bao nhiêu ngày](thoi_han)? Khi hết hạn ngày dùng thì làm thế nào?
+- Tôi nhập [1 mã sách](ma_gia) cho 2 quyển tiếng anh được không?
+- em có một tài khoản nhưng lỡ đăng kí cả hai mã thẻ sách mềm vào, lớp 11 và lớp 8. làm sao để em có thể xóa một mã ra khỏi tài khoản ạ?
+- [thời hạn sử dụng](thoi_han) một cuốn sách là bao lâu nhỉ?
+- em hỏi [thời gian sử dụng](thoi_han) quyển tiếng anh em vừa nhập mã ạ.
+- sách con tôi với bạn học đều có [chung mã sách](ma_gia) nên nhập đang bị lỗi ạ.
+- làm sao kiểm tra [thời hạn sử dụng](thoi_han) sách mềm ad nhỉ?
+- ad ơi, em trai em mua sách tiếng anh lớp 4 theo yêu cầu nhà trường, giờ em muốn nhập mã sách để giúp nó học ở nhà mà không nhập được. Ad cho em hỏi là sách giáo viên và sách học sinh có liên quan gì đến nhau không ạ, có phải trên lớp cô nhập rồi nên giờ e không nhập được không ạ
+- Mã sách của tôi nhập rồi [dùng được bao lâu](thoi_han) nhỉ ad?
+- Mã sách của em với của bạn em [giống nhau](ma_gia) là sao nhỉ, giờ nhập vào không được
+- Mình có mua 2 quyển sách tiếng anh tập 1, 2 mà về xem cả 2 đều có [chung một mã sách](ma_gia) thì giờ nhập kiểu gì ạ?
+- Tôi thấy các sách của học sinh lớp tôi đều có [mã giống nhau](ma_gia), giờ nhập vào bị lỗi mã đã được sử dụng
+- vào đâu để xem [thời gian](thoi_han) của sách tiếng anh lớp 8
+- [mã giống nhau](ma_gia) có phải bị làm giả không
+- Mình mới nhập mã sách mềm tiếng anh 9, không biết sách này [dùng được bao lâu](thoi_han)?
+
+## intent:tai_khoan_gv
+- muốn nâng cấp lên tài khoản giáo viên dùng được nhiều hơn thì phải làm sao?
+- chuyển ních của mình qua ních giáo viên được không
+- Tôi xin xác nhận BGH nhà trường như thế nào? Xin xác nhận được tôi gửi qua mạng được không?
+- Em là giáo viên dạy tiếng anh cấp 1-2. Em muốn được sử dụng web sách mềm để giảng dạy lâu dài cho học sinh mà không bị giới hạn về thời gian (ngày đăng nhập) thì em cần những gì, cần những điều kiện nào ạ.
+- Em đang gia sư cho 1 nhóm nhỏ. Em muốn tạo đề trắc nghiệm và quản lý nhóm đó thôi chứ em cũng không phải giáo viên chính thức
+- Nhưng tài khoản của mình là tài khoản học sinh. Làm thế nào để đăng ký tài khoản giáo viên vậy ạ?
+- Lúc mình đăng ký không biết là loại gì, giờ chuyển qua giáo viên sao nhỉ?
+- em là giáo viên thực tập, em cần làm những gì để có tài khoản giáo viên sách mềm nhỉ?
+- lúc đầu tôi đăng ký tài khoản bình thường nhưng do nhu cầu tôi cần nâng lên tài khỏan giáo viên, nhờ sách mềm giúp với.
+
+## intent:hoi_sach
+- Tôi muốn xin giáo án [I learn my phonics grade 1](ten_sach). Many thanks
+- Mình muốn thử nghiệm [tiếng anh và toán học](ten_sach)
+- bên sách mềm có sách [thiết kế bài giảng](sach) lớp 6 không?
+- hãy gửi cho tôi [sách giải toán lớp 7](ten_sach) nha
+- cho mình hỏi có giáo án [family and friends special edition 1](ten_sach) không ạ
+- [Phonic](ten_sach) 1.2 có trên sách mềm không ạ? Thanks.
+- bạn có [sách tiếng anh lớp 7](ten_sach) không
+- Có sách hướng dẫn [thiết kế bài giảng Tiếng Anh lớp 5](ten_sach) không ạ?
+- Vở [bài tập tiếng anh lớp 7](ten_sach) tập 1
+- cho em hỏi có [thiết kế bài giảng](sach) lớp 2 không ạ
+- [Tiếng anh lớp 8](ten_sach)
+- mình muốn hỏi thêm về [sách giáo khoa mềm lớp 6](sach) mới
+- cho mình xem [sách giải tiếng anh 7 tập 1](ten_sach) nhá
+- đề thi [trắc nghiệm môn vật lí 10](ten_sach)
+- cho tôi hỏi các [sách từ vựng](sach) hỗ trợ học sinh với
+- Chị ơi có [sách giải bài tập tiếng việt và bài tập toán](ten_sach) không chị
+- [Sách giải ngữ văn 6](ten_sach)
+- Anh chị cho em hỏi bên mình có cung cấp bộ [truyện Story Land](ten_sach) không ạ
+- ở đây có các [dạng bài tập](sach) không
+- Sách mềm [tiếng anh lớp 5](ten_sach)
+- Xin hỏi về sách [my phonics](ten_sach) ạ
+- sách học sinh của mình là của [iseebook](ten_sach), nhưng mình muốn mua của sách mềm, vậy mình phải làm gì?
+- cô ơi cô gửi bài [tiếng anh lớp 6 tập 2](ten_sach) ạ
+- tôi muốn có [bài giảng điện tử lớp 11](sach) sách mới
+- Ad có thể cho em xin [tài liệu ôn thi khối a](sach) được không ạ
+- bên bạn có sách [bài tập bổ trợ tiếng lớp 6, 7, 8](ten_sach) theo chương trình mới không bạn
+- bạn có biết [sách lớp 7](sach) ở trung tâm toàn cầu không
+- Add ơi, cho mình hỏi [sách bài tập bổ trợ và nâng cao tiếng anh](ten_sach) thì có sách mềm không ạ?
+- chuẩn bị có bài kiểm tra 1 tiết, em muốn xem [tổng hợp các kiến thức](sach) của các bài trước. nhưng không biết ứng dụng có tổng hợp hay không, và nếu có thì ở chỗ nào ạ
+- Sách mềm ơi chưa có mã của [cuốn kiểm tra thường xuyên định kì](sach) lớp 6,7,8,9 à?
+- tôi cần [đề thi nói tiếng anh](ten_sach) lớp 8 kì 2
+- ad có [sách bài tập nâng cao](sach) lớp 8 không?
+
+## intent:thu_rac
+- spam nằm ở đâu
+- Mình vào thấy thế mà sao không thấy thư đâu nhỉ
+- sao không gửi thư qua email cho em
+- sao em không có tin nhắn hướng dẫn xác nhận tài khoản
+- làm sao để xác nhận lại tài khoản sau khi đăng kí dậy ạ?
+- tại sao tôi đợi mãi mà không nhận được xác nhận
+- Mình muốn đăng ký tài khoản Sachmem để dạy học. Mình đã gửi thông tin vào mail lienhe@sachmem.vn 10 ngày nay. Nhưng đến hôm nay mình chưa nhận được phản hồi gì
+- bạn cho mình hỏi là nếu email không được thì có thư mục nào nữa không?
+- mình đã gửi mẫu đơn đăng kí tài khoản giáo viên sao chưa thấy sách mềm gửi vậy
+- Tôi đã gửi tới địa chỉ lienhe@sachmem. Nhưng chưa được đáp lại
+- Từ hôm mình chưa thấy sách mềm liên lạc lại mã thẻ
+- mình đã làm như yêu cầu của công ty đăng kí để được cấp quyền sử dụng. công ty có feedback lại mình là sau 1 tuần sẽ có kết quả. đến nay gần 1 tháng rồi sao mình vẫn không được hồi âm vậy ạ
+- làm ơn rep mail của tôi
+- Sách mềm cho tôi hỏi, tôi gửi mail cùng với trường mà 3 người nhận được mã rồi mà tôi chưa nhận được
+- sao mà mình đăng nhập gmail của mình cùng mã sách lâu lắm rồi mà không thấy phản hồi nhỉ?
+- nhưng cháu đăng kí thành công thì cháu vào đăng nhập nó hiện lên thư rác Spam ạ.
+
+## intent:tu_vung
+- Tôi muốn tải file từ vựng để dạy cho con học
+- Cho mình hỏi chút mình có tải trên máy tính nhưng không được phân mềm: từ vựng tiếng Anh sách mềm. Có cần phải tải phần mềm khác nào nữa không?
+- tôi muốn download file slide từ vựng
+- sách mềm ơi, nếu học tiếng anh có cho từ vựng không ạ
+- Tôi đang muốn dùng file từ vựng để tổ chức trò chơi trên lớp
+- tôi muốn tải file từ vựng như vậy hoặc sử dụng offline file từ vựng
+- em đang ôn thi, em cần học từ vựng
+- Tôi muốn cho con tôi học từ vựng thì vào đâu nhỉ
+- Em muốn dùng file từ vựng lúc ở trên lớp, giờ vào đâu tải để dùng offline được hả ad
+- Em muốn nhớ được các từ tiếng anh mà chưa tìm được file từ vựng
+
+## intent:che_do_offline
+- mình đã tải về chế độ offline nhưng chỉ được 2 unit thôi là sao ạ
+- Mình muốn tải sách mềm này về cho con mình học
+- câu hỏi 2: Tại sao tài khoản của em không hiện thị phần tải xuống để dạy offline ạ
+- có tải được sách mềm về máy tính không? trường tôi mạng yếu chập chờn nên tôi muốn tải về máy tính dạy cho ổn định
+- em muốn tải sách mềm để dạy offline thì làm như thế nào ạ
+- Bạn ơi làm sao để tải sách mềm offline
+- tải sách mềm offline như thế nào?
+- sao không thấy bản ofline sách mềm nhỉ
+- làm sao tôi có thể download dùng offline
+- Cho mình hỏi muốn sử dụng bài dạy offline thì làm thế nào ạ?  Vì mạng rất chập chờn nên ảnh hưởng nhiều đến tiến độ bài dạy
+- Mình thấy sách mềm đã ra bản offline nhưng khi mình đăng nhập sách thì ở cuối mỗi unit không có phần tải xuống
+- cho mình hỏi hôm trước mình đi tập huấn, thầy giáo có nói là bài giảng trên sách mềm có thể tải về dạy và lưu trong vòng 2 tuần để phòng trường hợp lớp dạy không có mạng. Vậy tại sao mình không tải đc nhỉ?
+
+## intent:nhap_them_ma
+- cháu đang dùng tiếng Anh 3 tập một, giờ dùng tập hai thế nào?
+- Bây giờ em muốn mở tiếp unit 8
+- Sách tiếng anh lớp 6 tập 1 của em xong rồi, giờ chuyển qua quyển 2 làm sao ạ
+- Em đang chỉ xem được đến unit 3, muốn xem các unit sau của cuốn tiếng anh 7 phải làm sao nhỉ ad
+- Phải nhập thêm mã để dùng thêm sách hay sao ạ
+- Con tôi đang dùng quyển tiếng anh tập 1, giờ tập 2 phải kích hoạt thêm hả bạn
+- Muốn dùng tiếp các quyển khác thì phải đi mua sách rồi nhập mã hả ad?
+- Sách mềm có khuyến mãi dùng các quyển khác khi nhập xong mã không?
+
+## intent:phi_su_dung
+- Em muốn vào xem sách thì có mất phí không ạ
+- Muốn xem sách thì mất tiền hả ad?
+- có tốn tiền không ạ
+- Mất bao nhiêu tiền để sử dụng sách ạ
+- có mất tiền không
+- Ứng dụng này dùng free không ad
+- Sử dụng sách mềm có mất tiền không nhỉ?
+- bạn ơi. dùng cái này có tốn tiền không ạ
+- Mình đăng kí thành công rồi, tức là phần mềm miễn phí đúng không ạ?
+- Tôi đăng ký tài khoản xong rồi giờ vào phải nạp tiền để dùng sách à
+- Sách mềm dùng có miễn phí không?
+
+## intent:da_nen_tang
+- cho mình hỏi một mã số có thể dùng trên nhiều thiết bị không
+- tôi sử dụng máy tính nhưng tài khoản của điện thoại khác vậy tôi có thể sử dụng phần mềm không
+- Mã này dùng được nhiều máy hay 1 máy thôi vậy ad?
+- hướng dẫn dùm em cách tải phần mềm này với ạ.
+- Tôi đăng nhập ở máy nhà tôi rồi, giờ tôi muốn dùng sách mềm ở máy nhà trường thì sao?
+- Ad cho mình hỏi phải truy cập internet mới sử dụng được sách sao?
+- em không dùng điện thoại thì phải làm sao hả chị
+- Sách mềm ơi. Không có mạng có sử dụng được sách mềm không
+- Trang sách mềm này phải có mạng mới dùng được hả, mình có dùng được offline không?
+- Em đăng nhập sách mềm ở hai chỗ thì dùng được ở cả hai hả ad
+
+## intent:ho_tro_email
+- tôi không có email
+- [damdao1984@gmai.com](email)
+- tôi không có email tôi có thể đăng kí được không?
+- [hientbxh@gmail.com](email)
+- [Ledo@gamil.com](email)
+- [phamhoa2010@gmail.com](email)
+- [Quanganhbypr1](email)
+- [nhantribi2508@gmail.com](email)
+- Nếu tôi muốn đăng ký bằng facebook thì phải làm thế nào
+- hay là lấy tài khoản facebook của tôi được không
+- tôi muốn lập 1 tài khoản sách mềm bằng facebook mà sao mãi không được
+- đăng nhập bằng facebook không được
+- em không có email
+- mà đăng nhập bằng facebook thì sao ạ
+- [is5379161@gmail.com](email)
+- đăng kí sách mềm thông qua facebook thì làm thế nào ạ
+- Cô ơi nếu cháu không có email thì làm như nào ạ
+- [tonglethaonhitc2@gmail.com](email)
+- [khanhlinh23072007@gmail.com](email)
+- [lequocdat3011@gmail.com](email)
+- [hongtam710@gmail.com](email)
+- [vothiluu@gmail.com](email)
+- tôi đăng kí bằng gmail không được, tôi muốn đăng kí bằng facebook
+- sao mình vào đăng nhập bằng facebook nó cứ trả lời rằng mình chưa có địa chỉ email hợp lệ
+- [Hoapham.hsc@gmail.com](email)
+- [yenbh82@gmail.com](email)
+- [Anhnt_2013@yahoo.com.vn](email)
+- [duongthaothcsth@gmail.com](email)
+- địa chỉ email cần làm sao để cài đặt được
+- [lehang2013@gmail.com](email)
+- [duyen8080@gmail.com](email)
+- [nguyenthihuyenhuyen77@gmail.com](email)
+- [Namdinh@gmail.com](email)
+- [lethihonghai88@gmail.com](email)
+- [nghitran9011@gmail.com](email)
+- [Hdiem70@yahoo.com](email)
+- [duyen004@gmail.com](email)
+- [huongtran26032007@gmail.com](email)
+- [Huongquynh@gmail.com](email)
+- [phantuong28012007@gmail.com](email)
+- [dohangace@gmail.com](email)
+- [Hathuhuong.2810@gmail.com](email)
+- [xuyenpochoem@gmail.com](email)
+- Toi khong co gmail co dang nhap duoc o
+- [uyenphantpht@gmail.com](email)
+- [Leha2508@gmail.com](email)
+- nếu không có email thì sao
+- dạ em ko có email thì làm sao đang ký ạ
+- nếu tôi ko nhớ email cua tôi thì tôi phai làm sao
+- tôi có thể tải sách mềm mà không cần email được không
+- tôi đã vào và tôi đăng nhập bằng facebook mà không được
+- cho hỏi nếu ko có địa chỉ email thì phải làm sao để đăng nhập vào zậy ạ
+- [quyendung84@gmail.com](email)
+- [huongdiem.pham90@gmail.com](email)
+
+## intent:loi_dang_ky
+- tại sao tôi đăng ký mãi mà không được?
+- em đã làm theo mà không đăng ký thành công
+- Bạn cho mình hỏi? Mình đã đăng ký mãi mà không thể vào học được
+- Mình đăng ký cũng không được
+- tôi đã đăng ký đến bước 3 mà không đi tiếp được là sao
+- tại sao em chưa thể dùng sách mềm được mặc dù đã đăng kí
+- em sử dụng ứng dụng không được
+- Ad ơi tài khoản fb của mình không đăng nhập được sách mềm nhờ ad kiểm tra hộ
+- em vừa đăng ký rồi mà không được, ad giúp em với
+- tôi đã làm theo video đăng ký mà không thành công
+- hướng dẫn kia cũ à, sao tôi đăng ký rồi mà không vào được
+- tôi bị lỗi đăng ký rồi, không được nhé
+
+## intent:dong_y
+- Ok
+- Oke nha bạn
+- đồng ý
+- Được nhé ad
+- Đồng quan điểm
+- Được bạn nhé
+- Yep
+- Ừ, tôi đồng ý
+- Tôi không có gì phản đối
+- Nhất trí!
+
+## intent:cam_on
+- Cảm ơn ạ
+- dạ em cảm ơn ạ
+- Vâng, cám ơn bạn
+- Cảm ơn sách mềm nhiềm ạ.
+- Ok thanks
+- Dạ. Cảm ơn bạn nhé
+- Ok cảm ơn ad nhé
+- Mình cảm ơn
+- Dạ em cảm ơn anh chị đã luôn quan tâm ạ
+- Ok. Thank you
+
+## intent:tam_biet
+- chúng ta chấm dứt ở đây đi
+- kết thúc trò chuyện
+- Chúc bạn mạnh khỏe
+- Bye bye
+- Chấm dứt đối thoại
+- thôi tạm biệt nhé
+- goodbye, hẹn gặp lại
+- Tôi rời đây, chào nhé
+- Không muốn nói chuyện nữa
+- Tạm biệt
+- out thôi
+
+## intent:gia_han
+- Mình sắp hết hạn dùng vào 15/8 tới. Muốn đăng kí tiếp thì giá cả như thế nào
+- làm sao để được gia hạn tiếp ạ?
+- sao sách mềm này lại có thời hạn sử dụng. nếu hết thời hạn thì làm sao để được dùng tiếp ạ
+- Khi hết thời hạn thì giáo viên làm sao để được gia hạn thêm ạ.
+- Với tài khoản học sinh thì gia hạn kiểu gì ạ?
+- mình có tài khoản sách mềm rồi nhưng hạn dùng của mình chỉ còn 24 ngày nữa nên mình muốn xin thêm hạn dùng 1 năm nữa
+- tài khoản sách mềm giáo viên của mình gần hết hạn. mình phải mua quyền sử dụng tiếp hay phải làm thế nào để dùng tiếp sách mềm?
+- sách mềm của tôi sắp hết hạn, tôi phải làm gì để gia hạn sách?
+- Tài khoản của mình còn 34 ngày nữa là hết, làm thế nào để được gia hạn đây?
+- tài khoản sách mềm của mình đã hết hạn, nhờ ad giúp mình kích hoạt lại với
+- Muốn dùng mãi làm thế nào
+- Nhưng mình đang có tài khoản rồi mà, chỉ là sắp hết hạn ạ
+
+## intent:hoi_dap
+- Thủy Tinh sau khi không lấy được vợ....rút quân về. Đoạn văn trên trích từ văn bản nào?
+- Sọ Dừa được sinh ra như thế nào ạ?
+- cuốn màu xanh dương đầu tiên mình lên online http://edubook.com.vn không tìm thấy bạn
+- làm cách nào cho con học tiếng anh lớp 3 tốt nhất
+- "we don't go to school saturdays and sundays" là gì?
+- làm sao học tốt Tiếng anh hơn ạ?
+- tôi không biết tạo email
+- vì sao học sinh cần phải rèn luyện tính trung thực
+- cho mình cách viết bài may favorite food or drink
+- địa chỉ email là gì vậy?
+- cho hỏi mặc áo ấm là gì?
+- ô nhiễm là gì?
+- từ mới, ngữ pháp unit 1, 2, 3 là gì?
+- bạn ơi bạn có thể hướng dẫn công thức và ý nghĩa của món ăn bằng tiếng anh 9 được không ạ?
+- muốn thêm @ kiểu sao ạ
+- Bạn có thể giải giúp mình bài: Review không ạ
+- Email là sao
+- tôi muốn được dịch nghĩa từ tiếng anh sang tiếng việt câu này đó là câu tiếng anh này "vinh, why do you often forget to turn off the light when you go out of the room?"
+- chị ơi lập hộ em cái gmail
+- cách phát âm các từ có vần ED
+- Chỉ câu tiếng anh này được không
+- tôi không biết xác nhận địa chỉ email
+- nhập địa chỉ email kiểu gì vậy bạn
+- làm thế nào để biết email của mình
+- Đặt 5 câu với 5 từ like, love, enjoy, hate, dislike
+- ad ơi email là gì
+- lời giải unit 9 phần getting started lớp 8
+- Cho mình hỏi chút bạn ơi. Bình thương mình dùng phím F11 để phóng to toàn màn hình sách mềm. Khi mình chuyển qua máy tính win 10 thì không chuyển được. Giúp mình với. Xin cảm ơn
+- Cho em hỏi làm sao để bật lại chức năng dịch từ tiếng Anh sang tiếng Việt trên sách mềm ạ
+
+## intent:bao_cao
+- Unit 20 les 2 lớp 3 phần 1 bị lỗi nhiều lắm bạn à
+- Unit 20 les 1 lớp 5 không bôi đen từ để nghe tiếng được
+- Từ city chỉ đọc đến ci
+- Câu thứ 2 bị ngắt giữa 2 câu lâu quá
+- Sách lớp 5 tập 2 mấy bài cuối không có âm thanh ở từ mới phần 2
+- bài kiểm tra học kỳ I của lớp 11, bản dùng thử cho giáo viên, file audio không khớp với câu hỏi ạ
+- Mình muốn sách mềm tạo file nhạc không lời cho học sinh hát. Vì những bài hát trong Sách mềm có lời không hà. Được vậy sẽ rất hay ạ
+- Mình cảm thấy không hài lòng khi sử dụng Sách Mềm
+- Sách mềm ơi. Sao phần nghe không nghe được vậy
+- Trong 1 thời gian dài tôi vẫn không thấy sách mềm cập nhật tài liệu...
+- admin kiểm tra lại web trên PC đi nhé. xem sách toàn hiện lỗi 404
+
+## intent:tai_khoan/quen_mat_khau
+- sách mềm ơi giúp tôi lấy tài khoản sử dụng sách mềm với. lâu tôi không đùng nên quên mất. cảm ơn sách mềm.
+- Ad cho mình hỏi cách khôi phục mật khẩu đăng nhập với
+- Tôi bị mất mật khẩu, giờ làm sao để lấy lại ạ
+- mật khẩu cũ quên rồi, làm sao nhập?
+- quên mật khẩu
+- Tôi không nhớ tới khoản
+- Nhớ email mà không nhớ mật khẩu
+- Tôi không nhớ mật khẩu email
+- Mình muốn truy cập nhưng không nhớ mật khẩu
+- nếu bị quên mật khẩu vào sách mềm, thì làm cách nào lấy lại vậy ad
+- Bạn ơi mình đã đăng kí sách mềm nhưng chưa sử dụng lần nào vì năm học trước mình không dạy khối 10. Bây giờ mình không nhớ mật khẩu thì làm thế nào ạ
+- Tài khoản của em là chebien2010@gmail.com bị mất mật khẩu nhờ sachmem.vn hướng dẫn lấy lại ạ
+- Bạn ơi phục hồi giúp mình tài khoản: maikhanh7376@gmail.com. Mình cảm ơn bạn nha
+- Email sai hoặc sai mật khẩu
+- mình thử rồi mà họ cứ bảo là sai email hoặc mật khẩu bạn ạ. nhờ bạn giúp mình với nhé
+- Trước mình đã đăng nhập sách mềm được nhưng do lâu không vào giờ bảo con vào quên mất có cách nào khắc phục không ạ
+- Cho mình hỏi mình bị mất nick đăng nhập thì làm sao lấy lại được ạ
+- sao tôi nhập mật khẩu nhưng lại cứ hiện mật khẩu không chính xác lúc ấn quên mật khẩu nhập xong email thì lại quay lại đăng nhập
+- nếu tôi không nhớ email của tôi thì tôi phải làm sao
+- Bữa trước tôi có đăng nhập gmail mà tôi đăng kí lại thì không được sách mềm
+- tại sao không vào được. Nhập đúng địa chỉ gmail và pass mà không được cứ báo sai hoài
+
+## intent:mua_sach
+- mình muốn mua quyển thiết kế bài giảng tiếng anh 7 sách chính thức ạ
+- tôi muốn mua sách lịch sử 7 chính thức nhé
+- Vậy bây giờ làm sao để mình có thể mua được sách chuẩn vậy ad
+- Sách này có bán ở các nhà sách không? Mình ở Bạc Liêu.
+- tôi muốn mua mã sách tham khảo lớp 7 thì mua ở đâu ạ?
+- Vì ở chỗ tôi không thể tìm mua được loại sách thật này
+- Cho 1 quyển vở bài tập tiếng anh 9 tập 2
+- tôi muốn mua sách giáo khoa
+- thế mua sách ở đâu được chị
+- Cho mình hỏi mua sách này ở đâu
+- Vậy mình mua sách giấy đảm bảo sách thật mình đặt mua ở đâu a? Mình muốn mua online đc không?
+- Mình muốn đặt mua sách bồi dưỡng học sinh giỏi tiếng anh từ lớp 5 đến lớp 9
+- dạ. ad ơi. em cần mua mã sách mềm bài tập tiếng anh lớp 1 để dạy mà trong em thì k có ạ
+- Mình muốn mua sách thì làm sao nhỉ
+- Bên ad còn bán sách ôn anh thpt quốc gia 2019 không ạ
+- Cho em hỏi sách của bộ GD tiêng Anh 3, 4, 5 không ạ? Nếu có thì mua ở đâu? Thanks
+- Mình muốn mua sách tiếng anh
+- tôi cần mua sách ở đâu
+- Mình muốn mua sách giáo khoa tiếng anh lớp 7, sách giành cho giáo viên chương trình mới của BGD bên bạn có không
+- Xin hỏi muốn đặt mua bộ truyện story land thì làm thế nào ạ
+- mua sách Anh lớp 2 online ở đâu vậy anh?
+- Ad ơi cho mình hỏi Bài Tập Cuối Tuần Tiếng Anh Lớp 4 Tập 1, 2 thì mua ở đâu ạ?
+- Sách mềm ơi, bạn có thể bán trực tiếp mã số sách mềm được không? Vì trên thị trường có rất nhiều sách giấy giả. Hơn nữa, nhà mình rất xa Hà Nội.
+- làm thế nào để mình mua được sách có thẻ cào sách mềm?
+- Em muốn mua sách bài tập
+- xin hỏi muốn mua sách Tiếng Anh chuẩn của BGD mà có mã cào thì mua sách ở đâu ạ
+- Em muốn mua sách tiếng anh lớp 7 và học trên điện thoại được không
+- Chỗ m còn SGK lớp 5 không. Mình muốn mua SGK lớp 5 cho con
+- Nhà sách cho mình đặt 1 bộ sách tiếng anh lớp 5 ạ
+- Đặt mua sách mềm như thế nào thế?
+- Mình muốn đặt mua sách thì có file mềm kèm theo không ạ
+- Mình muốn bộ sách giáo viên lớp 10 chương trình mới
+- em có thể mua sách. bên mình có địa điểm nào gần khu vực cầu giấy không ạ?
+- Công ty cho mình xin địa chỉ các cơ sở bán sách tiếng anh uy tín tại Nghệ An cái
+
+## intent:tinh_nang
+- ad ơi sao sách mềm [không tải được hình ảnh](tinh_nang) xuống nữa ạ
+- Làm sao mà [copy từ sgv bản pdf vào giáo án word](tinh_nang) toàn bị lỗi thôi
+- Hãy cho tôi biết chức năng của sách mềm
+- Mình [muốn tải các bức tranh](tinh_nang) trong phần Getting started của mỗi unit.
+- cho tôi [xem đề kiểm tra](tinh_nang) môn anh 9 1 tiết lần 1
+- Mình là giáo viên tiếng anh nghe nói được miễn phí sử dụng sách mềm mà [không thể tải được sách](tinh_nang).
+- Mình muốn hỏi cách [tải file nghe](tinh_nang) đề kt trên sách mềm ạ
+- Tôi [không thể ghi âm](tinh_nang) phần luyện nói Point and Say được. Sách mềm hướng dẫn tôi một cách chi tiết phần ghi âm này được không? Tôi cần thêm thiết bị gì và tải thêm phần mềm gì.
+- sách mềm [có thể download](tinh_nang) về laptop được không hay chỉ dạy cho các em học sinh trên trang web sachmem.vn?
+- chị cho em hỏi về phần mềm sách mềm nha
+- bạn ơi mình [tải sách](tinh_nang) mềm sao không được
+- Cách sử dụng sách mềm vn
+- mình muốn [lấy bài powerpoint](tinh_nang) trên sách mềm thì phải làm thế nào ạ?
+- Sách mềm giúp ta những gì
+- mình có [tải video](tinh_nang) trên sách mềm được không bạn
+- làm cách nào để [tải các bài học](tinh_nang) về máy
+- Có thể [cho mình đề kiểm tra](tinh_nang) 45 phút tiếng anh 7 được không ạ
+- làm thế nào để [tải được sách](tinh_nang) mềm
+- mình muốn vào trang sách mềm để [tải những hình ảnh](tinh_nang) xuống thế nào ạ?
+- bạn ơi cách sử dụng là thế nào vậy
+- Công dụng nhập mã sách mềm
+- Cách sử dụng website: sachmem.vn
+- Sách mềm là gì
+- muốn [tải sách](tinh_nang) mềm về và có sách dùng thì làm sao ạ
+- Tôi muốn [tải sách](tinh_nang) mềm
+- sách mềm ơi cho em hỏi làm thế nào để [tải được file nghe](tinh_nang) của sách tiếng anh lớp 1 ạ
+- chào ad mong ad giúp mình trả lời 1 số câu hỏi về cách sử dụng phần mềm sách mềm
+- Em mới sử dụng nên chưa hiểu rõ
+- Cho mình [xin file pdf](tinh_nang) của Student Book and Workbook Tiếng Anh 10, sách thí điểm với,cám ơn rất nhiều
+- [có file pdf] không cho xin. cám ơn bạn
+- Tôi đã cài đặt thành công Save Webpage as...nhưng vẫn [không tải được bản Word](tinh_nang). Xin giúp đỡ ạ
+- em xin h­ướng dẫn [tải đề thi](tinh_nang) ở sách mềm bản word với ạ
+- mình muốn [lấy đề](tinh_nang) trong đề thi để giao bài tập cho lớp học trên học liệu vậy phải làm thế nào
+- sách mềm ơi [đề kiểm tra có tải](tinh_nang) để sửa ở bản Word không?
+- Admin ơi, admin cho em [xin file PDF](tinh_nang) sách giáo khoa chương trình mới lớp 12 được không ạ?
+- sachmem hướng dẫn tôi sử dụng cách [tải file ppt, slide](tinh_nang) nhé
+
+## intent:de_kiem_tra
+- có thể gửi cho tôi những đề kiểm tra có thể liên quan đến thi giữa kì 1 lớp 7 không
+- sách mềm có đề kiểm tra không ạ
+- tôi tìm đề kiểm tra unit 3 45 phút
+- Tôi muốn tìm các đề kiểm tra môn toán lớp 5 cho con tôi làm, sách mềm giúp tôi nhé
+- Bạn có thể giới thiệu đề kiểm tra 45 phút môn tiếng anh lớp 7 unit 7 8 9 được không
+- có cho đề tiếng anh 15 phút không ạ
+- trắc nghiệm môn anh 9 cuối học kì 2 của chương trình mới
+- sách mềm ơi cho mình hỏi mình đã đăng kí sách mềm rồi sao vào phần đề thi không được
+- Cho tôi xin đề kiểm tra của môn tiếng anh 8 các unit nhé
+- Để xem đề kiểm tra thì vào đâu nhỉ ad
+- Con là học sinh, con muốn vào xem các đề kiểm tra tiếng anh để chuẩn bị thi cuối kỳ ạ
+
+## intent:kt_tai_khoan
+- Ad ơi xem giúp mình nhé, mình không nghe được bài giảng không dạy con học được
+- Tài khoản quyendung84 của em kích hoạt 2017 giờ không nghe được
+- Hôm qua em còn thấy sách, hôm nay đăng nhập tài khoản đó sách mất tiêu rồi
+- hôm nay mình lại không nhìn thấy sách học sinh lớp 2
+- tại sao máy em không nghe được
+- mình đã đăng nhập bằng facebook, đã nhập mã sách rồi nhưng chỉ xem được phần đầu của sách không xem được toàn bộ là thế nào bạn ơi?
+- Dạ tôi đã đăng ký sách mềm nhưng làm sao để biết đó là bản dùng thử hay đã nhận được code dùng mãi mãi ạ.
+- cho mình hỏi sao từ trước tới giờ mình vẫn dùng được sách mềm nhưng bây giờ vào thì cứ hiện tình trạng đang xác nhận và không vào được là thế nào ạ
+- Bạn xem giúp mình với, tài khoản mình vào toàn bị lỗi thôi
+- Admin check tài khoản gabong giúp em, hôm nay em vào bị chặn mất rồi ạ
+- ad kiểm tra giúp mình tài khoản với nhé
+
+## intent:han_che_sach_gv
+- tôi không xem được các dạng bài tập mà tài khoản của tôi là tài khoản giáo viên được nhà trường cấp
+- Ở trang thư mục: mình muốn xem bài tập hỗ trợ nâng cao Tiếng Anh 9 thì chỉ xem được Unit 1 thôi. Và một số sách bài tập khác cũng không xem được. Mình phải làm sao để xem được
+- Tôi là giáo viên, tôi vào mà không xem được sách bổ trợ nâng cao tiếng anh
+- mình là giáo viên nhưng tại sao khi tôi vào sách mềm không có các loại sách khác
+- tôi dùng tài khoản giáo viên nhưng không xem được sách bài tập là sao nhỉ
+- ad xem giúp tài khoản giáo viên của tôi không truy cập được các sách
+- tài khoản giáo viên của tôi bị hạn chế sách à mà chỉ xem được sách giáo khoa vậy
+- trường mới cấp cho mình ních giáo viên mà vô xem được mỗi sách giáo khoa không vậy
+- ních giáo viên phải mua mã thẻ để xem các sách khác à
+
+## intent:phan_biet_sach
+- sao ad biết là sách giả?
+- Làm sao phân biệt được sách thật hay giả
+- Vậy sách mềm phải có chế tài cho mấy nhà sách bán hàng giả chứ nhỉ
+- Thấy sách vẫn in Nhà Xuất Bản Giáo Dục Việt Nam
+- Em chụp sách xem cho em là sách giả hay sách thật
+- Mình mua trong nhà sách Nhân Dânn nên không thể giả được
+- Mình mua sách về mà không nghe được bài giảng, không biết phải sách giả không nhỉ?
+- Chỗ địa phương em năm nào cũng mua ở cửa hàng này mà lại là sách giả ạ
+- sách nhà trường phát sao lỗi vậy ạ
+
+## intent:capcha
+- captcha là gì vậy ạ
+- sao em đăng ký mà nó cứ yêu cầu em phải nhập captcha là sao ạ
+- nó nói là bạn cần nhập capcha
+- captcha là gì
+- Nhập mã captcha thì làm thế nào ạ?
+- cho tôi hỏi captcha là gì?
+- nó nói bạn cần đăng nhập captcha
+- nhập captcha là làm sao

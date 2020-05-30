@@ -1,0 +1,260 @@
+intents:
+  - lien_he
+  - nhap_ma: {triggers: action_nhap_ma}
+  - nhap_ma_sach
+  - loi_nhap_ma
+  - khong_co_ma_sach
+  - loi_ma_khong_ro
+  - loi_ma_thanh_cong
+  - xem_ma
+  - chao_hoi
+  - ban_dung_thu
+  - tai_khoan
+  - vo_van_hoa
+  - khac
+  - che_do_offline
+  - da_nen_tang
+  - ho_tro_email
+  - loi_dang_ky
+  - dong_y
+  - tam_biet
+  - cam_on
+  - gia_han
+  - hoi_dap
+  - loi_dang_nhap: {triggers: action_loi_dang_nhap}
+  - bao_cao
+  - ma_sai
+  - mua_sach
+  - tinh_nang: {triggers: action_tinh_nang}
+  - sach_gia
+  - de_kiem_tra
+  - nhap_them_ma
+  - phi_su_dung
+  - tu_vung
+  - tai_khoan_gv
+  - hoi_sach: {triggers: action_hoi_sach}
+  - kt_tai_khoan
+  - han_che_sach_gv
+  - the_cao: {triggers: action_the_cao}
+  - xin_dap_an: {triggers: action_xin_dap_an}
+  - cap_nhat
+  - thu_rac
+  - phan_biet_sach
+  - capcha
+entities:
+  - email
+  - type_account
+  - error
+  - subject
+  - tinh_nang
+  - ma_sach
+  - ten_sach
+  - sach
+  - ma_gia
+  - thoi_han
+  - xem_dap_an
+slots:
+  email:
+    type: unfeaturized
+  type_account:
+    type: unfeaturized
+  requested_slot:
+    type: unfeaturized
+  error:
+    type: unfeaturized
+  subject:
+    type: unfeaturized
+  tinh_nang:
+    type: unfeaturized
+  ma_sach:
+    type: unfeaturized
+  ten_sach:
+    type: unfeaturized
+  sach:
+    type: unfeaturized
+  ma_gia:
+    type: unfeaturized
+  thoi_han:
+    type: unfeaturized
+  xem_dap_an:
+    type: unfeaturized
+responses:
+  utter_lien_he:
+  - text: Anh/chị gửi đến địa chỉ lienhe@sachmem.vn. Lưu ý có cả bản mềm. Chúng tôi sẽ phản hồi sớm
+  utter_loi_ma_thanh_cong:
+  - text: Khi hệ thống thông báo xác nhận thành công có nghĩa bạn sẽ sử dụng được bản mềm của sách đó. Với các sách nhiều tập (nhiều kì) bạn phải nhập mã của các tập (kì) khác để kích hoạt. Bạn click vào hình ngôi nhà, sau đó chọn đăng nhập => lớp => sách để xem nhé. Trường hợp mã được xác nhận mà vẫn không xem được sách bạn vui lòng liên hệ tới số 02435122222 trong giờ hành chính để được hỗ trợ nhé!
+  utter_loi_ma_khong_ro:
+  - text: Bạn liên hệ tới số 02435122222 trong giờ hành chính, chụp mã gửi cho nhân viên hỗ trợ. Bên Sách Mềm sẽ gửi tới bộ phận mã thẻ kiểm tra seri tìm mã thẻ cho bạn nhé
+  utter_khong_co_ma_sach:
+  - text: Bạn cần mua sách in ấn và xuất bản từ tháng 4/2017 mới có mã thẻ cào nhé. Và từ thời điểm này mã thẻ cào sẽ có 16 kí tự
+  - text: Tất cả các mã cấp trước tháng 4 năm 2017 đều hết hạn sử dụng và không thể kích hoạt được
+  utter_ma_sach_khong_dung:
+  - text: Mã sách mềm của bạn không hợp lệ. Mã phải có đủ 16 ký tự (không tính các kí tự -)
+  utter_ma_sach_gia:
+  - text: "Mã này là mã giả bạn ạ. Xem thông tin về nạn sách giả tại: https://m.facebook.com/story.php?story_fbid=341933626235691&id=100012571686769. Đề nghị bạn: - Cung cấp tên cửa hàng và địa chỉ cửa hàng bán sách giả cho NXB Giáo dục qua địa chỉ email lienhe@sachmem.vn. - Liên hệ với nơi bán sách giả để đổi lại sách thật. Trường hợp cửa hàng không chịu đổi trả thì bạn liên hệ với đội quản lí thị trường hoặc công an sở tại trợ giúp."
+  - text: Mã sách này được làm giả và nhân ra nhiều sách. Không chỉ mỗi bạn mua nhầm đâu ạ. Sách Mềm tuyên truyền tình trạng giả nhiều nhưng mọi người chưa để ý ạ
+  - text: Chào anh/chị. Hiện nay trên thị trường xuất hiện nhiều loại sách giả. Nhìn hình thức bề ngoài thì tương đối giống sách thật. Nhưng khi kiểm tra kỹ thì đó không phải là tem của NXB. Nếu anh/chị nhập đúng các ký tự như thẻ cào mà không kích hoạt thành công thì đó không phải mã Sách Mềm
+  utter_ma_sach_binh_thuong:
+  - text: Mã sách của bạn không có vấn đề gì. Bạn thử nhập lại xem có được không ạ. Nếu vẫn không được bạn vui lòng liên hệ tới số 02435122222 trong giờ hành chính để được hỗ trợ nhé!
+  utter_ask_ma_sach:
+  - text: Bạn cung cấp mã sách để Sách Mềm kiểm tra nhé (4 kí tự mã ngăn cách nhau bởi dấu -)
+  utter_xem_ma:
+  - text: "Thẻ sử dụng chính là mã số để kích hoạt sách trong Sách Mềm. Để có mã số kích hoạt Sách Mềm như sau: - Nếu là giáo viên tiếng Anh phổ thông, bạn liên hệ với chuyên viên phụ trách tiếng Anh của Phòng/Sở GD đăng ký email nhận mã. Khi Ban quản lý Sách Mềm nhận được danh sách của Phòng/Sở sẽ cấp mã đến email của bạn. Hoặc lấy xác nhận của nhà trường theo mẫu sau và gửi (1 bản chụp có chữ ký, xác nhận dấu đỏ; 1 file mềm) về địa chỉ hòm thư lienhe@sachmem.vn https://docs.google.com/a/heid.vn/spreadsheets/d/1qwyU99wFzifLlcdDtfziPXwgXv4jFI92pbpDcyNhT3o/edit?usp=drivesdk - Nếu không phải là giáo viên tiếng Anh Phổ thông (giáo viên các bộ môn khác, phụ huynh, học sinh,..) mua sách Tiếng Anh của NXBGDVN, in năm 2017, có dán kèm mã số sử dụng ở bìa 4. Lấy mã số đó nhập vào phần Thêm sách của Sách Mềm để kích hoạt và sử dụng sách tương ứng."
+  utter_chao_hoi:
+  - text: Xin chào bạn nha!
+  - text: Xin chào bạn
+  - text: Xin chào bạn, cảm ơn bạn đã liên hệ
+  utter_ban_dung_thu:
+  - text: Bạn đang dùng phiên bản dùng thử. Bạn cần nhập mã Sách Mềm để kích hoạt sử dụng
+  utter_bao_loi:
+  - text: Bạn có thể nói lỗi cụ thể cho Sách Mềm được không ạ?
+  - text: Khi bạn truy cập hệ thống báo như nào ạ?
+  utter_ho_tro:
+  - text: Mình là chatbot mình có thể giúp gì cho bạn?
+  - text: Tôi có thể giúp gì cho bạn?
+  utter_vo_van_hoa:
+  - text: Thái độ của bạn thể hiện con người vô văn hóa
+  utter_ho_tro_email:
+  - text: Bạn cần đăng ký email để sử dụng. Bạn có thể nhờ người thân/bạn bè hỗ trợ nhé
+  - text: Bạn cần có email mới đăng ký được Sách mềm nhé
+  utter_loi_dang_ky:
+  - text: "Bạn đã đăng ký nhưng chưa xác nhận tài khoản. Bạn vào trang: http://gioithieu.sachmem.vn/huongdan/dang-ky-tai-khoan/. https://www.youtube.com/watch?v=JYEED-CF5fY, thực hiện đúng các bước để đăng ký lại nhé.
+    Nếu chưa rõ bạn liên hệ tới số 02435122222 trong giờ hành chính để được hỗ trợ ạ!"
+  - text: "Có nhiều nguyên nhân. Xem hướng dẫn tại đây: https://drive.google.com/drive/u/1/folders/145PpYvuUD9RZV7WtSF83Z6n_xKDsMn0E"
+  utter_tai_hinh_anh:
+  - text: Hiện tại vẫn tải được bạn ạ. Bạn chọn hình ảnh. Sau đó chọn lưu thành là sẽ tải về được máy nhé
+  utter_chi_xem:
+  - text: Nếu bạn không copy được thì phần đó giới hạn chỉ xem bạn nhé
+  utter_tai_de:
+  - text: "Bạn truy cập kiemtra.sachmem.vn để xem. Tải dạng file word: http://gioithieu.sachmem.vn/huongdan/tao-file-word/. Tải dạng pdf: chọn In => Thay đổi(trong hộp thoại in) => Lưu dưới dạng PDF"
+  utter_gioi_thieu:
+  - text: https://gioithieu.sachmem.vn/. Bạn đọc ở đó nhé
+  - text: https://gioithieu.sachmem.vn/huong-dan-su-dung/
+  utter_tai_sach:
+  - text: Hiện tại Sách Mềm chỉ sử dụng online, không thể tải về máy bạn nhé
+  utter_tai_file_nghe:
+  - text: Trong đề kiểm tra có nút tải âm thanh, bạn click vào đó để tải về
+  utter_ghi_âm:
+  - text: "Để sử dụng chức năng ghi âm, bạn cần: Máy phải có micro và khi trình duyệt hỏi cho phép sử dụng thì bạn phải chọn Đồng ý. Người dùng BẤM và GIỮ CHUỘT (tức là bấm xuống nhưng không nhả ra ngay) đồng thời nói luôn. Khi nói xong thì mới thả chuột để kết thúc quá trình ghi âm. Khi đó một biểu tượng sẽ xuất hiện bên phải micro, và người dùng có thể bấm vào đó để nghe lại. Chú ý. Các âm thanh này chưa được lưu lên máy chủ, và sẽ mất khi bạn ra khỏi bài này. Cảm ơn bạn đã góp ý."
+  utter_khong_ho_tro_pdf:
+  - text: "Sách Mềm không cung cấp file pdf của tất cả các sách như thế sẽ vi phạm bản quyền anh/chị nhé"
+  utter_cach_tai_word:
+  - text: http://gioithieu.sachmem.vn/huongdan/tao-file-word/. Anh/chị đọc kỹ hướng dẫn để sử dụng chức năng tải đề kiểm tra
+  utter_dong_y:
+  - text: Vâng bạn nhé!
+  - text: Chúc bạn thành công
+  utter_tam_biet:
+  - text: OK, tạm biệt bạn
+  utter_ask_email:
+  - text: Email đăng ký Sách Mềm của bạn là gì?
+  utter_invalid_email:
+  - text: Email chưa đúng, bạn kiểm tra lại nhé
+  utter_binh_thuong:
+  - text: Tài khoản của bạn có đủ sách mà, bạn vào mục Sách mềm để xem ạ
+  - text: Tài khoản của bạn bình thường. Bạn thử lại xem được không. Nếu vẫn lỗi bạn liên hệ tới số 02435122222 trong giờ hành chính để được hỗ trợ nhé!
+  utter_chua_nhap_ma:
+  - text: Bạn chưa kích hoạt được mã sách nên không thể sử dụng được
+  utter_het_han:
+  - text: Tài khoản của bạn đã hết hạn bạn nhé!
+  utter_cam_on:
+  - text: Không có gì bạn nhé. Cảm ơn bạn đã liên hệ
+  utter_hoi_dap:
+  - text: Bạn hỏi giáo viên của bạn nhé
+  - text: Bạn search trên google nhé
+  utter_404_error:
+  - text: Anh/chị xóa lịch sử trình duyệt sau đó đăng nhập lại. Có thể trình duyệt anh/chị lưu cache, cookie nên chặn không truy cập được
+  utter_500_error:
+  - text: Do quá nhiều người truy cập nên bị quá tải đó ạ. Mình sẽ báo cho đội kỹ thuật họ sẽ kiểm tra lại nhé
+  utter_501_error:
+  - text: Bạn hãy thử lại trang sau vài phút. Nếu điều đó không thành công, hãy thử tải lại trang sau ngày hôm đó hoặc ngày hôm sau. Nếu trình duyệt web của bạn đã cũ, hãy update và thử lại nhé.
+  utter_504_error:
+  - text: Bạn kiểm tra lại các thiết bị mạng và làm mới lại website. Nếu vẫn không vào được bạn liên hệ trực tiếp nhà mạng để được hỗ trợ nhé!
+  utter_quen_mat_khau:
+  - text: Bạn sử dụng chức năng "Quên mật khẩu" ở màn hình đăng nhập. Hệ thống sẽ gửi thư "Hướng dẫn khôi phục mật khẩu" đến email của bạn. Bạn thực hiện theo hướng dẫn để đăng nhập lại nhé.
+  utter_cach_nhap_ma:
+  - text: "Để có mã số sử dụng để kích hoạt sách như sau: - Nếu là giáo viên {subject} phổ thông, bạn liên hệ với chuyên viên phụ trách {subject} của Phòng/Sở GD đăng ký email nhận mã. Khi Ban quản lý Sách Mềm nhận được danh sách của Phòng/Sở sẽ cấp mã đến email của bạn. Hoặc lấy xác nhận của nhà trường theo mẫu sau và gửi 1 bản chụp có dấu kèm theo 1 file mềm về địa chỉ hòm thư lienhe@sachmem.vn : https://docs.google.com/a/heid.vn/spreadsheets/d/1qwyU99wFzifLlcdDtfziPXwgXv4jFI92pbpDcyNhT3o/edit?usp=drivesdk. - Nếu không phải là giáo viên {subject} Phổ thông (giáo viên các bộ môn khác, phụ huynh, học sinh,..) mua sách {subject} của NXBGDVN, có dán kèm thẻ sử dụng Sách Mềm ở bìa 4. Cào, lấy mã số đó nhập vào phần Thêm sách của Sách Mềm để kích hoạt và sử dụng sách tương ứng. Hướng dẫn nạp thẻ cào: http://gioithieu.sachmem.vn/huong-dan-nap-ma-the-cao-sach-mem/. Lưu ý: Đã xuất hiện sách {subject} giả, xem thông tin tại đây: https://m.facebook.com/story.php?story_fbid=314873918941662&id=100012571686769. Để tránh mua phải sách {subject} giả bạn nên sử dụng app Thẻ Sách Mềm để kiểm tra trước. Xem hướng dẫn sử dụng tại đây: https://m.facebook.com/story.php?story_fbid=2235064533387847&id=1852852411609063. Hoặc đặt mua sách trực tuyến tại website www.edubook.com.vn"
+  - text: "Bạn xem hướng dẫn: http://gioithieu.sachmem.vn/huongdan/na%CC%A3p-ma%CC%83-the%CC%89-cao-sach-mem/"
+  utter_bao_cao:
+  - text: Cảm ơn anh/chị góp ý. Sách Mềm sẽ kiểm tra lại ạ.
+  utter_ma_gia:
+  - text: "Mã này là mã giả bạn ạ. Xem thông tin về nạn sách giả tại: https://m.facebook.com/story.php?story_fbid=341933626235691&id=100012571686769. Đề nghị bạn: - Cung cấp tên cửa hàng và địa chỉ cửa hàng bán sách giả cho NXB Giáo dục qua địa chỉ email lienhe@sachmem.vn. - Liên hệ với nơi bán sách giả để đổi lại sách thật. Trường hợp cửa hàng không chịu đổi trả thì bạn liên hệ với đội quản lí thị trường hoặc công an sở tại trợ giúp."
+  - text: Mã sách này được làm giả và nhân ra nhiều sách. Không chỉ mỗi bạn mua nhầm đâu ạ. Sách Mềm tuyên truyền tình trạng giả nhiều nhưng mọi người chưa để ý ạ
+  utter_sach_gia:
+  - text: Chào anh/chị. Hiện nay trên thị trường xuất hiện nhiều loại sách giả. Nhìn hình thức bề ngoài thì tương đối giống sách thật. Nhưng khi kiểm tra kỹ thì đó không phải là tem của NXB. Nếu anh/chị nhập đúng các ký tự như thẻ cào mà không kích hoạt thành công thì đó không phải mã Sách Mềm
+  utter_mua_sach:
+  - text: "Xin chào anh/chị, Để tránh mua phải sách giả trên thị trường anh/chị có thể tham khảo mua sách tại địa chỉ sau: - Mua trực tuyến (online) tại: + website: www.edubook.com.vn. + Facebook: Nhà sách, Siêu thị sách NXBGD https://www.facebook.com/sieuthisachnxbgiaoduc/ - Cửa hàng: CS1: Trung Tâm bán buôn Sách và Thiết bị Giáo dục - 45 Phố Vọng, Hai Bà Trưng, HN - 0243.7668142. CS2: Trung Tâm Sách và Thiết bị Giáo dục 187C Giảng Võ, Đống Đa, HN - 0243.7347590. CS3: Nhà sách HEID - T7 Times City, Hai Bà Trưng, HN - 0243.8218899"
+  utter_sai_account:
+  - text: Bạn nhập sai email hoặc mật khẩu. Nếu không nhớ bạn sử dụng chức năng Quên mật khẩu, thực hiện đúng các bước để lấy lại
+  - text: Nếu chưa rõ bạn liên hệ tới số 02435122222 trong giờ hành chính để được cấp mã nhé.
+  utter_phan_biet_sach:
+  - text: Trên dòng thời gian của Sách Mềm có bài viết hướng dẫn phân biệt sách thật, giả. Bạn xem ở đó nhé
+  - text: "Sách giả sẽ làm nhái gần giống như sách thật bạn ạ. Xem thông tin về nạn sách giả tại: https://m.facebook.com/story.php?story_fbid=341933626235691&id=100012571686769"
+  utter_capcha:
+  - text: Để không bị báo lỗi Captcha, bạn cần tick vào ô trống trước dòng chữ "Tôi không phải là người máy" ==> Chọn Đăng ký
+  utter_gia_han:
+  - text: Nếu là tài khoản giáo viên thì Sách Mềm sẽ dựa vào dữ liệu đã được xác nhận Sở, Phòng GD và trường để tự động gia hạn thời gian sử dụng, nếu là tài khoản học sinh cần nhập mã số ở sau sách để kích hoạt thêm
+  utter_che_do_offline:
+  - text: Chế độ offline chỉ tải 2 unit/lần. Anh/chị đọc kỹ phần hướng dẫn giúp Sách Mềm ạ
+  - text: Hiện nay Sách mềm đã cập nhật tính năng tải bài học ngoại tuyến tối đa 2 unit/lần. Bạn có thể lên tải trước bài học và sau đó truy cập vào trang www.sachmem.vn mở bài học mà không cần sử dụng mạng
+  utter_da_nen_tang:
+  - text: Sách Mềm được sử dụng online nên bạn có thể sử dụng trên nhiều thiết bị và thiết bị đó kết nối internet là được bạn nhé
+  utter_de_kiem_tra:
+  - text: Bạn vào mục kiemtra.sachmem.vn để xem nhé
+  utter_nhap_them_ma:
+  - text: Bạn cần nhập mã số Sách mềm của quyển sách đó để kích hoạt sử dụng nhé
+  utter_phi_su_dung:
+  - text: Bạn chỉ cần lấy mã thẻ ở sau sách Tiếng Anh (sách theo chương trình mới của Bộ GD) nhập vào phần thêm sách của Sách Mềm là sẽ sử dụng miễn phí 1 năm bạn nhé
+  utter_tu_vung:
+  - text: Để học từ vựng bạn truy cập trang tuvung.sachmem.vn để học và hiện vẫn chưa có chức năng tải offline file từ vựng
+  utter_thu_rac:
+  - text: Bạn đăng nhập vào email đã sử dụng để đăng ký tài khoản Sách Mềm. Sau đó vào hộp thư đến tìm thư "Hướng dẫn xác nhận tài khoản" và làm theo hướng dẫn trong đó. Nếu trong hộp thư đến không có bạn nhớ tìm trong mục Spam hoặc thư rác vì thư đã bị lọc vào đó. Sau khi xác nhận tài khoản bạn sẽ đăng nhập được.
+  utter_tai_khoan_gv:
+  - text: Bạn lấy mẫu trên dòng thời gian của Sách Mềm. Viết đủ thông tin như trong đó. Sau đó in ra xin xác nhận của nhà trường là giáo viên => chụp lại rồi gửi tới địa chỉ email của Sách Mềm
+  utter_co_sach:
+  - text: Sách Mềm có sách nhé bạn. Bạn liên hệ tới số 02437668142 để biết thêm chi tiết nhé.
+  utter_khong_co_sach_giai:
+  - text: Sách Mềm không có {sach} bạn nhé, bạn cần phải tự học nha.
+  utter_khong_co_sach:
+  - text: "Sách Mềm không có {sach} bạn nhé."
+  utter_hoi_ten_sach:
+  - text: Bạn muốn hỏi về sách gì ạ?
+  utter_han_che_sach_gv:
+  - text: Hiện tại giáo viên chỉ sử dụng miễn phí sách giáo khoa. Để sử dụng các đầu sách tham khảo, anh/chị mua sách giấy tương ứng, có dán mã thẻ Sách Mềm ở bìa 4 để sử dụng
+  utter_ma_duy_nhat:
+  - text: Mỗi sách có một mã Sách mềm khác nhau bạn nhé. Nếu bạn có các sách chung 1 mã sách mềm thì đó là sách giả
+  utter_thoi_han_ma:
+  - text: Tất cả các mã Sách Mềm đều có thời gian sử dụng là 12 tháng anh/chị nhé. Khi hết hạn thì bạn gia hạn thêm nhé!
+  utter_nhap_ma_mot_lan:
+  - text: Mỗi mã số chỉ kích hoạt được 1 lần, nếu đã kích hoạt ở tài khoản khác rồi thì bạn không kích hoạt ở tài khoản khác được nữa
+  - text: Mỗi mã số chỉ cần kích hoạt 1 lần là hệ thống đã ghi nhớ, những lần sau sử dụng anh/chị không cần nhập lại nữa, mà vào luôn mục Sách mềm để xem sách
+  utter_khac:
+  - text: Xin chào, bạn viết rõ nội dung cần hỏi nhé
+  - text: Sách Mềm không hiểu ý bạn, bạn viết rõ nội dung cần hỗ trợ nhé!
+  utter_dap_an_tuy_chinh:
+  - text: Sách Mềm chuyển thể nguyên bản theo sách giáo khoa nên sẽ có bài có đáp án và có bài không có đáp án bạn nhé.
+  utter_khong_cap_dap_an:
+  - text: Sách Mềm không cung cấp đáp án bạn nhé
+  utter_chia_khoa_dap_an:
+  - text: Do tài khoản của anh/chị là tài khoản học sinh nên không có chùm chìa khóa nhé, chỉ khi bạn nhập mã số giáo viên thì mới có bạn nhé
+  utter_dap_an_chi_tiet:
+  - text: Bạn xem ở mục bóng đèn đó, phần bóng đèn ở trong hoclieu.sachmem.vn, phần đó sẽ gợi ý nhé
+  utter_cap_nhat:
+  - text: Dạ hiện tại hệ thống đang cập nhật, rất mong anh/chị thông cảm ạ
+  utter_default:
+  - text: Sách Mềm không hiểu ý bạn, bạn viết rõ nội dung cần hỗ trợ nhé
+  utter_slot_values:
+  - text: Bạn còn câu hỏi nào không nhỉ?
+actions:
+  - action_nhap_ma
+  - respond_tai_khoan
+  - action_loi_dang_nhap
+  - action_tinh_nang
+  - action_hoi_sach
+  - action_the_cao
+  - action_xin_dap_an
+forms:
+  - loi_nhap_ma_form
+  - kiem_tra_form
+session_config:
+  carry_over_slots_to_new_session: true
+  session_expiration_time: 60

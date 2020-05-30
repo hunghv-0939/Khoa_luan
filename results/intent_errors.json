@@ -1,0 +1,3026 @@
+[
+  {
+    "text": "làm sao để liên hệ được với trung tâm sách mềm",
+    "intent": "lien_he",
+    "intent_prediction": {
+      "name": "nhap_ma",
+      "confidence": 0.3571307361125946
+    }
+  },
+  {
+    "text": "ấn mã cuối sách vào chỗ nào ạ",
+    "intent": "nhap_ma",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.46055343747138977
+    }
+  },
+  {
+    "text": "Dạ kích hoạt mã ở phần nào ạ. Nhờ anh chị chỉ giúp em với",
+    "intent": "nhap_ma",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.40589576959609985
+    }
+  },
+  {
+    "text": "muốn sử dụng sách phải nhập mã, giờ có mã sách tiếng anh thì nhập vào đâu để dùng",
+    "intent": "nhap_ma",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.6032621264457703
+    }
+  },
+  {
+    "text": "Cách để sử dụng sách mềm toàn bộ sách mà không cần nhập mã thêm sách",
+    "intent": "nhap_ma",
+    "intent_prediction": {
+      "name": "tinh_nang",
+      "confidence": 0.4831928610801697
+    }
+  },
+  {
+    "text": "Cào thẻ ở sách thì toàn báo lỗi.",
+    "intent": "loi_nhap_ma",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.20605279505252838
+    }
+  },
+  {
+    "text": "mình xin hỏi lí do tại sao sách giáo khoa, bài tập mua cho các cháu học đều là sách hoàng văn vân chủ biên. Và cuối sách cũng có địa chỉ nơi bán, tem của BGD mã thẻ cào ra không sử dụng được",
+    "intent": "loi_nhap_ma",
+    "intent_prediction": {
+      "name": "mua_sach",
+      "confidence": 0.41603583097457886
+    }
+  },
+  {
+    "text": "Làm ơn kiểm tra giúp em mã sách tiếng anh lớp 4",
+    "intent": "loi_nhap_ma",
+    "intent_prediction": {
+      "name": "loi_ma_thanh_cong",
+      "confidence": 0.2805349826812744
+    }
+  },
+  {
+    "text": "Sách mềm kiểm tra giúp mình xem sách này chuẩn không với.",
+    "intent": "loi_nhap_ma",
+    "intent_prediction": {
+      "name": "de_kiem_tra",
+      "confidence": 0.485934853553772
+    }
+  },
+  {
+    "text": "mình có mua cho cháu 1 cuốn sách nhưng cào mã bị mất số. Hỏi có cách nào lấy lại được không ạ",
+    "intent": "loi_ma_khong_ro",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.936747670173645
+    }
+  },
+  {
+    "text": "Mình mua cho con 2 quyển sách mềm của bên bạn. Mà cào khó vô cùng. Sách thì mới in tháng 9/2018. Bạn kiểm tra lại số seri và báo lại giúp mình 2 mã thẻ cào của 2 quyển sách trên nhé",
+    "intent": "loi_ma_khong_ro",
+    "intent_prediction": {
+      "name": "khong_co_ma_sach",
+      "confidence": 0.5218935608863831
+    }
+  },
+  {
+    "text": "tại sao em mua sách giáo viên tiếng anh lớp 3 lại không có mã sách mềm ạ",
+    "intent": "khong_co_ma_sach",
+    "intent_prediction": {
+      "name": "mua_sach",
+      "confidence": 0.47499313950538635
+    }
+  },
+  {
+    "text": "Cho mình mã thư viện sách mềm nhé. Địa chỉ email : tranthilanhuonghp@gmail.com. Cảm ơn nhiều.",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "ho_tro_email",
+      "confidence": 0.8316291570663452
+    }
+  },
+  {
+    "text": "sachmem tôi là cán bộ quản lý trường thcs và dạy môn tiếng anh tôi muốn sachmem gửi cho mã sách để tôi có thể sử dung trong giảng dạy. xin cảm ơn",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "mua_sach",
+      "confidence": 0.542405903339386
+    }
+  },
+  {
+    "text": "tôi muốn đăng ký sách dành cho giáo viên thì làm cách nào",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.9493694305419922
+    }
+  },
+  {
+    "text": "Tôi đã có tài khoản sách mềm rồi mà không xem được 1 số sách tham khảo hay quá. Rất mong sách mềm giúp đỡ",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.8182103037834167
+    }
+  },
+  {
+    "text": "Nhập mã này được gì không ad",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.5273191928863525
+    }
+  },
+  {
+    "text": "Hi!",
+    "intent": "chao_hoi",
+    "intent_prediction": {
+      "name": "loi_dang_nhap",
+      "confidence": 0.3370262384414673
+    }
+  },
+  {
+    "text": "Mình muốn đăng kí tài khoản trên sách mềm thì phải làm thế nào ạ? Hiện tại mình chỉ có bản dùng thử của giáo viên thôi.",
+    "intent": "ban_dung_thu",
+    "intent_prediction": {
+      "name": "tai_khoan_gv",
+      "confidence": 0.3409978449344635
+    }
+  },
+  {
+    "text": "Cho em hỏi với. Tại sao bên em đăng kí mà không được miễn phí từ lớp 1 đến 12 ạ. Mà phải bắt nhập thêm sách ạ.",
+    "intent": "ban_dung_thu",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.38740578293800354
+    }
+  },
+  {
+    "text": "mình muốn tạo tài khoản cho sách mềm",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.5252262353897095
+    }
+  },
+  {
+    "text": "làm sao cho Nguyễn Sâm dùng phần mềm",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "gia_han",
+      "confidence": 0.2374989241361618
+    }
+  },
+  {
+    "text": "Mình là giáo viên vùng sâu, mình muốn đăng ký tạo một tài khoản vào sách mềm để có thêm nguồn tài liệu hổ trợ trong giảng dạy. Xin chỉ & hướng dẫn mình tạo tài khoản với Sách Mềm.",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.6016461253166199
+    }
+  },
+  {
+    "text": "bạn có biết làm địa chỉ cho chúng tôi không",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "hoi_dap",
+      "confidence": 0.3802917003631592
+    }
+  },
+  {
+    "text": "Từ hôm qua đến hôm nay em không vào được sách mềm ạ",
+    "intent": "loi_dang_nhap",
+    "intent_prediction": {
+      "name": "kt_tai_khoan",
+      "confidence": 0.7959918975830078
+    }
+  },
+  {
+    "text": "Trang web không phản hồi nhé.",
+    "intent": "loi_dang_nhap",
+    "intent_prediction": {
+      "name": "dong_y",
+      "confidence": 0.6290549635887146
+    }
+  },
+  {
+    "text": "Sao em nhập mãi mà không được",
+    "intent": "loi_dang_nhap",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.4884638786315918
+    }
+  },
+  {
+    "text": "Có được sách không",
+    "intent": "khac",
+    "intent_prediction": {
+      "name": "de_kiem_tra",
+      "confidence": 0.35489627718925476
+    }
+  },
+  {
+    "text": "It's been a while. Why i still have not code? Why?",
+    "intent": "khac",
+    "intent_prediction": {
+      "name": "hoi_dap",
+      "confidence": 0.2912389934062958
+    }
+  },
+  {
+    "text": "học những môn gì",
+    "intent": "khac",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.2364882379770279
+    }
+  },
+  {
+    "text": "Mình muốn dùng chức năng nghe mà lúc được lúc không nhỉ",
+    "intent": "cap_nhat",
+    "intent_prediction": {
+      "name": "chao_hoi",
+      "confidence": 0.4384987950325012
+    }
+  },
+  {
+    "text": "Bạn ơi sao mình không dùng được phần trò chơi trong sách mềm vậy? Có phải do bản của mình chưa cập nhật không?",
+    "intent": "cap_nhat",
+    "intent_prediction": {
+      "name": "de_kiem_tra",
+      "confidence": 0.6993746161460876
+    }
+  },
+  {
+    "text": "sao của em không có ba chiếc chìa khóa để giải vậy",
+    "intent": "xin_dap_an",
+    "intent_prediction": {
+      "name": "hoi_sach",
+      "confidence": 0.5238418579101562
+    }
+  },
+  {
+    "text": "em muốn kiểm tra thời gian hết hạn của sách của em",
+    "intent": "the_cao",
+    "intent_prediction": {
+      "name": "gia_han",
+      "confidence": 0.4688766300678253
+    }
+  },
+  {
+    "text": "em có một tài khoản nhưng lỡ đăng kí cả hai mã thẻ sách mềm vào, lớp 11 và lớp 8. làm sao để em có thể xóa một mã ra khỏi tài khoản ạ?",
+    "intent": "the_cao",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.9956273436546326
+    }
+  },
+  {
+    "text": "vào đâu để xem thời gian của sách tiếng anh lớp 8",
+    "intent": "the_cao",
+    "intent_prediction": {
+      "name": "tai_khoan_gv",
+      "confidence": 0.44300127029418945
+    }
+  },
+  {
+    "text": "Lúc mình đăng ký không biết là loại gì, giờ chuyển qua giáo viên sao nhỉ?",
+    "intent": "tai_khoan_gv",
+    "intent_prediction": {
+      "name": "capcha",
+      "confidence": 0.6844585537910461
+    }
+  },
+  {
+    "text": "ở đây có các dạng bài tập không",
+    "intent": "hoi_sach",
+    "intent_prediction": {
+      "name": "khong_co_ma_sach",
+      "confidence": 0.44215336441993713
+    }
+  },
+  {
+    "text": "cô ơi cô gửi bài tiếng anh lớp 6 tập 2 ạ",
+    "intent": "hoi_sach",
+    "intent_prediction": {
+      "name": "nhap_ma",
+      "confidence": 0.3733029365539551
+    }
+  },
+  {
+    "text": "bạn có biết sách lớp 7 ở trung tâm toàn cầu không",
+    "intent": "hoi_sach",
+    "intent_prediction": {
+      "name": "phan_biet_sach",
+      "confidence": 0.3753836452960968
+    }
+  },
+  {
+    "text": "Từ hôm mình chưa thấy sách mềm liên lạc lại mã thẻ",
+    "intent": "thu_rac",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.30354949831962585
+    }
+  },
+  {
+    "text": "làm sao tôi có thể download dùng offline",
+    "intent": "che_do_offline",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.4699424207210541
+    }
+  },
+  {
+    "text": "cháu đang dùng tiếng Anh 3 tập một, giờ dùng tập hai thế nào?",
+    "intent": "nhap_them_ma",
+    "intent_prediction": {
+      "name": "da_nen_tang",
+      "confidence": 0.5531665682792664
+    }
+  },
+  {
+    "text": "Muốn dùng tiếp các quyển khác thì phải đi mua sách rồi nhập mã hả ad?",
+    "intent": "nhap_them_ma",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.3951304852962494
+    }
+  },
+  {
+    "text": "Tôi đăng nhập ở máy nhà tôi rồi, giờ tôi muốn dùng sách mềm ở máy nhà trường thì sao?",
+    "intent": "da_nen_tang",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.8161734938621521
+    }
+  },
+  {
+    "text": "Ad cho mình hỏi phải truy cập internet mới sử dụng được sách sao?",
+    "intent": "da_nen_tang",
+    "intent_prediction": {
+      "name": "loi_dang_nhap",
+      "confidence": 0.2737363278865814
+    }
+  },
+  {
+    "text": "Ok",
+    "intent": "dong_y",
+    "intent_prediction": {
+      "name": "cam_on",
+      "confidence": 0.3752877116203308
+    }
+  },
+  {
+    "text": "Yep",
+    "intent": "dong_y",
+    "intent_prediction": {
+      "name": "khac",
+      "confidence": 0.2912609279155731
+    }
+  },
+  {
+    "text": "Chúc bạn mạnh khỏe",
+    "intent": "tam_biet",
+    "intent_prediction": {
+      "name": "cam_on",
+      "confidence": 0.3631930351257324
+    }
+  },
+  {
+    "text": "Bye bye",
+    "intent": "tam_biet",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.47132861614227295
+    }
+  },
+  {
+    "text": "Tôi rời đây, chào nhé",
+    "intent": "tam_biet",
+    "intent_prediction": {
+      "name": "chao_hoi",
+      "confidence": 0.7212229371070862
+    }
+  },
+  {
+    "text": "Với tài khoản học sinh thì gia hạn kiểu gì ạ?",
+    "intent": "gia_han",
+    "intent_prediction": {
+      "name": "bao_cao",
+      "confidence": 0.36527618765830994
+    }
+  },
+  {
+    "text": "vì sao học sinh cần phải rèn luyện tính trung thực",
+    "intent": "hoi_dap",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.6483155488967896
+    }
+  },
+  {
+    "text": "Bạn có thể giải giúp mình bài: Review không ạ",
+    "intent": "hoi_dap",
+    "intent_prediction": {
+      "name": "hoi_sach",
+      "confidence": 0.39136961102485657
+    }
+  },
+  {
+    "text": "Cho mình hỏi chút bạn ơi. Bình thương mình dùng phím F11 để phóng to toàn màn hình sách mềm. Khi mình chuyển qua máy tính win 10 thì không chuyển được. Giúp mình với. Xin cảm ơn",
+    "intent": "hoi_dap",
+    "intent_prediction": {
+      "name": "khong_co_ma_sach",
+      "confidence": 0.2032584249973297
+    }
+  },
+  {
+    "text": "Unit 20 les 2 lớp 3 phần 1 bị lỗi nhiều lắm bạn à",
+    "intent": "bao_cao",
+    "intent_prediction": {
+      "name": "loi_dang_nhap",
+      "confidence": 0.8215282559394836
+    }
+  },
+  {
+    "text": "bài kiểm tra học kỳ I của lớp 11, bản dùng thử cho giáo viên, file audio không khớp với câu hỏi ạ",
+    "intent": "bao_cao",
+    "intent_prediction": {
+      "name": "cap_nhat",
+      "confidence": 0.6364675164222717
+    }
+  },
+  {
+    "text": "Trước mình đã đăng nhập sách mềm được nhưng do lâu không vào giờ bảo con vào quên mất có cách nào khắc phục không ạ",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "tu_vung",
+      "confidence": 0.37741559743881226
+    }
+  },
+  {
+    "text": "Xin hỏi muốn đặt mua bộ truyện story land thì làm thế nào ạ",
+    "intent": "mua_sach",
+    "intent_prediction": {
+      "name": "hoi_sach",
+      "confidence": 0.5529569983482361
+    }
+  },
+  {
+    "text": "Sách mềm ơi, bạn có thể bán trực tiếp mã số sách mềm được không? Vì trên thị trường có rất nhiều sách giấy giả. Hơn nữa, nhà mình rất xa Hà Nội.",
+    "intent": "mua_sach",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.714784562587738
+    }
+  },
+  {
+    "text": "Mình muốn đặt mua sách thì có file mềm kèm theo không ạ",
+    "intent": "mua_sach",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.8138259053230286
+    }
+  },
+  {
+    "text": "Hãy cho tôi biết chức năng của sách mềm",
+    "intent": "tinh_nang",
+    "intent_prediction": {
+      "name": "nhap_ma",
+      "confidence": 0.406649112701416
+    }
+  },
+  {
+    "text": "sách mềm có thể download về laptop được không hay chỉ dạy cho các em học sinh trên trang web sachmem.vn?",
+    "intent": "tinh_nang",
+    "intent_prediction": {
+      "name": "che_do_offline",
+      "confidence": 0.2844207286834717
+    }
+  },
+  {
+    "text": "làm cách nào để tải các bài học về máy",
+    "intent": "tinh_nang",
+    "intent_prediction": {
+      "name": "che_do_offline",
+      "confidence": 0.45262011885643005
+    }
+  },
+  {
+    "text": "Có thể cho mình đề kiểm tra 45 phút tiếng anh 7 được không ạ",
+    "intent": "tinh_nang",
+    "intent_prediction": {
+      "name": "de_kiem_tra",
+      "confidence": 0.9681432247161865
+    }
+  },
+  {
+    "text": "Sách mềm là gì",
+    "intent": "tinh_nang",
+    "intent_prediction": {
+      "name": "nhap_ma",
+      "confidence": 0.5087475180625916
+    }
+  },
+  {
+    "text": "Dạ tôi đã đăng ký sách mềm nhưng làm sao để biết đó là bản dùng thử hay đã nhận được code dùng mãi mãi ạ.",
+    "intent": "kt_tai_khoan",
+    "intent_prediction": {
+      "name": "thu_rac",
+      "confidence": 0.45025500655174255
+    }
+  },
+  {
+    "text": "ad kiểm tra giúp mình tài khoản với nhé",
+    "intent": "kt_tai_khoan",
+    "intent_prediction": {
+      "name": "dong_y",
+      "confidence": 0.29774484038352966
+    }
+  },
+  {
+    "text": "Em chụp sách xem cho em là sách giả hay sách thật",
+    "intent": "phan_biet_sach",
+    "intent_prediction": {
+      "name": "khong_co_ma_sach",
+      "confidence": 0.2953019142150879
+    }
+  },
+  {
+    "text": "sao em đăng ký mà nó cứ yêu cầu em phải nhập captcha là sao ạ",
+    "intent": "capcha",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.4709179401397705
+    }
+  },
+  {
+    "text": "Nhờ chương trình kiểm tra cho tài khoản tuletanloc@gmail.com đã được cấp mã dùng sách mềm chưa.",
+    "intent": "lien_he",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.4203104078769684
+    }
+  },
+  {
+    "text": "Sách mềm cho hỏi. Tôi gửi danh sách giáo viên đăng ký sử dụng sách mềm đến địa chỉ nào",
+    "intent": "lien_he",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.6830382943153381
+    }
+  },
+  {
+    "text": "mình thay máy tính và quên mật mã sách mềm",
+    "intent": "nhap_ma",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.4781421720981598
+    }
+  },
+  {
+    "text": "mình mới mua sách tiếng anh nâng cao, nhập mã này ở chỗ nào nhỉ?",
+    "intent": "nhap_ma",
+    "intent_prediction": {
+      "name": "mua_sach",
+      "confidence": 0.4630134403705597
+    }
+  },
+  {
+    "text": "tôi muốn hỏi vì sao nhập mã lại không được",
+    "intent": "loi_nhap_ma",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.4310972988605499
+    }
+  },
+  {
+    "text": "Con nhà mình cào không cẩn thận nên không nhìn rõ mã thẻ. Vậy làm thế nào để đăng nhập vào sách mềm?",
+    "intent": "loi_ma_khong_ro",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.6110013127326965
+    }
+  },
+  {
+    "text": "Con em cào mà thẻ mà bị mất số làm thế nào để biết mã sách mềm ạ",
+    "intent": "loi_ma_khong_ro",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.38483017683029175
+    }
+  },
+  {
+    "text": "Tôi đã nhập mã sách mềm ôn THPT QG năm 2018-2019 sao không sử dụng được phần đề luyện tập?",
+    "intent": "loi_ma_thanh_cong",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.5442988276481628
+    }
+  },
+  {
+    "text": "trang sách mềm báo nhập mã thành công rồi giờ vào xem sách chỗ được chỗ không nè",
+    "intent": "loi_ma_thanh_cong",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.798598051071167
+    }
+  },
+  {
+    "text": "mình có mua quyển ôn thi thpt quyển 2019 mà không thấy mã cào phía sau",
+    "intent": "khong_co_ma_sach",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.22302058339118958
+    }
+  },
+  {
+    "text": "Cô ơi cho em hỏi là thẻ của sách là gì?",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "tinh_nang",
+      "confidence": 0.23656390607357025
+    }
+  },
+  {
+    "text": "làm sao để có thể có mã sử dụng để kích hoạt",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "nhap_ma",
+      "confidence": 0.5520470142364502
+    }
+  },
+  {
+    "text": "cho mình hỏi mua thẻ cào sách mềm ở đâu ạ",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "mua_sach",
+      "confidence": 0.8513208627700806
+    }
+  },
+  {
+    "text": "Mình là giáo viên thì có thể xin tài liệu sách mềm được không? Và xin như thế nào ạ?",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "the_cao",
+      "confidence": 0.3222464323043823
+    }
+  },
+  {
+    "text": "Xin chào ban quản trị của Sách Mềm",
+    "intent": "chao_hoi",
+    "intent_prediction": {
+      "name": "tinh_nang",
+      "confidence": 0.4875868260860443
+    }
+  },
+  {
+    "text": "Cho em hỏi tại sao em lại không vào được các unit khác trừ unit 1",
+    "intent": "ban_dung_thu",
+    "intent_prediction": {
+      "name": "han_che_sach_gv",
+      "confidence": 0.6103845238685608
+    }
+  },
+  {
+    "text": "Mình vừa vào đăng nhập lại nhưng chỉ nhận được bản dùng thử. Vậy bây giờ mình phải làm gì ạ để có thể dùng được bản của giáo viên",
+    "intent": "ban_dung_thu",
+    "intent_prediction": {
+      "name": "tai_khoan_gv",
+      "confidence": 0.3724616467952728
+    }
+  },
+  {
+    "text": "Bạn có thể đăng ký giúp mình không?",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "chao_hoi",
+      "confidence": 0.38648420572280884
+    }
+  },
+  {
+    "text": "xin chào trang ạ, mình là phụ huynh của 1 em học sinh lớp 3, và em đang có chương trình học và thi trên trang sách mềm, nhưng mình lại không thể tạo tài khoản cho trang này được. mình muốn được trang hỗ trợ. xin cảm ơn",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "the_cao",
+      "confidence": 0.3916798532009125
+    }
+  },
+  {
+    "text": "Vào sách mềm ở đâu",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "tinh_nang",
+      "confidence": 0.3781735301017761
+    }
+  },
+  {
+    "text": "mình cần hỗ trợ để truy cập vào sách mềm",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "ho_tro_email",
+      "confidence": 0.38341376185417175
+    }
+  },
+  {
+    "text": "Em ơi hỗ trợ chị với. Chưa từng dùng sách mềm. Năm học này chị muốn dùng thì phải làm thế nào em.",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "nhap_ma",
+      "confidence": 0.4614553451538086
+    }
+  },
+  {
+    "text": "cài đặt thế nào có thể học được bạn ơi giúp mình với",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "chao_hoi",
+      "confidence": 0.2670256197452545
+    }
+  },
+  {
+    "text": "luôn hiện lên dòng chữ 504 Gateway Time-out",
+    "intent": "loi_dang_nhap",
+    "intent_prediction": {
+      "name": "khac",
+      "confidence": 0.7922255992889404
+    }
+  },
+  {
+    "text": "dẹp đi cho khuất mắt tao",
+    "intent": "vo_van_hoa",
+    "intent_prediction": {
+      "name": "bao_cao",
+      "confidence": 0.2775135934352875
+    }
+  },
+  {
+    "text": "hệ thống đang bảo trì hay sao mà vào một tý lại sập vậy",
+    "intent": "cap_nhat",
+    "intent_prediction": {
+      "name": "loi_dang_nhap",
+      "confidence": 0.26620593667030334
+    }
+  },
+  {
+    "text": "mình ghi âm xong giờ không nghe được hả ad",
+    "intent": "cap_nhat",
+    "intent_prediction": {
+      "name": "bao_cao",
+      "confidence": 0.44234153628349304
+    }
+  },
+  {
+    "text": "có thể cho em đáp án mà không cần đăng nhập vậy",
+    "intent": "xin_dap_an",
+    "intent_prediction": {
+      "name": "loi_dang_ky",
+      "confidence": 0.30014875531196594
+    }
+  },
+  {
+    "text": "ad ơi, em trai em mua sách tiếng anh lớp 4 theo yêu cầu nhà trường, giờ em muốn nhập mã sách để giúp nó học ở nhà mà không nhập được. Ad cho em hỏi là sách giáo viên và sách học sinh có liên quan gì đến nhau không ạ, có phải trên lớp cô nhập rồi nên giờ e không nhập được không ạ",
+    "intent": "the_cao",
+    "intent_prediction": {
+      "name": "nhap_ma",
+      "confidence": 0.3581203818321228
+    }
+  },
+  {
+    "text": "Em đang gia sư cho 1 nhóm nhỏ. Em muốn tạo đề trắc nghiệm và quản lý nhóm đó thôi chứ em cũng không phải giáo viên chính thức",
+    "intent": "tai_khoan_gv",
+    "intent_prediction": {
+      "name": "the_cao",
+      "confidence": 0.21717654168605804
+    }
+  },
+  {
+    "text": "em là giáo viên thực tập, em cần làm những gì để có tài khoản giáo viên sách mềm nhỉ?",
+    "intent": "tai_khoan_gv",
+    "intent_prediction": {
+      "name": "han_che_sach_gv",
+      "confidence": 0.6675541996955872
+    }
+  },
+  {
+    "text": "Phonic 1.2 có trên sách mềm không ạ? Thanks.",
+    "intent": "hoi_sach",
+    "intent_prediction": {
+      "name": "khong_co_ma_sach",
+      "confidence": 0.6190106868743896
+    }
+  },
+  {
+    "text": "mình muốn hỏi thêm về sách giáo khoa mềm lớp 6 mới",
+    "intent": "hoi_sach",
+    "intent_prediction": {
+      "name": "tinh_nang",
+      "confidence": 0.4595111012458801
+    }
+  },
+  {
+    "text": "Xin hỏi về sách my phonics ạ",
+    "intent": "hoi_sach",
+    "intent_prediction": {
+      "name": "chao_hoi",
+      "confidence": 0.5874689221382141
+    }
+  },
+  {
+    "text": "tôi muốn có bài giảng điện tử lớp 11 sách mới",
+    "intent": "hoi_sach",
+    "intent_prediction": {
+      "name": "phan_biet_sach",
+      "confidence": 0.4147048890590668
+    }
+  },
+  {
+    "text": "làm sao để xác nhận lại tài khoản sau khi đăng kí dậy ạ?",
+    "intent": "thu_rac",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.6063098907470703
+    }
+  },
+  {
+    "text": "bạn cho mình hỏi là nếu email không được thì có thư mục nào nữa không?",
+    "intent": "thu_rac",
+    "intent_prediction": {
+      "name": "ho_tro_email",
+      "confidence": 0.9777446985244751
+    }
+  },
+  {
+    "text": "Bây giờ em muốn mở tiếp unit 8",
+    "intent": "nhap_them_ma",
+    "intent_prediction": {
+      "name": "hoi_dap",
+      "confidence": 0.2277204841375351
+    }
+  },
+  {
+    "text": "Sách mềm có khuyến mãi dùng các quyển khác khi nhập xong mã không?",
+    "intent": "nhap_them_ma",
+    "intent_prediction": {
+      "name": "han_che_sach_gv",
+      "confidence": 0.8763203620910645
+    }
+  },
+  {
+    "text": "Mình đăng kí thành công rồi, tức là phần mềm miễn phí đúng không ạ?",
+    "intent": "phi_su_dung",
+    "intent_prediction": {
+      "name": "de_kiem_tra",
+      "confidence": 0.4233577251434326
+    }
+  },
+  {
+    "text": "hướng dẫn dùm em cách tải phần mềm này với ạ.",
+    "intent": "da_nen_tang",
+    "intent_prediction": {
+      "name": "che_do_offline",
+      "confidence": 0.7613442540168762
+    }
+  },
+  {
+    "text": "em không dùng điện thoại thì phải làm sao hả chị",
+    "intent": "da_nen_tang",
+    "intent_prediction": {
+      "name": "phi_su_dung",
+      "confidence": 0.5207472443580627
+    }
+  },
+  {
+    "text": "nếu tôi ko nhớ email cua tôi thì tôi phai làm sao",
+    "intent": "ho_tro_email",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.8136628270149231
+    }
+  },
+  {
+    "text": "Tôi không có gì phản đối",
+    "intent": "dong_y",
+    "intent_prediction": {
+      "name": "khac",
+      "confidence": 0.36673977971076965
+    }
+  },
+  {
+    "text": "Dạ em cảm ơn anh chị đã luôn quan tâm ạ",
+    "intent": "cam_on",
+    "intent_prediction": {
+      "name": "phan_biet_sach",
+      "confidence": 0.3483761250972748
+    }
+  },
+  {
+    "text": "chúng ta chấm dứt ở đây đi",
+    "intent": "tam_biet",
+    "intent_prediction": {
+      "name": "bao_cao",
+      "confidence": 0.42316749691963196
+    }
+  },
+  {
+    "text": "out thôi",
+    "intent": "tam_biet",
+    "intent_prediction": {
+      "name": "nhap_ma",
+      "confidence": 0.5299269556999207
+    }
+  },
+  {
+    "text": "sao sách mềm này lại có thời hạn sử dụng. nếu hết thời hạn thì làm sao để được dùng tiếp ạ",
+    "intent": "gia_han",
+    "intent_prediction": {
+      "name": "khac",
+      "confidence": 0.586077868938446
+    }
+  },
+  {
+    "text": "\"we don't go to school saturdays and sundays\" là gì?",
+    "intent": "hoi_dap",
+    "intent_prediction": {
+      "name": "mua_sach",
+      "confidence": 0.16355401277542114
+    }
+  },
+  {
+    "text": "cho hỏi mặc áo ấm là gì?",
+    "intent": "hoi_dap",
+    "intent_prediction": {
+      "name": "tinh_nang",
+      "confidence": 0.6003831624984741
+    }
+  },
+  {
+    "text": "muốn thêm @ kiểu sao ạ",
+    "intent": "hoi_dap",
+    "intent_prediction": {
+      "name": "mua_sach",
+      "confidence": 0.2438887655735016
+    }
+  },
+  {
+    "text": "Chỉ câu tiếng anh này được không",
+    "intent": "hoi_dap",
+    "intent_prediction": {
+      "name": "mua_sach",
+      "confidence": 0.4710283875465393
+    }
+  },
+  {
+    "text": "Sách lớp 5 tập 2 mấy bài cuối không có âm thanh ở từ mới phần 2",
+    "intent": "bao_cao",
+    "intent_prediction": {
+      "name": "loi_dang_nhap",
+      "confidence": 0.26198118925094604
+    }
+  },
+  {
+    "text": "Trong 1 thời gian dài tôi vẫn không thấy sách mềm cập nhật tài liệu...",
+    "intent": "bao_cao",
+    "intent_prediction": {
+      "name": "the_cao",
+      "confidence": 0.7847946286201477
+    }
+  },
+  {
+    "text": "tại sao không vào được. Nhập đúng địa chỉ gmail và pass mà không được cứ báo sai hoài",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.8219530582427979
+    }
+  },
+  {
+    "text": "Công ty cho mình xin địa chỉ các cơ sở bán sách tiếng anh uy tín tại Nghệ An cái",
+    "intent": "mua_sach",
+    "intent_prediction": {
+      "name": "hoi_dap",
+      "confidence": 0.3715994954109192
+    }
+  },
+  {
+    "text": "Công dụng nhập mã sách mềm",
+    "intent": "tinh_nang",
+    "intent_prediction": {
+      "name": "nhap_ma",
+      "confidence": 0.9588639736175537
+    }
+  },
+  {
+    "text": "sách mềm ơi cho em hỏi làm thế nào để tải được file nghe của sách tiếng anh lớp 1 ạ",
+    "intent": "tinh_nang",
+    "intent_prediction": {
+      "name": "mua_sach",
+      "confidence": 0.8316643834114075
+    }
+  },
+  {
+    "text": "Tôi đã cài đặt thành công Save Webpage as...nhưng vẫn không tải được bản Word. Xin giúp đỡ ạ",
+    "intent": "tinh_nang",
+    "intent_prediction": {
+      "name": "hoi_sach",
+      "confidence": 0.39578965306282043
+    }
+  },
+  {
+    "text": "sachmem hướng dẫn tôi sử dụng cách tải file ppt, slide nhé",
+    "intent": "tinh_nang",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.8588795065879822
+    }
+  },
+  {
+    "text": "cho mình hỏi sao từ trước tới giờ mình vẫn dùng được sách mềm nhưng bây giờ vào thì cứ hiện tình trạng đang xác nhận và không vào được là thế nào ạ",
+    "intent": "kt_tai_khoan",
+    "intent_prediction": {
+      "name": "tai_khoan_gv",
+      "confidence": 0.43157416582107544
+    }
+  },
+  {
+    "text": "trường mới cấp cho mình ních giáo viên mà vô xem được mỗi sách giáo khoa không vậy",
+    "intent": "han_che_sach_gv",
+    "intent_prediction": {
+      "name": "thu_rac",
+      "confidence": 0.25976482033729553
+    }
+  },
+  {
+    "text": "Mình mua trong nhà sách Nhân Dânn nên không thể giả được",
+    "intent": "phan_biet_sach",
+    "intent_prediction": {
+      "name": "mua_sach",
+      "confidence": 0.9543140530586243
+    }
+  },
+  {
+    "text": "Nhập mã captcha thì làm thế nào ạ?",
+    "intent": "capcha",
+    "intent_prediction": {
+      "name": "nhap_ma",
+      "confidence": 0.8796994090080261
+    }
+  },
+  {
+    "text": "cho tôi hỏi captcha là gì?",
+    "intent": "capcha",
+    "intent_prediction": {
+      "name": "chao_hoi",
+      "confidence": 0.5492027401924133
+    }
+  },
+  {
+    "text": "tôi đã gọi điện theo số máy của sách mềm nhưng không ai trả lời",
+    "intent": "lien_he",
+    "intent_prediction": {
+      "name": "loi_dang_ky",
+      "confidence": 0.5928753614425659
+    }
+  },
+  {
+    "text": "Bản mềm mình đăng ký rồi giờ gửi đâu vậy",
+    "intent": "lien_he",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.7713295817375183
+    }
+  },
+  {
+    "text": "làm thế nào để use thẻ cào?",
+    "intent": "nhap_ma",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.8941625356674194
+    }
+  },
+  {
+    "text": "tôi không biết sử dụng mã thẻ",
+    "intent": "nhap_ma",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.4544330835342407
+    }
+  },
+  {
+    "text": "mình muốn đăng nhập thẻ cào của sách mềm thì mình phải làm thế nào trên điện thoại",
+    "intent": "nhap_ma",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.9742268323898315
+    }
+  },
+  {
+    "text": "mình mua sách giáo viên thì sẽ được cấp mã sử dụng phần mềm ạ",
+    "intent": "nhap_ma",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.6137668490409851
+    }
+  },
+  {
+    "text": "Nhưng không biết đăng nhập thêm sách",
+    "intent": "nhap_ma",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.42695876955986023
+    }
+  },
+  {
+    "text": "tại sao tôi gửi mã rồi mà không vào được sách mềm",
+    "intent": "loi_nhap_ma",
+    "intent_prediction": {
+      "name": "loi_dang_ky",
+      "confidence": 0.38895249366760254
+    }
+  },
+  {
+    "text": "Sao mã sách mềm của em không được ạ?",
+    "intent": "loi_nhap_ma",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.9134035110473633
+    }
+  },
+  {
+    "text": "chào ad, mình nhập mã sách lớp 2 của con nhưng bây giờ không nhớ cách vào mà nhập lại mã thì nói đã sử dụng, vậy hỏi ad có cách nào khôi phục đươc không ạ, xin cảm ơn ạ",
+    "intent": "loi_nhap_ma",
+    "intent_prediction": {
+      "name": "nhap_ma",
+      "confidence": 0.6482886672019958
+    }
+  },
+  {
+    "text": "Nhập mã không được là mua phải sách giả rồi phải không ạ",
+    "intent": "loi_nhap_ma",
+    "intent_prediction": {
+      "name": "nhap_ma",
+      "confidence": 0.5551486015319824
+    }
+  },
+  {
+    "text": "cho mình hỏi sao mình đăng nhập vào phần thêm sách với mã thẻ CZ3Y-V2KX-RS3Z-BT14 không được",
+    "intent": "loi_nhap_ma",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.5924913883209229
+    }
+  },
+  {
+    "text": "mình mua sach bài tập bổ trợ nâng cao tiếng anh 7. mình đã cào để lấy mã số. nhưng thấy mã thẻ cào bị hỏng, vì thế không nhập được. chỉ còn số seri của sách là B18-MFU95754, có thể tra được mã số không ạ?",
+    "intent": "loi_ma_khong_ro",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.7870396375656128
+    }
+  },
+  {
+    "text": "tại sao em đã nhập mã, cũng đã có thông báo xác nhận thành công mà vẫn không khả dụng ạ?",
+    "intent": "loi_ma_thanh_cong",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.7914320230484009
+    }
+  },
+  {
+    "text": "Chào bạn bên mình đã đăng ký 5 mã sách đều thành công nhưng khi kích hoạt từng quyển đều báo trắng trơn",
+    "intent": "loi_ma_thanh_cong",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.9191672205924988
+    }
+  },
+  {
+    "text": "tôi đã nhập mã sách tiếng anh lớp 6 xong giờ vào không thấy phần bài tập",
+    "intent": "loi_ma_thanh_cong",
+    "intent_prediction": {
+      "name": "nhap_ma",
+      "confidence": 0.3477134108543396
+    }
+  },
+  {
+    "text": "Sao tôi nhập mã mà toàn thông báo là khớp với định dạng yêu cầu",
+    "intent": "khong_co_ma_sach",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.3877091407775879
+    }
+  },
+  {
+    "text": "có thể cho tôi một cái mã sách không",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "the_cao",
+      "confidence": 0.3932192325592041
+    }
+  },
+  {
+    "text": "Tôi muốn mua thẻ cào của sách mềm. vậy phải làm thế nào? vì sách con tôi dùng không có",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "khong_co_ma_sach",
+      "confidence": 0.6374791264533997
+    }
+  },
+  {
+    "text": "Tôi muốn xem sách mềm lớp 8 tập 2",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.8668529391288757
+    }
+  },
+  {
+    "text": "mã số nhập vào là khi mình mua sách về, mình lấy mã đó nhập vào thì mới dùng được hả bạn",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.5695601105690002
+    }
+  },
+  {
+    "text": "có thể cho tôi hỏi được không?",
+    "intent": "chao_hoi",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.28083449602127075
+    }
+  },
+  {
+    "text": "tui có vài thắc mắc, muốn hỏi và mong được giải thích",
+    "intent": "chao_hoi",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.5851331949234009
+    }
+  },
+  {
+    "text": "Mình đăng nhập vào được, nhưng các bài học vẫn dưới dạng bản dùng thử",
+    "intent": "ban_dung_thu",
+    "intent_prediction": {
+      "name": "loi_dang_nhap",
+      "confidence": 0.4687567353248596
+    }
+  },
+  {
+    "text": "sao mình vào cuốn sách mềm Bồi Dưỡng học sinh giỏi tiểu học lại chỉ vào có bài 1 thôi nhỉ",
+    "intent": "ban_dung_thu",
+    "intent_prediction": {
+      "name": "da_nen_tang",
+      "confidence": 0.43093159794807434
+    }
+  },
+  {
+    "text": "Con đang là học sinh. Con muốn đăng ký sách mềm nhưng không biết đăng ký",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "loi_dang_ky",
+      "confidence": 0.5330026149749756
+    }
+  },
+  {
+    "text": "cho em hỏi em mua sách tại nhà sách họ có chỉ em cào mã để đăng ký học mà em quên hỏi là đăng ký chỗ nào ạ",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.9098513722419739
+    }
+  },
+  {
+    "text": "tôi muốn vô sachmem.vn",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "tinh_nang",
+      "confidence": 0.2931976914405823
+    }
+  },
+  {
+    "text": "Nhờ sách mềm chỉ cho em đăng nhập sử dụng sách giáo viên với ạ",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.37367385625839233
+    }
+  },
+  {
+    "text": "xem sách toàn hiện lỗi 404",
+    "intent": "loi_dang_nhap",
+    "intent_prediction": {
+      "name": "han_che_sach_gv",
+      "confidence": 0.48602092266082764
+    }
+  },
+  {
+    "text": "mình không đăng nhập sách mềm được, phải làm sao đây?",
+    "intent": "loi_dang_nhap",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.97365403175354
+    }
+  },
+  {
+    "text": "Sách mềm ơi sao tớ lại không vào được",
+    "intent": "loi_dang_nhap",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.311294287443161
+    }
+  },
+  {
+    "text": "cút",
+    "intent": "vo_van_hoa",
+    "intent_prediction": {
+      "name": "dong_y",
+      "confidence": 0.505975067615509
+    }
+  },
+  {
+    "text": "cho tôi hỏi phần unit 1 lớp 6",
+    "intent": "khac",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.3331252336502075
+    }
+  },
+  {
+    "text": "i can not download cd for smart time 10. please help",
+    "intent": "khac",
+    "intent_prediction": {
+      "name": "tinh_nang",
+      "confidence": 0.8390276432037354
+    }
+  },
+  {
+    "text": "cho mình hỏi 1 tí ạ. sao file nghe của đề kiểm tra mình không mở được?",
+    "intent": "cap_nhat",
+    "intent_prediction": {
+      "name": "tinh_nang",
+      "confidence": 0.7118861079216003
+    }
+  },
+  {
+    "text": "sách của mình hôm qua vẫn vào được mà hôm nay lại không nhé ad",
+    "intent": "cap_nhat",
+    "intent_prediction": {
+      "name": "loi_dang_nhap",
+      "confidence": 0.4612653851509094
+    }
+  },
+  {
+    "text": "Mỗi tài khoản sách mềm cấp cho giáo viên được sử dụng trong bao nhiêu ngày? Khi hết hạn ngày dùng thì làm thế nào?",
+    "intent": "the_cao",
+    "intent_prediction": {
+      "name": "cam_on",
+      "confidence": 0.2955820560455322
+    }
+  },
+  {
+    "text": "em hỏi thời gian sử dụng quyển tiếng anh em vừa nhập mã ạ.",
+    "intent": "the_cao",
+    "intent_prediction": {
+      "name": "nhap_ma",
+      "confidence": 0.48164641857147217
+    }
+  },
+  {
+    "text": "Mình có mua 2 quyển sách tiếng anh tập 1, 2 mà về xem cả 2 đều có chung một mã sách thì giờ nhập kiểu gì ạ?",
+    "intent": "the_cao",
+    "intent_prediction": {
+      "name": "mua_sach",
+      "confidence": 0.7081794142723083
+    }
+  },
+  {
+    "text": "chuyển ních của mình qua ních giáo viên được không",
+    "intent": "tai_khoan_gv",
+    "intent_prediction": {
+      "name": "nhap_them_ma",
+      "confidence": 0.5843449234962463
+    }
+  },
+  {
+    "text": "cho mình hỏi có giáo án family and friends special edition 1 không ạ",
+    "intent": "hoi_sach",
+    "intent_prediction": {
+      "name": "ho_tro_email",
+      "confidence": 0.9176344871520996
+    }
+  },
+  {
+    "text": "đề thi trắc nghiệm môn vật lí 10",
+    "intent": "hoi_sach",
+    "intent_prediction": {
+      "name": "de_kiem_tra",
+      "confidence": 0.9846093058586121
+    }
+  },
+  {
+    "text": "cho tôi hỏi các sách từ vựng hỗ trợ học sinh với",
+    "intent": "hoi_sach",
+    "intent_prediction": {
+      "name": "tu_vung",
+      "confidence": 0.5617761015892029
+    }
+  },
+  {
+    "text": "bên bạn có sách bài tập bổ trợ tiếng lớp 6, 7, 8 theo chương trình mới không bạn",
+    "intent": "hoi_sach",
+    "intent_prediction": {
+      "name": "mua_sach",
+      "confidence": 0.7195414900779724
+    }
+  },
+  {
+    "text": "tôi cần đề thi nói tiếng anh lớp 8 kì 2",
+    "intent": "hoi_sach",
+    "intent_prediction": {
+      "name": "de_kiem_tra",
+      "confidence": 0.7612751722335815
+    }
+  },
+  {
+    "text": "sao không gửi thư qua email cho em",
+    "intent": "thu_rac",
+    "intent_prediction": {
+      "name": "chao_hoi",
+      "confidence": 0.3045060336589813
+    }
+  },
+  {
+    "text": "tại sao tôi đợi mãi mà không nhận được xác nhận",
+    "intent": "thu_rac",
+    "intent_prediction": {
+      "name": "kt_tai_khoan",
+      "confidence": 0.5539337992668152
+    }
+  },
+  {
+    "text": "Sách mềm cho tôi hỏi, tôi gửi mail cùng với trường mà 3 người nhận được mã rồi mà tôi chưa nhận được",
+    "intent": "thu_rac",
+    "intent_prediction": {
+      "name": "loi_ma_khong_ro",
+      "confidence": 0.30667954683303833
+    }
+  },
+  {
+    "text": "sao không thấy bản ofline sách mềm nhỉ",
+    "intent": "che_do_offline",
+    "intent_prediction": {
+      "name": "loi_dang_ky",
+      "confidence": 0.3267211616039276
+    }
+  },
+  {
+    "text": "Mình thấy sách mềm đã ra bản offline nhưng khi mình đăng nhập sách thì ở cuối mỗi unit không có phần tải xuống",
+    "intent": "che_do_offline",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.5767560601234436
+    }
+  },
+  {
+    "text": "Phải nhập thêm mã để dùng thêm sách hay sao ạ",
+    "intent": "nhap_them_ma",
+    "intent_prediction": {
+      "name": "nhap_ma",
+      "confidence": 0.8969221711158752
+    }
+  },
+  {
+    "text": "Trang sách mềm này phải có mạng mới dùng được hả, mình có dùng được offline không?",
+    "intent": "da_nen_tang",
+    "intent_prediction": {
+      "name": "tai_khoan_gv",
+      "confidence": 0.8474893569946289
+    }
+  },
+  {
+    "text": "Quanganhbypr1",
+    "intent": "ho_tro_email",
+    "intent_prediction": {
+      "name": "dong_y",
+      "confidence": 0.3347446620464325
+    }
+  },
+  {
+    "text": "Ad ơi tài khoản fb của mình không đăng nhập được sách mềm nhờ ad kiểm tra hộ",
+    "intent": "loi_dang_ky",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.262765109539032
+    }
+  },
+  {
+    "text": "Oke nha bạn",
+    "intent": "dong_y",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.3375372886657715
+    }
+  },
+  {
+    "text": "Ok thanks",
+    "intent": "cam_on",
+    "intent_prediction": {
+      "name": "hoi_sach",
+      "confidence": 0.9557104706764221
+    }
+  },
+  {
+    "text": "Chấm dứt đối thoại",
+    "intent": "tam_biet",
+    "intent_prediction": {
+      "name": "dong_y",
+      "confidence": 0.4921415150165558
+    }
+  },
+  {
+    "text": "Không muốn nói chuyện nữa",
+    "intent": "tam_biet",
+    "intent_prediction": {
+      "name": "loi_dang_nhap",
+      "confidence": 0.1869417428970337
+    }
+  },
+  {
+    "text": "tài khoản sách mềm của mình đã hết hạn, nhờ ad giúp mình kích hoạt lại với",
+    "intent": "gia_han",
+    "intent_prediction": {
+      "name": "phi_su_dung",
+      "confidence": 0.24984551966190338
+    }
+  },
+  {
+    "text": "cho mình cách viết bài may favorite food or drink",
+    "intent": "hoi_dap",
+    "intent_prediction": {
+      "name": "phan_biet_sach",
+      "confidence": 0.3891518712043762
+    }
+  },
+  {
+    "text": "ô nhiễm là gì?",
+    "intent": "hoi_dap",
+    "intent_prediction": {
+      "name": "tinh_nang",
+      "confidence": 0.38532328605651855
+    }
+  },
+  {
+    "text": "bạn ơi bạn có thể hướng dẫn công thức và ý nghĩa của món ăn bằng tiếng anh 9 được không ạ?",
+    "intent": "hoi_dap",
+    "intent_prediction": {
+      "name": "tinh_nang",
+      "confidence": 0.3006571829319
+    }
+  },
+  {
+    "text": "cách phát âm các từ có vần ED",
+    "intent": "hoi_dap",
+    "intent_prediction": {
+      "name": "tinh_nang",
+      "confidence": 0.38940346240997314
+    }
+  },
+  {
+    "text": "Từ city chỉ đọc đến ci",
+    "intent": "bao_cao",
+    "intent_prediction": {
+      "name": "tam_biet",
+      "confidence": 0.4956434667110443
+    }
+  },
+  {
+    "text": "Câu thứ 2 bị ngắt giữa 2 câu lâu quá",
+    "intent": "bao_cao",
+    "intent_prediction": {
+      "name": "hoi_dap",
+      "confidence": 0.6549306511878967
+    }
+  },
+  {
+    "text": "nếu tôi không nhớ email của tôi thì tôi phải làm sao",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "ho_tro_email",
+      "confidence": 0.9875749349594116
+    }
+  },
+  {
+    "text": "Mình muốn tải các bức tranh trong phần Getting started của mỗi unit.",
+    "intent": "tinh_nang",
+    "intent_prediction": {
+      "name": "hoi_dap",
+      "confidence": 0.5166828036308289
+    }
+  },
+  {
+    "text": "Tôi không thể ghi âm phần luyện nói Point and Say được. Sách mềm hướng dẫn tôi một cách chi tiết phần ghi âm này được không? Tôi cần thêm thiết bị gì và tải thêm phần mềm gì.",
+    "intent": "tinh_nang",
+    "intent_prediction": {
+      "name": "phan_biet_sach",
+      "confidence": 0.3324671983718872
+    }
+  },
+  {
+    "text": "chị cho em hỏi về phần mềm sách mềm nha",
+    "intent": "tinh_nang",
+    "intent_prediction": {
+      "name": "da_nen_tang",
+      "confidence": 0.23743873834609985
+    }
+  },
+  {
+    "text": "Sách mềm giúp ta những gì",
+    "intent": "tinh_nang",
+    "intent_prediction": {
+      "name": "khac",
+      "confidence": 0.5811151266098022
+    }
+  },
+  {
+    "text": "[có file pdf] không cho xin. cám ơn bạn",
+    "intent": "tinh_nang",
+    "intent_prediction": {
+      "name": "cam_on",
+      "confidence": 0.3652099072933197
+    }
+  },
+  {
+    "text": "mình muốn lấy đề trong đề thi để giao bài tập cho lớp học trên học liệu vậy phải làm thế nào",
+    "intent": "tinh_nang",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.8126263618469238
+    }
+  },
+  {
+    "text": "sách mềm ơi cho mình hỏi mình đã đăng kí sách mềm rồi sao vào phần đề thi không được",
+    "intent": "de_kiem_tra",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.4506377577781677
+    }
+  },
+  {
+    "text": "Ad ơi xem giúp mình nhé, mình không nghe được bài giảng không dạy con học được",
+    "intent": "kt_tai_khoan",
+    "intent_prediction": {
+      "name": "loi_dang_ky",
+      "confidence": 0.2591044008731842
+    }
+  },
+  {
+    "text": "mình đã đăng nhập bằng facebook, đã nhập mã sách rồi nhưng chỉ xem được phần đầu của sách không xem được toàn bộ là thế nào bạn ơi?",
+    "intent": "kt_tai_khoan",
+    "intent_prediction": {
+      "name": "the_cao",
+      "confidence": 0.3522547483444214
+    }
+  },
+  {
+    "text": "ních giáo viên phải mua mã thẻ để xem các sách khác à",
+    "intent": "han_che_sach_gv",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.293575257062912
+    }
+  },
+  {
+    "text": "Chỗ địa phương em năm nào cũng mua ở cửa hàng này mà lại là sách giả ạ",
+    "intent": "phan_biet_sach",
+    "intent_prediction": {
+      "name": "hoi_dap",
+      "confidence": 0.3654850125312805
+    }
+  },
+  {
+    "text": "sách nhà trường phát sao lỗi vậy ạ",
+    "intent": "phan_biet_sach",
+    "intent_prediction": {
+      "name": "bao_cao",
+      "confidence": 0.369444340467453
+    }
+  },
+  {
+    "text": "nó nói là bạn cần nhập capcha",
+    "intent": "capcha",
+    "intent_prediction": {
+      "name": "tinh_nang",
+      "confidence": 0.47043049335479736
+    }
+  },
+  {
+    "text": "email của sách mềm là gì?",
+    "intent": "lien_he",
+    "intent_prediction": {
+      "name": "hoi_dap",
+      "confidence": 0.8865867853164673
+    }
+  },
+  {
+    "text": "tôi đã gửi thư cho sách mềm, không biết email chính xác là gì nhỉ",
+    "intent": "lien_he",
+    "intent_prediction": {
+      "name": "hoi_dap",
+      "confidence": 0.550739586353302
+    }
+  },
+  {
+    "text": "Ad cho mình hỏi là mình có điền mã sách tiếng anh lớp 3 học kỳ 2 nhưng không thành công",
+    "intent": "loi_nhap_ma",
+    "intent_prediction": {
+      "name": "loi_ma_thanh_cong",
+      "confidence": 0.6921872496604919
+    }
+  },
+  {
+    "text": "Có lần mình đi tập huấn về đăng kí theo mã lớp tập huấn cho mà không được.",
+    "intent": "loi_nhap_ma",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.5675179958343506
+    }
+  },
+  {
+    "text": "Ad ơi kiểm tra lại dùm em sao mã sách mềm quyển tiếng anh lớp 5 tập 2 không sử dụng được",
+    "intent": "loi_nhap_ma",
+    "intent_prediction": {
+      "name": "nhap_them_ma",
+      "confidence": 0.5895634889602661
+    }
+  },
+  {
+    "text": "em có một mã số này chị xem thử đúng không ạ.",
+    "intent": "loi_nhap_ma",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.9108750224113464
+    }
+  },
+  {
+    "text": "Mình vừa mua bộ sách giáo khoa lớp 7 theo chương trình Vnen trong đó có 4 quyển tiếng Anh. Mình vừa cào mã thẻ sách mềm và gửi xác nhận thì trong đó có 3 mã thẻ không xác nhận được. Năm rồi mình cũng bị tình trạng trên. Thật sự mình rất mất niềm tin.",
+    "intent": "loi_nhap_ma",
+    "intent_prediction": {
+      "name": "mua_sach",
+      "confidence": 0.4227235019207001
+    }
+  },
+  {
+    "text": "em đăng nhập mã thêm sách nhưng sao khi ấn vào thêm sách lại bắt em nhập mã khác?",
+    "intent": "loi_nhap_ma",
+    "intent_prediction": {
+      "name": "the_cao",
+      "confidence": 0.30282294750213623
+    }
+  },
+  {
+    "text": "Mình mua sách lớp 10 nhưng phần cào mã thẻ cào rất khó không đọc được số nào",
+    "intent": "loi_ma_khong_ro",
+    "intent_prediction": {
+      "name": "nhap_ma",
+      "confidence": 0.324633926153183
+    }
+  },
+  {
+    "text": "anh/chị cho em hỏi tại sao em đã nhập mã số sử dụng sách mềm rồi mà khi muốn đọc nội dung trình duyệt lại cứ yêu cầu kích hoạt để sử dụng sách mềm là sao ạ?",
+    "intent": "loi_ma_thanh_cong",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.7087355852127075
+    }
+  },
+  {
+    "text": "Sách tập 2 của em không có thẻ cào",
+    "intent": "khong_co_ma_sach",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.7809887528419495
+    }
+  },
+  {
+    "text": "Sách tiếng anh 5 tập 2 của con chị không có mã thẻ",
+    "intent": "khong_co_ma_sach",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.8111955523490906
+    }
+  },
+  {
+    "text": "tôi cần mã sách mềm bạn ơi",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.5348708033561707
+    }
+  },
+  {
+    "text": "Cho mình hỏi ạ. mình đăng nhập trên sách mềm nhung mình không có mã sử dụng. Mình không thể tải các bài dạy offline hay các tính năng khác. nhờ ad giúp mình vói ạ. Mình cảm ơn nhiều ạ.",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "che_do_offline",
+      "confidence": 0.6651289463043213
+    }
+  },
+  {
+    "text": "Nếu bây giờ là mã giả thì làm sao để đăng ký sách ạ?",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "phan_biet_sach",
+      "confidence": 0.2695273458957672
+    }
+  },
+  {
+    "text": "Làm sao để sử dụng được 1 số sách bài tập và sách tham khảo ạ",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "mua_sach",
+      "confidence": 0.9450991749763489
+    }
+  },
+  {
+    "text": "cho mình hỏi nhập mã số xong, bước tiếp theo sẽ làm thế nào ạ?",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "nhap_ma",
+      "confidence": 0.8447180986404419
+    }
+  },
+  {
+    "text": "alo",
+    "intent": "chao_hoi",
+    "intent_prediction": {
+      "name": "dong_y",
+      "confidence": 0.4092112183570862
+    }
+  },
+  {
+    "text": "dạ em hỏi chút được không ạ?",
+    "intent": "chao_hoi",
+    "intent_prediction": {
+      "name": "cam_on",
+      "confidence": 0.32780367136001587
+    }
+  },
+  {
+    "text": "đăng ký hộ cháu 1 ních được không ạ?",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "loi_dang_ky",
+      "confidence": 0.4814568758010864
+    }
+  },
+  {
+    "text": "Chào ad. Mình là chuyên viên Sở GDĐT. Ad có thể cho mình xin tài khoản để truy cập. Cảm ơn Ad nhiều.",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.7835683822631836
+    }
+  },
+  {
+    "text": "Tại sao em ko thể tạo lớp học trong học liệu sách mềm ạ",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "loi_ma_khong_ro",
+      "confidence": 0.35973143577575684
+    }
+  },
+  {
+    "text": "Em đăng ký lại thì không được, vậy bây giờ em phải làm sao để đăng ký lại ạ",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "loi_dang_ky",
+      "confidence": 0.3994537889957428
+    }
+  },
+  {
+    "text": "Tôi đăng nhập bằng cách nào?",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "loi_dang_nhap",
+      "confidence": 0.4357437789440155
+    }
+  },
+  {
+    "text": "Ad ơi sao em trai em đăng nhập vào app Chuột Giấy bằng tài khoản google không được, hiện tại máy tính nhà em bị hỏng, em muốn cho nó học sách mềm bằng điện thoại, dùng app tiện hơn vào trang web nhưng lại không đăng nhập bằng tài khoản google được",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "ho_tro_email",
+      "confidence": 0.508531928062439
+    }
+  },
+  {
+    "text": "Sao google bảo trang sách mềm không tồn tại",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "loi_dang_nhap",
+      "confidence": 0.36569154262542725
+    }
+  },
+  {
+    "text": "Bạn ơi, mọi lần mình click vào Đề kiểm tra đều được nhưng hôm nay cứ truy cập lại bị từ chối. Thế là sao vậy?",
+    "intent": "loi_dang_nhap",
+    "intent_prediction": {
+      "name": "kt_tai_khoan",
+      "confidence": 0.8286722898483276
+    }
+  },
+  {
+    "text": "Cho tôi hỏi sao vào trang sách mềm để dạy mà không chạy được nhỉ? Lâu nay tôi vẫn dạy bình thường chỉ có mấy hôm nay",
+    "intent": "loi_dang_nhap",
+    "intent_prediction": {
+      "name": "kt_tai_khoan",
+      "confidence": 0.4243907928466797
+    }
+  },
+  {
+    "text": "bọn ngu sách mềm không có cách đăng kí nào ngoài gmail à.",
+    "intent": "vo_van_hoa",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.994795560836792
+    }
+  },
+  {
+    "text": "sách mềm lừa đảo lừa người này",
+    "intent": "vo_van_hoa",
+    "intent_prediction": {
+      "name": "mua_sach",
+      "confidence": 0.42306381464004517
+    }
+  },
+  {
+    "text": "là sao",
+    "intent": "khac",
+    "intent_prediction": {
+      "name": "hoi_dap",
+      "confidence": 0.1920199990272522
+    }
+  },
+  {
+    "text": "789038829407",
+    "intent": "khac",
+    "intent_prediction": {
+      "name": "ho_tro_email",
+      "confidence": 0.36822548508644104
+    }
+  },
+  {
+    "text": "tài khoản em còn 99 ngày, sau 99 ngày đó bị khóa hả AD",
+    "intent": "khac",
+    "intent_prediction": {
+      "name": "the_cao",
+      "confidence": 0.6277036070823669
+    }
+  },
+  {
+    "text": "Sách mềm được thành lập từ khi nào?",
+    "intent": "khac",
+    "intent_prediction": {
+      "name": "loi_dang_ky",
+      "confidence": 0.4344671368598938
+    }
+  },
+  {
+    "text": "Mình đang sử dụng sách mềm. Mình muốn dùng phiên bản mới nhất. Mình không thấy có chức năng ẩn câu thoại hoặc tranh.",
+    "intent": "cap_nhat",
+    "intent_prediction": {
+      "name": "hoi_dap",
+      "confidence": 0.3184070587158203
+    }
+  },
+  {
+    "text": "tôi đang làm câu này chuyển qua câu khác lại bị trắng màn hình là lỗi gì nhỉ",
+    "intent": "cap_nhat",
+    "intent_prediction": {
+      "name": "hoi_dap",
+      "confidence": 0.865057110786438
+    }
+  },
+  {
+    "text": "tại sao tôi nhập mã thẻ cào chỉ được 1 lần để học còn lần khác lại nói là thẻ cào không đúng hoặc đã sử dụng là thế nào bạn giúp tôi với tôi xin cảm ơn",
+    "intent": "the_cao",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.842067539691925
+    }
+  },
+  {
+    "text": "sách con tôi với bạn học đều có chung mã sách nên nhập đang bị lỗi ạ.",
+    "intent": "the_cao",
+    "intent_prediction": {
+      "name": "che_do_offline",
+      "confidence": 0.541344404220581
+    }
+  },
+  {
+    "text": "Em là giáo viên dạy tiếng anh cấp 1-2. Em muốn được sử dụng web sách mềm để giảng dạy lâu dài cho học sinh mà không bị giới hạn về thời gian (ngày đăng nhập) thì em cần những gì, cần những điều kiện nào ạ.",
+    "intent": "tai_khoan_gv",
+    "intent_prediction": {
+      "name": "the_cao",
+      "confidence": 0.7519645690917969
+    }
+  },
+  {
+    "text": "Nhưng tài khoản của mình là tài khoản học sinh. Làm thế nào để đăng ký tài khoản giáo viên vậy ạ?",
+    "intent": "tai_khoan_gv",
+    "intent_prediction": {
+      "name": "loi_dang_ky",
+      "confidence": 0.6096532940864563
+    }
+  },
+  {
+    "text": "sách học sinh của mình là của iseebook, nhưng mình muốn mua của sách mềm, vậy mình phải làm gì?",
+    "intent": "hoi_sach",
+    "intent_prediction": {
+      "name": "the_cao",
+      "confidence": 0.20652927458286285
+    }
+  },
+  {
+    "text": "Ad có thể cho em xin tài liệu ôn thi khối a được không ạ",
+    "intent": "hoi_sach",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.7438982725143433
+    }
+  },
+  {
+    "text": "Sách mềm ơi chưa có mã của cuốn kiểm tra thường xuyên định kì lớp 6,7,8,9 à?",
+    "intent": "hoi_sach",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.4169323444366455
+    }
+  },
+  {
+    "text": "ad có sách bài tập nâng cao lớp 8 không?",
+    "intent": "hoi_sach",
+    "intent_prediction": {
+      "name": "xin_dap_an",
+      "confidence": 0.5584283471107483
+    }
+  },
+  {
+    "text": "nhưng cháu đăng kí thành công thì cháu vào đăng nhập nó hiện lên thư rác Spam ạ.",
+    "intent": "thu_rac",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.9561294913291931
+    }
+  },
+  {
+    "text": "Mình muốn tải sách mềm này về cho con mình học",
+    "intent": "che_do_offline",
+    "intent_prediction": {
+      "name": "mua_sach",
+      "confidence": 0.327340692281723
+    }
+  },
+  {
+    "text": "câu hỏi 2: Tại sao tài khoản của em không hiện thị phần tải xuống để dạy offline ạ",
+    "intent": "che_do_offline",
+    "intent_prediction": {
+      "name": "hoi_dap",
+      "confidence": 0.33205920457839966
+    }
+  },
+  {
+    "text": "Sách tiếng anh lớp 6 tập 1 của em xong rồi, giờ chuyển qua quyển 2 làm sao ạ",
+    "intent": "nhap_them_ma",
+    "intent_prediction": {
+      "name": "mua_sach",
+      "confidence": 0.33249133825302124
+    }
+  },
+  {
+    "text": "Ứng dụng này dùng free không ad",
+    "intent": "phi_su_dung",
+    "intent_prediction": {
+      "name": "dong_y",
+      "confidence": 0.2207736074924469
+    }
+  },
+  {
+    "text": "Sách mềm dùng có miễn phí không?",
+    "intent": "phi_su_dung",
+    "intent_prediction": {
+      "name": "mua_sach",
+      "confidence": 0.26706454157829285
+    }
+  },
+  {
+    "text": "cho mình hỏi một mã số có thể dùng trên nhiều thiết bị không",
+    "intent": "da_nen_tang",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.8829394578933716
+    }
+  },
+  {
+    "text": "Mã này dùng được nhiều máy hay 1 máy thôi vậy ad?",
+    "intent": "da_nen_tang",
+    "intent_prediction": {
+      "name": "nhap_them_ma",
+      "confidence": 0.5469512939453125
+    }
+  },
+  {
+    "text": "Cô ơi nếu cháu không có email thì làm như nào ạ",
+    "intent": "ho_tro_email",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.39284011721611023
+    }
+  },
+  {
+    "text": "tại sao em chưa thể dùng sách mềm được mặc dù đã đăng kí",
+    "intent": "loi_dang_ky",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.5608841180801392
+    }
+  },
+  {
+    "text": "em sử dụng ứng dụng không được",
+    "intent": "loi_dang_ky",
+    "intent_prediction": {
+      "name": "loi_dang_nhap",
+      "confidence": 0.5678317546844482
+    }
+  },
+  {
+    "text": "em vừa đăng ký rồi mà không được, ad giúp em với",
+    "intent": "loi_dang_ky",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.9336324334144592
+    }
+  },
+  {
+    "text": "Được bạn nhé",
+    "intent": "dong_y",
+    "intent_prediction": {
+      "name": "khac",
+      "confidence": 0.34162360429763794
+    }
+  },
+  {
+    "text": "Nhất trí!",
+    "intent": "dong_y",
+    "intent_prediction": {
+      "name": "chao_hoi",
+      "confidence": 0.5784024596214294
+    }
+  },
+  {
+    "text": "Ok. Thank you",
+    "intent": "cam_on",
+    "intent_prediction": {
+      "name": "loi_dang_nhap",
+      "confidence": 0.4656272530555725
+    }
+  },
+  {
+    "text": "goodbye, hẹn gặp lại",
+    "intent": "tam_biet",
+    "intent_prediction": {
+      "name": "loi_dang_nhap",
+      "confidence": 0.3593122363090515
+    }
+  },
+  {
+    "text": "tài khoản sách mềm giáo viên của mình gần hết hạn. mình phải mua quyền sử dụng tiếp hay phải làm thế nào để dùng tiếp sách mềm?",
+    "intent": "gia_han",
+    "intent_prediction": {
+      "name": "nhap_them_ma",
+      "confidence": 0.5008866190910339
+    }
+  },
+  {
+    "text": "Sọ Dừa được sinh ra như thế nào ạ?",
+    "intent": "hoi_dap",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.5822345018386841
+    }
+  },
+  {
+    "text": "chị ơi lập hộ em cái gmail",
+    "intent": "hoi_dap",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.9968196153640747
+    }
+  },
+  {
+    "text": "lời giải unit 9 phần getting started lớp 8",
+    "intent": "hoi_dap",
+    "intent_prediction": {
+      "name": "bao_cao",
+      "confidence": 0.19629837572574615
+    }
+  },
+  {
+    "text": "Cho em hỏi làm sao để bật lại chức năng dịch từ tiếng Anh sang tiếng Việt trên sách mềm ạ",
+    "intent": "hoi_dap",
+    "intent_prediction": {
+      "name": "tinh_nang",
+      "confidence": 0.3689858615398407
+    }
+  },
+  {
+    "text": "Mình muốn sách mềm tạo file nhạc không lời cho học sinh hát. Vì những bài hát trong Sách mềm có lời không hà. Được vậy sẽ rất hay ạ",
+    "intent": "bao_cao",
+    "intent_prediction": {
+      "name": "mua_sach",
+      "confidence": 0.27364376187324524
+    }
+  },
+  {
+    "text": "Mình cảm thấy không hài lòng khi sử dụng Sách Mềm",
+    "intent": "bao_cao",
+    "intent_prediction": {
+      "name": "loi_dang_nhap",
+      "confidence": 0.27428558468818665
+    }
+  },
+  {
+    "text": "mình muốn lấy bài powerpoint trên sách mềm thì phải làm thế nào ạ?",
+    "intent": "tinh_nang",
+    "intent_prediction": {
+      "name": "loi_ma_khong_ro",
+      "confidence": 0.28476881980895996
+    }
+  },
+  {
+    "text": "muốn tải sách mềm về và có sách dùng thì làm sao ạ",
+    "intent": "tinh_nang",
+    "intent_prediction": {
+      "name": "mua_sach",
+      "confidence": 0.38796669244766235
+    }
+  },
+  {
+    "text": "Cho tôi xin đề kiểm tra của môn tiếng anh 8 các unit nhé",
+    "intent": "de_kiem_tra",
+    "intent_prediction": {
+      "name": "tinh_nang",
+      "confidence": 0.4043304920196533
+    }
+  },
+  {
+    "text": "Hôm qua em còn thấy sách, hôm nay đăng nhập tài khoản đó sách mất tiêu rồi",
+    "intent": "kt_tai_khoan",
+    "intent_prediction": {
+      "name": "loi_dang_nhap",
+      "confidence": 0.4719224274158478
+    }
+  },
+  {
+    "text": "Ở trang thư mục: mình muốn xem bài tập hỗ trợ nâng cao Tiếng Anh 9 thì chỉ xem được Unit 1 thôi. Và một số sách bài tập khác cũng không xem được. Mình phải làm sao để xem được",
+    "intent": "han_che_sach_gv",
+    "intent_prediction": {
+      "name": "loi_dang_ky",
+      "confidence": 0.3583569824695587
+    }
+  },
+  {
+    "text": "Tôi là giáo viên, tôi vào mà không xem được sách bổ trợ nâng cao tiếng anh",
+    "intent": "han_che_sach_gv",
+    "intent_prediction": {
+      "name": "xin_dap_an",
+      "confidence": 0.4758008122444153
+    }
+  },
+  {
+    "text": "Vậy sách mềm phải có chế tài cho mấy nhà sách bán hàng giả chứ nhỉ",
+    "intent": "phan_biet_sach",
+    "intent_prediction": {
+      "name": "da_nen_tang",
+      "confidence": 0.3662927746772766
+    }
+  },
+  {
+    "text": "Thấy sách vẫn in Nhà Xuất Bản Giáo Dục Việt Nam",
+    "intent": "phan_biet_sach",
+    "intent_prediction": {
+      "name": "tinh_nang",
+      "confidence": 0.3967505991458893
+    }
+  },
+  {
+    "text": "hay sách mềm cho mình xin số điện thoại có gì mình gọi trao đổi cho nhanh có được không?",
+    "intent": "lien_he",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.6002691984176636
+    }
+  },
+  {
+    "text": "tôi đã làm form đăng ký tài khoản giáo viên giờ liên hệ tới đâu ạ",
+    "intent": "lien_he",
+    "intent_prediction": {
+      "name": "ho_tro_email",
+      "confidence": 0.6069245338439941
+    }
+  },
+  {
+    "text": "tôi không thể sử dụng mã của sách mềm",
+    "intent": "nhap_ma",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.9191932082176208
+    }
+  },
+  {
+    "text": "thêm sách là sao vậy chị, mình phải ra ngoài mua sách rồi cào mã thẻ rồi nhập vô mới sử dụng được hả chị?",
+    "intent": "nhap_ma",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.814147412776947
+    }
+  },
+  {
+    "text": "nhập cho tôi sách mềm chưa",
+    "intent": "nhap_ma",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.9381296038627625
+    }
+  },
+  {
+    "text": "Mình đã nhập đi nhập lại rất nhiều lần nhưng vẫn nhận thông báo không phù hợp",
+    "intent": "loi_nhap_ma",
+    "intent_prediction": {
+      "name": "tam_biet",
+      "confidence": 0.6151116490364075
+    }
+  },
+  {
+    "text": "Em nạp số thẻ cào mà không được",
+    "intent": "loi_nhap_ma",
+    "intent_prediction": {
+      "name": "loi_ma_khong_ro",
+      "confidence": 0.7685389518737793
+    }
+  },
+  {
+    "text": "Chị ơi mã số của con em bị sử dụng rồi là thế nào",
+    "intent": "loi_nhap_ma",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.8709516525268555
+    }
+  },
+  {
+    "text": "Tôi đã đăng kí cho con trai lớp 4 hai cuốn với số điện thoại 0903148163, nhưng không thấy cuốn nào. Vậy nhờ quý bạn giúp đỡ.",
+    "intent": "loi_nhap_ma",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.7052764296531677
+    }
+  },
+  {
+    "text": "Khi nhập xong mã sao không nhìn thấy chữ sách mới trên màn hình",
+    "intent": "loi_nhap_ma",
+    "intent_prediction": {
+      "name": "cap_nhat",
+      "confidence": 0.6251583099365234
+    }
+  },
+  {
+    "text": "mã xác nhận thành công vì sao không thấy sách hiện ra",
+    "intent": "loi_ma_thanh_cong",
+    "intent_prediction": {
+      "name": "cap_nhat",
+      "confidence": 0.6250272393226624
+    }
+  },
+  {
+    "text": "em mới dùng mã sách văn thpt 2018-2019, web cũng báo là xác nhận thành công nhưng em vẫn không vào xem được là như nào ạ",
+    "intent": "loi_ma_thanh_cong",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.5305424928665161
+    }
+  },
+  {
+    "text": "Sách của tôi không có mật mã",
+    "intent": "khong_co_ma_sach",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.799263060092926
+    }
+  },
+  {
+    "text": "Bạn có thể cho mình một mã xác nhận để có thể dạy học sinh.",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "nhap_ma",
+      "confidence": 0.6290327906608582
+    }
+  },
+  {
+    "text": "Em đã tạo tài khoản trên sách mềm. Cho em hỏi em muốn sử dụng sách mềm tiếng anh lớp 5 thì phải làm thế nào ạ?",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.883675217628479
+    }
+  },
+  {
+    "text": "tôi rất thích học tiếng anh hãy cho tôi biết mã",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.6478569507598877
+    }
+  },
+  {
+    "text": "Bạn mình là giáo viên tự đăng ký sách mềm vì nơi mình ở không có cv tiếng anh, và mới thêm sách lớp 4 tập 2 qua mã thẻ sau sách vây sacmem có thể cung cấp các mã thẻ cho các lớp còn lại của bậc tiểu học được không ạ",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "khong_co_ma_sach",
+      "confidence": 0.46993324160575867
+    }
+  },
+  {
+    "text": "Sách mềm ơi cho em xin mả sách mềm để đăng nhập vào được không ạ",
+    "intent": "xem_ma",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.7558529376983643
+    }
+  },
+  {
+    "text": "hello",
+    "intent": "chao_hoi",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.2139492928981781
+    }
+  },
+  {
+    "text": "Xin chào hệ thống sách mềm của bộ giáo dục và đào tạo",
+    "intent": "chao_hoi",
+    "intent_prediction": {
+      "name": "khong_co_ma_sach",
+      "confidence": 0.2711973488330841
+    }
+  },
+  {
+    "text": "Thưa quý thầy cô phụ trách sachmem",
+    "intent": "chao_hoi",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.8882601857185364
+    }
+  },
+  {
+    "text": "cho hỏi vì sao khi đăng nhập vào thêm sách máy chỉ cho dùng phiên bản dùng thử mà không có nhập được mã theo sách vậy",
+    "intent": "ban_dung_thu",
+    "intent_prediction": {
+      "name": "da_nen_tang",
+      "confidence": 0.26841115951538086
+    }
+  },
+  {
+    "text": "Mình muốn 1 tài khoản sách mền thì làm như nào vậy mọi người ơi",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "khac",
+      "confidence": 0.32977691292762756
+    }
+  },
+  {
+    "text": "cách đăng kí sách mềm cho giáo viên sao ạ",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "tinh_nang",
+      "confidence": 0.5275894999504089
+    }
+  },
+  {
+    "text": "tôi muốn xem sách mềm lớp 6",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.8249238729476929
+    }
+  },
+  {
+    "text": "Học tiếng anh lớp 6",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "hoi_sach",
+      "confidence": 0.9810880422592163
+    }
+  },
+  {
+    "text": "cách học tiếng anh",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "hoi_dap",
+      "confidence": 0.4511429965496063
+    }
+  },
+  {
+    "text": "Làm thế nào để sử dụng được sách hướng dẫn ôn tập kỳ thi THPT quốc gia năm 2018-2019. Xin cảm ơn.",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.7838605642318726
+    }
+  },
+  {
+    "text": "Tôi muốn hỏi cách đăng nhập sách mềm",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "nhap_ma_sach",
+      "confidence": 0.40646618604660034
+    }
+  },
+  {
+    "text": "Bày cho tôi cách đăng nhập đi chứ tôi không biết cách đánh nhập",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "nhap_ma",
+      "confidence": 0.9641903638839722
+    }
+  },
+  {
+    "text": "sử dụng sách mềm của bên bạn thì cần làm thế nào",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.5451900959014893
+    }
+  },
+  {
+    "text": "chị ơi làm thế nào mới có thể sử dụng sách mềm được ạ",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "tinh_nang",
+      "confidence": 0.6368523836135864
+    }
+  },
+  {
+    "text": "Tại từ hồi chiều mình vào không được",
+    "intent": "loi_dang_nhap",
+    "intent_prediction": {
+      "name": "tam_biet",
+      "confidence": 0.32099124789237976
+    }
+  },
+  {
+    "text": "tôi không đăng nhập được vào sách mềm",
+    "intent": "loi_dang_nhap",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.8990637063980103
+    }
+  },
+  {
+    "text": "tôi không thể đăng nhập sách mềm lớp 4",
+    "intent": "loi_dang_nhap",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.9754191040992737
+    }
+  },
+  {
+    "text": "biến",
+    "intent": "vo_van_hoa",
+    "intent_prediction": {
+      "name": "ban_dung_thu",
+      "confidence": 0.5044417977333069
+    }
+  },
+  {
+    "text": "sao mấy đứa sách mềm ngu hay đi lừa người thế nhỉ",
+    "intent": "vo_van_hoa",
+    "intent_prediction": {
+      "name": "bao_cao",
+      "confidence": 0.5120258331298828
+    }
+  },
+  {
+    "text": "sao địa chỉ lại không được",
+    "intent": "khac",
+    "intent_prediction": {
+      "name": "thu_rac",
+      "confidence": 0.3563094139099121
+    }
+  },
+  {
+    "text": "Bật bằng cánh nào",
+    "intent": "khac",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.6511404514312744
+    }
+  },
+  {
+    "text": "Vậy mình chụp và gửi lại cho bên sách mềm xem",
+    "intent": "khac",
+    "intent_prediction": {
+      "name": "thu_rac",
+      "confidence": 0.4827600419521332
+    }
+  },
+  {
+    "text": "Cho mình hỏi tại sao sách giáo khoa lớp 7 tập 1 mình vẫn còn 284 ngày nữa mới hết hạn mà sao bây giờ không nghe được nhỉ",
+    "intent": "cap_nhat",
+    "intent_prediction": {
+      "name": "bao_cao",
+      "confidence": 0.37463217973709106
+    }
+  },
+  {
+    "text": "Khi mình tải đề kiểm tra về thì hình ảnh không hiển thị ạ",
+    "intent": "cap_nhat",
+    "intent_prediction": {
+      "name": "de_kiem_tra",
+      "confidence": 0.5052054524421692
+    }
+  },
+  {
+    "text": "làm sao để xem đáp án của bài tập tiếng anh lớp 7 tập 1 vậy?",
+    "intent": "xin_dap_an",
+    "intent_prediction": {
+      "name": "khong_co_ma_sach",
+      "confidence": 0.5222503542900085
+    }
+  },
+  {
+    "text": "tôi muốn xem đáp án của tiếng anh lớp 6 tập 2",
+    "intent": "xin_dap_an",
+    "intent_prediction": {
+      "name": "khong_co_ma_sach",
+      "confidence": 0.5558889508247375
+    }
+  },
+  {
+    "text": "Tôi nhập 1 mã sách cho 2 quyển tiếng anh được không?",
+    "intent": "the_cao",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.7819582223892212
+    }
+  },
+  {
+    "text": "làm sao kiểm tra thời hạn sử dụng sách mềm ad nhỉ?",
+    "intent": "the_cao",
+    "intent_prediction": {
+      "name": "loi_ma_khong_ro",
+      "confidence": 0.4556335508823395
+    }
+  },
+  {
+    "text": "muốn nâng cấp lên tài khoản giáo viên dùng được nhiều hơn thì phải làm sao?",
+    "intent": "tai_khoan_gv",
+    "intent_prediction": {
+      "name": "ban_dung_thu",
+      "confidence": 0.5115079283714294
+    }
+  },
+  {
+    "text": "Tôi xin xác nhận BGH nhà trường như thế nào? Xin xác nhận được tôi gửi qua mạng được không?",
+    "intent": "tai_khoan_gv",
+    "intent_prediction": {
+      "name": "thu_rac",
+      "confidence": 0.7039772868156433
+    }
+  },
+  {
+    "text": "Mình muốn thử nghiệm tiếng anh và toán học",
+    "intent": "hoi_sach",
+    "intent_prediction": {
+      "name": "loi_ma_thanh_cong",
+      "confidence": 0.785347580909729
+    }
+  },
+  {
+    "text": "Chị ơi có sách giải bài tập tiếng việt và bài tập toán không chị",
+    "intent": "hoi_sach",
+    "intent_prediction": {
+      "name": "hoi_dap",
+      "confidence": 0.7250834107398987
+    }
+  },
+  {
+    "text": "Anh chị cho em hỏi bên mình có cung cấp bộ truyện Story Land không ạ",
+    "intent": "hoi_sach",
+    "intent_prediction": {
+      "name": "mua_sach",
+      "confidence": 0.5857198238372803
+    }
+  },
+  {
+    "text": "spam nằm ở đâu",
+    "intent": "thu_rac",
+    "intent_prediction": {
+      "name": "chao_hoi",
+      "confidence": 0.4354466199874878
+    }
+  },
+  {
+    "text": "mình đã làm như yêu cầu của công ty đăng kí để được cấp quyền sử dụng. công ty có feedback lại mình là sau 1 tuần sẽ có kết quả. đến nay gần 1 tháng rồi sao mình vẫn không được hồi âm vậy ạ",
+    "intent": "thu_rac",
+    "intent_prediction": {
+      "name": "lien_he",
+      "confidence": 0.39663198590278625
+    }
+  },
+  {
+    "text": "làm ơn rep mail của tôi",
+    "intent": "thu_rac",
+    "intent_prediction": {
+      "name": "loi_ma_thanh_cong",
+      "confidence": 0.2862965762615204
+    }
+  },
+  {
+    "text": "Cho mình hỏi chút mình có tải trên máy tính nhưng không được phân mềm: từ vựng tiếng Anh sách mềm. Có cần phải tải phần mềm khác nào nữa không?",
+    "intent": "tu_vung",
+    "intent_prediction": {
+      "name": "tinh_nang",
+      "confidence": 0.7952947616577148
+    }
+  },
+  {
+    "text": "Em muốn nhớ được các từ tiếng anh mà chưa tìm được file từ vựng",
+    "intent": "tu_vung",
+    "intent_prediction": {
+      "name": "hoi_dap",
+      "confidence": 0.35943126678466797
+    }
+  },
+  {
+    "text": "có tải được sách mềm về máy tính không? trường tôi mạng yếu chập chờn nên tôi muốn tải về máy tính dạy cho ổn định",
+    "intent": "che_do_offline",
+    "intent_prediction": {
+      "name": "tinh_nang",
+      "confidence": 0.8725741505622864
+    }
+  },
+  {
+    "text": "Em đang chỉ xem được đến unit 3, muốn xem các unit sau của cuốn tiếng anh 7 phải làm sao nhỉ ad",
+    "intent": "nhap_them_ma",
+    "intent_prediction": {
+      "name": "cap_nhat",
+      "confidence": 0.2095727026462555
+    }
+  },
+  {
+    "text": "Tôi đăng ký tài khoản xong rồi giờ vào phải nạp tiền để dùng sách à",
+    "intent": "phi_su_dung",
+    "intent_prediction": {
+      "name": "ban_dung_thu",
+      "confidence": 0.3399408459663391
+    }
+  },
+  {
+    "text": "tôi sử dụng máy tính nhưng tài khoản của điện thoại khác vậy tôi có thể sử dụng phần mềm không",
+    "intent": "da_nen_tang",
+    "intent_prediction": {
+      "name": "nhap_ma",
+      "confidence": 0.6583927869796753
+    }
+  },
+  {
+    "text": "Sách mềm ơi. Không có mạng có sử dụng được sách mềm không",
+    "intent": "da_nen_tang",
+    "intent_prediction": {
+      "name": "loi_ma_khong_ro",
+      "confidence": 0.4813392162322998
+    }
+  },
+  {
+    "text": "tôi có thể tải sách mềm mà không cần email được không",
+    "intent": "ho_tro_email",
+    "intent_prediction": {
+      "name": "tinh_nang",
+      "confidence": 0.3377634882926941
+    }
+  },
+  {
+    "text": "cho hỏi nếu ko có địa chỉ email thì phải làm sao để đăng nhập vào zậy ạ",
+    "intent": "ho_tro_email",
+    "intent_prediction": {
+      "name": "tai_khoan",
+      "confidence": 0.7058925628662109
+    }
+  },
+  {
+    "text": "em đã làm theo mà không đăng ký thành công",
+    "intent": "loi_dang_ky",
+    "intent_prediction": {
+      "name": "loi_ma_thanh_cong",
+      "confidence": 0.5918468832969666
+    }
+  },
+  {
+    "text": "tôi đã làm theo video đăng ký mà không thành công",
+    "intent": "loi_dang_ky",
+    "intent_prediction": {
+      "name": "loi_ma_thanh_cong",
+      "confidence": 0.567691445350647
+    }
+  },
+  {
+    "text": "Được nhé ad",
+    "intent": "dong_y",
+    "intent_prediction": {
+      "name": "khac",
+      "confidence": 0.3506244122982025
+    }
+  },
+  {
+    "text": "Đồng quan điểm",
+    "intent": "dong_y",
+    "intent_prediction": {
+      "name": "che_do_offline",
+      "confidence": 0.21996456384658813
+    }
+  },
+  {
+    "text": "mình có tài khoản sách mềm rồi nhưng hạn dùng của mình chỉ còn 24 ngày nữa nên mình muốn xin thêm hạn dùng 1 năm nữa",
+    "intent": "gia_han",
+    "intent_prediction": {
+      "name": "thu_rac",
+      "confidence": 0.42268434166908264
+    }
+  },
+  {
+    "text": "Muốn dùng mãi làm thế nào",
+    "intent": "gia_han",
+    "intent_prediction": {
+      "name": "kt_tai_khoan",
+      "confidence": 0.22339260578155518
+    }
+  },
+  {
+    "text": "tôi không biết tạo email",
+    "intent": "hoi_dap",
+    "intent_prediction": {
+      "name": "ho_tro_email",
+      "confidence": 0.4830198585987091
+    }
+  },
+  {
+    "text": "từ mới, ngữ pháp unit 1, 2, 3 là gì?",
+    "intent": "hoi_dap",
+    "intent_prediction": {
+      "name": "bao_cao",
+      "confidence": 0.43341946601867676
+    }
+  },
+  {
+    "text": "Đặt 5 câu với 5 từ like, love, enjoy, hate, dislike",
+    "intent": "hoi_dap",
+    "intent_prediction": {
+      "name": "khac",
+      "confidence": 0.39122769236564636
+    }
+  },
+  {
+    "text": "Sách mềm ơi. Sao phần nghe không nghe được vậy",
+    "intent": "bao_cao",
+    "intent_prediction": {
+      "name": "kt_tai_khoan",
+      "confidence": 0.8228400945663452
+    }
+  },
+  {
+    "text": "admin kiểm tra lại web trên PC đi nhé. xem sách toàn hiện lỗi 404",
+    "intent": "bao_cao",
+    "intent_prediction": {
+      "name": "loi_dang_nhap",
+      "confidence": 0.4119480848312378
+    }
+  },
+  {
+    "text": "Bạn ơi phục hồi giúp mình tài khoản: maikhanh7376@gmail.com. Mình cảm ơn bạn nha",
+    "intent": "tai_khoan",
+    "intent_prediction": {
+      "name": "ho_tro_email",
+      "confidence": 0.4082241952419281
+    }
+  },
+  {
+    "text": "Sách này có bán ở các nhà sách không? Mình ở Bạc Liêu.",
+    "intent": "mua_sach",
+    "intent_prediction": {
+      "name": "loi_nhap_ma",
+      "confidence": 0.7061835527420044
+    }
+  },
+  {
+    "text": "Cho 1 quyển vở bài tập tiếng anh 9 tập 2",
+    "intent": "mua_sach",
+    "intent_prediction": {
+      "name": "hoi_sach",
+      "confidence": 0.43188533186912537
+    }
+  },
+  {
+    "text": "dạ. ad ơi. em cần mua mã sách mềm bài tập tiếng anh lớp 1 để dạy mà trong em thì k có ạ",
+    "intent": "mua_sach",
+    "intent_prediction": {
+      "name": "khong_co_ma_sach",
+      "confidence": 0.6590606570243835
+    }
+  },
+  {
+    "text": "Ad ơi cho mình hỏi Bài Tập Cuối Tuần Tiếng Anh Lớp 4 Tập 1, 2 thì mua ở đâu ạ?",
+    "intent": "mua_sach",
+    "intent_prediction": {
+      "name": "hoi_sach",
+      "confidence": 0.6900771260261536
+    }
+  },
+  {
+    "text": "làm thế nào để mình mua được sách có thẻ cào sách mềm?",
+    "intent": "mua_sach",
+    "intent_prediction": {
+      "name": "xem_ma",
+      "confidence": 0.933121383190155
+    }
+  },
+  {
+    "text": "Làm sao mà copy từ sgv bản pdf vào giáo án word toàn bị lỗi thôi",
+    "intent": "tinh_nang",
+    "intent_prediction": {
+      "name": "ban_dung_thu",
+      "confidence": 0.287809818983078
+    }
+  },
+  {
+    "text": "cho tôi xem đề kiểm tra môn anh 9 1 tiết lần 1",
+    "intent": "tinh_nang",
+    "intent_prediction": {
+      "name": "de_kiem_tra",
+      "confidence": 0.8998695611953735
+    }
+  },
+  {
+    "text": "Em mới sử dụng nên chưa hiểu rõ",
+    "intent": "tinh_nang",
+    "intent_prediction": {
+      "name": "gia_han",
+      "confidence": 0.2875218093395233
+    }
+  },
+  {
+    "text": "trắc nghiệm môn anh 9 cuối học kì 2 của chương trình mới",
+    "intent": "de_kiem_tra",
+    "intent_prediction": {
+      "name": "hoi_sach",
+      "confidence": 0.4619911015033722
+    }
+  },
+  {
+    "text": "Để xem đề kiểm tra thì vào đâu nhỉ ad",
+    "intent": "de_kiem_tra",
+    "intent_prediction": {
+      "name": "kt_tai_khoan",
+      "confidence": 0.2896234095096588
+    }
+  },
+  {
+    "text": "hôm nay mình lại không nhìn thấy sách học sinh lớp 2",
+    "intent": "kt_tai_khoan",
+    "intent_prediction": {
+      "name": "thu_rac",
+      "confidence": 0.2742362320423126
+    }
+  },
+  {
+    "text": "Bạn xem giúp mình với, tài khoản mình vào toàn bị lỗi thôi",
+    "intent": "kt_tai_khoan",
+    "intent_prediction": {
+      "name": "ban_dung_thu",
+      "confidence": 0.3811991512775421
+    }
+  },
+  {
+    "text": "Mình mua sách về mà không nghe được bài giảng, không biết phải sách giả không nhỉ?",
+    "intent": "phan_biet_sach",
+    "intent_prediction": {
+      "name": "cap_nhat",
+      "confidence": 0.5969135761260986
+    }
+  }
+]
